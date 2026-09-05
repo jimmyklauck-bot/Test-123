@@ -20,11 +20,13 @@ Compiled 2026-09-03, revised 2026-09-04 after a second pass and a website sweep.
 | Person CPA Group | Matthew C. Person, CPA | Metairie (3200 Lake Villa Dr) | https://personcpagroup.com | Partial. Directories list under CIRA. |
 | Gateway Financial Advisors (New Orleans office) | David C. King, CFP | New Orleans (1220 Annunciation St) | https://www.gatewaynola.com | Partial. Gateway site snippet carries the Cambridge disclosure. |
 | David Smith Financial Services | David E. Smith | Bossier City (1911 Citizens Bank Dr, Ste 102) | No site found. BBB: https://www.bbb.org/us/la/bossier-city/profile/investment-advisory-services/david-smith-financial-services-1015-90083795 | Partial. |
+| TORO Asset Management, LLC | Scott Serio (lead); Jeremy Werner | Shreveport (910 Pierremont Rd, Ste 410); Lafayette | https://toroasset.com | Partial. Site snippet quotes the Cambridge BD/RIA disclosure. DBA; BrokerCheck shows Cambridge. |
+| Cypress Wealth Management | Paul L. Thiels, AIF, CPWA | New Orleans (900 Camp St, Ste 3C10) | https://cypressadvisor.com | Lead. Wealthminder shows Cambridge; AdvisorCheck shows J.W. Cole. Same building as the Cambridge branch. Confirm on BrokerCheck. |
 | OakMark Wealth | Michael Spielmann; Cody Delcambre; Karl Hector | Lafayette (102 Asma Blvd, Ste 108) | https://oakmarkwealth.com | Partial. Site snippet quotes the Cambridge disclosure. |
 | Authentic Financial Advisors LLC | Ursula Hand | Abita Springs (71128 Hwy 59, Ste 100) | No site found | Partial. |
 | (No DBA found) | Lavon Welch | Covington (1978 N Hwy 190, Ste A) | No site found | Partial. |
 
-Checked and excluded: Paul Thiels (New Orleans) is now at Cypress Wealth Management; Jeremy Werner (Shreveport) and Scott Serio (Carencro) are now at TORO Asset Management; Pierre Villere (Metairie) is at Stratos Wealth Advisors; Elanna Gould is in Beachwood, Ohio. Indyfin also lists Cambridge branches in Welsh and River Ridge with no advisor named.
+Checked and excluded: Pierre Villere (Metairie) is at Stratos Wealth Advisors, an LPL-affiliated RIA; Elanna Gould is in Beachwood, Ohio. Note: LinkedIn firm names are usually DBAs under the network, so a different name on LinkedIn is not by itself a departure. Indyfin also lists Cambridge branches in Welsh and River Ridge with no advisor named.
 
 ---
 
@@ -62,6 +64,7 @@ Checked and excluded: Montz Harcus Wealth Management and Lyons Capital Group are
 | Rainier Wealth Planning | Jason Rainier, CFP | Baton Rouge | https://www.rainierwealth.com | Lead. Listed under Osaic Wealth; also described as own RIA. |
 | (Ex-Lincoln office) | Joseph G. Falgoust | Baton Rouge (6709 Perkins Rd) | No site found | Partial. Osaic Wealth and Osaic Advisory at this address. |
 | (Sole practitioner) | Ann Singleton | Baton Rouge (3265 Kleinert Ave) | No site found | Partial. Legacy FSC. |
+| Cadence Insurance / Gallagher (bank-insurance channel) | Charles J. Abboud, CFP | Baton Rouge (4041 Essen Ln) | No site found | Lead. US News shows Osaic Wealth (recent); Wealthminder shows LPL. Confirm on BrokerCheck. |
 | Former Lincoln Financial Advisors office | Not named | Baton Rouge (2237 S. Acadian Thruway, Ste 101) | None | Lead. |
 | Preservation Wealth Management | John Robinson (owner); Justin Bardwell | Metairie (3500 N. Causeway Blvd, Ste 120) | https://www.preservation-wealth.com | Partial. Snippet quotes Osaic Wealth disclosure. |
 | River Tower Wealth Management | Pierce Adams, CFP | Metairie (3300 W. Esplanade Ave, Ste 608) | https://www.rivertowerwealth.com | Partial. |
@@ -77,7 +80,7 @@ Checked and excluded: Montz Harcus Wealth Management and Lyons Capital Group are
 | Generational Financial Advisors (Chris Harbuck Investments) | Chris Harbuck, CFP; Janice F. Watt, CPA | Shreveport (8518 Line Ave, Ste 103) | https://www.gfapartners.com | Partial. Legacy Royal Alliance. |
 | Osaic Wealth branch (Badt dba JMB Wealth Management) | Mark Kay; Joe Badt Jr.; Norman Cone | Shreveport (1829 Corporate Dr) | No site found | Partial. Legacy Securities America. |
 
-Checked and excluded: Charles Abboud (Baton Rouge) is now at LPL; Loretta Hill's Osaic registration in Hammond ended Dec 2024; Clay Cooper (Pineville) left Osaic for his own RIA; Gary Graham (Monroe) is a former Osaic advisor now at Graham, Bordelon, Golson & Gilbert; Tina Ferrell (Baton Rouge) moved to Gallagher. Osaic Institutions (bank channel): no Louisiana bank or credit union program surfaced in any directory.
+Checked and excluded: Loretta Hill's Osaic registration in Hammond ended Dec 2024; Clay Cooper (Pineville) left Osaic for his own RIA; Gary Graham (Monroe) is a former Osaic advisor now at Graham, Bordelon, Golson & Gilbert; Tina Ferrell (Baton Rouge) moved to Gallagher. Osaic Institutions (bank channel): no Louisiana bank or credit union program surfaced in any directory.
 
 ---
 
@@ -112,9 +115,10 @@ Checked and excluded: Charles Abboud (Baton Rouge) is now at LPL; Loretta Hill's
 | Mitchen Wealth Management | Eric W. Mitchen, CFP; Richard E. Mitchen | Baton Rouge (4757 Millwood Dr) | https://www.mitchenwealth.com | Avantax | Partial. |
 | Providence Wealth Strategies | Payton Denney | Shreveport (7607 Fern Ave, Ste 302) | https://www.totuswm.com/providence-wealth-strategies | Cetera Advisors | Partial. |
 | Thomas & Brubaker CPAs | Robert L. Brubaker II, CPA | Shreveport (850 Olive St, Ste C) | https://www.thomasbrubaker.com | Cetera Wealth Services | Partial. |
+| (No DBA found) | Bruce Eisen | Lake Charles (1918 Southwood Dr, Ste A) | No site found | Cetera Advisor Networks | Partial. SEC IAPD current: Cetera. Address is shared with an LPL office. |
 | Cetera Investment Advisers offices | Not named | Pineville / Tioga (3916 Parliament Dr); Madisonville (69360 LA-21); Prairieville; Greenwell Springs (8789 Arnold Rd) | None | Cetera Investment Advisers / Avantax | Lead. |
 
-Checked and excluded: Robert Yarbrough (West Monroe) left Cetera for LPL in 2025. Bruce Eisen (Lake Charles) lists LPL on LinkedIn and his address is an LPL office. Summit Financial Wealth Advisors (Lafayette) is now a Focus Financial RIA; the Summit Brokerage disclosure in one snippet is stale.
+Checked and excluded: Robert Yarbrough (West Monroe) left Cetera for LPL in 2025. Summit Financial Wealth Advisors (Lafayette) is now a Focus Financial RIA; the Summit Brokerage disclosure in one snippet is stale.
 
 ### Bank and credit union programs (Cetera Investment Services)
 
@@ -158,9 +162,10 @@ No Kestra presence surfaced in New Orleans, the Northshore, Lafayette proper, Sh
 |---|---|---|---|---|
 | Iron Horse Financial (Guardian general agency for Louisiana; PAS OSJ 9800 Airline Hwy, Baton Rouge) | John Paul Caswell (President); Stephen Rouprich; Charles Duplechain; Kyle Sharbaugh; Ellen Alderman; Christopher Jackler; Bryan Touchet; Michael "Mac" Sanford; Charles Alexander; Donald Kaufmann; James Leatherman; Merl Schexnaildre | Baton Rouge (10000 Perkins Rowe, Ste G350); Lafayette (3909 Ambassador Caffery Pkwy); Mandeville (2315 Florida St, Ste 117); also New Orleans, Alexandria, Hammond, Ruston | https://www.myihf.com ; https://www.ironhorse-financial.com | Partial. Agency site snippet carries the full PAS disclosure. Lafayette office answers the earlier "PAS Lafayette branch" gap. |
 | Team Sharbaugh (Iron Horse team site) | Kyle Sharbaugh + team | Baton Rouge | https://www.teamsharbaugh.com | Partial. |
+| Hudnall Wealth LLC (dba; Rethink Wealth team) | Christian T. Hudnall | Shreveport (910 Pierremont Rd, Ste 107) | https://www.rethinkwealth.com ; Facebook: https://www.facebook.com/HudnallWealth1/ | Partial. BrokerCheck: still registered with PAS; site states Hudnall Wealth is not an affiliate of PAS or Guardian. |
 | Strategic Wealth Specialists (Guardian agency; Mobile AL based, Metairie office) | Richard H. Villavaso; Alex Villavaso; Kenneth J. Uhlich; John Hooper; Katherine Almerico | Metairie (3300 W. Esplanade Ave, Ste 210) | https://www.strategicwealthspecialists.com | Partial. Agency site: "Securities products and advisory services offered through Park Avenue Securities." |
 
-Checked and excluded: Christian Hudnall shows a Shreveport PAS registration on Wealthminder but now operates from Dallas (Ashford Advisors). No standing Guardian office in Shreveport surfaced.
+No standing Guardian general-agency office in Shreveport surfaced; Hudnall is the only PAS registrant found there.
 
 ---
 
