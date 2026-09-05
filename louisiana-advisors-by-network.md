@@ -1,6 +1,6 @@
 # Louisiana Financial Advisors by Broker-Dealer / RIA Network
 
-Compiled 2026-09-03, revised 2026-09-04 after a second pass and a website sweep. Networks covered: Cambridge, NewEdge, Osaic, Cetera (incl. Avantax and the bank channel), Arkadios, Kestra, Park Avenue Securities.
+Compiled 2026-09-03, revised 2026-09-04 after a second pass, a website sweep, and a third pass over the bank, CPA, and small-city channels. Networks covered: Cambridge, NewEdge, Osaic, Cetera (incl. Avantax and the bank channel), Arkadios, Kestra, Park Avenue Securities.
 
 **How to read the confidence column.** Every advisor website and BrokerCheck page was blocked from direct fetch by the network proxy, so no footer disclosure was read on-page. "Partial" means the Louisiana address and the network affiliation both appeared in search-result snippets from the firm's own site, a press release, or a BrokerCheck-derived directory (Indyfin, SmartAdvisorMatch, getwarmer, Wealthminder, US News). "Lead" means one signal only. Confirm on BrokerCheck before outreach.
 
@@ -50,7 +50,7 @@ Note: NewEdge Advisors is headquartered at 858 Camp St, New Orleans. Directories
 | Papa Financial Services | Brandon C. Papa | Shreveport (2950 Fairfield Ave) | https://www.papafinancialservices.com | Partial. Same building as Goss and Hughes. |
 | Covington branch | Not identified | Covington | None | Lead. |
 
-Checked and excluded: Montz Harcus Wealth Management and Lyons Capital Group are standalone RIAs with no NewEdge tie.
+Checked and excluded: Montz Harcus Wealth Management and Lyons Capital Group are standalone RIAs with no NewEdge tie. Michael Kreimer (registered New Orleans/Slidell) runs AssetWise Financial Group out of Charlotte, NC.
 
 ---
 
@@ -74,13 +74,19 @@ Checked and excluded: Montz Harcus Wealth Management and Lyons Capital Group are
 | The ROCK Financial Group | David L. Mire; Austin Mire; Blake Harper; Wendel Guidry; Jake Richard; Larry Hair (Pineville office, 3340 Military Hwy Ste C) | Lafayette (106 Sears Dr); Pineville | https://www.therockfinancialgroup.net | Partial. Legacy Royal Alliance. |
 | Retirement Resources of Louisiana, Inc. | Clint C. Laviolette | Lafayette (1007 St. John St) | https://ivanlafrance.sarep.com | Partial. Legacy Securities America rep site; confirm it is current. |
 | Capital Investment Advisors | Lane E. Tamburo; Dana Sagrera | Lafayette (1318 Camellia Blvd, Ste 301) | https://www.ciawealth.com | Partial. Osaic Wealth since Jan 2024; legacy Woodbury. |
+| Hornbrook Law Firm (attorney-advisor) | Carlos J. Hornbrook | New Orleans (700 S. Peters St, Ste 315) | http://www.hornbrooklawfirm.com | Partial. Osaic Wealth since 2023; legacy FSC. |
+| (No DBA found) | Donald R. Bourgeois Jr. | Arabi (St. Bernard Parish) | No site found | Partial. Legacy Woodbury; annuity focus. |
+| (No DBA found) | Eric Dubroc | Mandeville | No site found | Partial. Legacy Securities America. |
+| (No DBA found; legacy Woodbury office) | Denise Badgerow | Thibodaux (206 Green St, Ste 106) | No site found | Partial. |
+| (No DBA found) | Gene H. Davis Jr. | Alexandria | No site found | Partial. SEC IAPD: Osaic. |
+| Kees Financial Services | David H. Kees Sr. | Natchitoches (113 South Dr, Ste 4; 505 Royal St) | No site found | Partial. Legacy SagePoint. |
 | Ferdinandsen Financial Group | Not named | Lake Charles (5901 Gray Market Dr, Ste A) | https://www.ferdinandsenfinancial.com | Partial. |
 | Marshal D. Baggett, CFP | Marshal Baggett | Lake Charles (647 W Prien Lake Rd) | http://www.doctorofstocks.com | Partial. |
 | Tauzin Financial Group | J. Tauzin | Bossier City (440 Benton Rd, Ste A) | http://www.tauzinfinancial.com | Partial. |
 | Generational Financial Advisors (Chris Harbuck Investments) | Chris Harbuck, CFP; Janice F. Watt, CPA | Shreveport (8518 Line Ave, Ste 103) | https://www.gfapartners.com | Partial. Legacy Royal Alliance. |
 | Osaic Wealth branch (Badt dba JMB Wealth Management) | Mark Kay; Joe Badt Jr.; Norman Cone | Shreveport (1829 Corporate Dr) | No site found | Partial. Legacy Securities America. |
 
-Checked and excluded: Loretta Hill's Osaic registration in Hammond ended Dec 2024; Clay Cooper (Pineville) left Osaic for his own RIA; Gary Graham (Monroe) is a former Osaic advisor now at Graham, Bordelon, Golson & Gilbert; Tina Ferrell (Baton Rouge) moved to Gallagher. Osaic Institutions (bank channel): no Louisiana bank or credit union program surfaced in any directory.
+Checked and excluded: MÄTIS Financial (Metairie) and deMauriac (New Orleans) are standalone RIAs that surface in Osaic searches but are not affiliated; Loretta Hill's Osaic registration in Hammond ended Dec 2024; Clay Cooper (Pineville) left Osaic for his own RIA; Gary Graham (Monroe) is a former Osaic advisor now at Graham, Bordelon, Golson & Gilbert; Tina Ferrell (Baton Rouge) moved to Gallagher. Osaic Institutions (bank channel): no Louisiana bank or credit union program surfaced in any directory.
 
 ---
 
@@ -98,20 +104,26 @@ Checked and excluded: Loretta Hill's Osaic registration in Hammond ended Dec 202
 | Cetera Investors, Baton Rouge branch | Jared Mire (branch manager); Dana Barrett; Kevin Caillouet | Baton Rouge (8550 United Plaza Blvd, Ste 108) | https://cetera.com/branch/baton-rouge | Cetera Investment Services | Partial. Official branch page. |
 | Compass Capital Management | Carman Bruno; Bryan Bruno; Frederick Bates; also at this office: Joseph Cantrell, Glenn Gillen Jr., Edward Landry, Christopher McCauley, James Rosenbloom | Metairie (3445 N. Causeway Blvd, Ste 1000) | https://www.compasscapitalweb.com | Cetera Wealth Services / Cetera Investment Advisers | Partial. |
 | Robert Dugas, CPA | Robert J. Dugas | Metairie (3525 N. Causeway Blvd) | No site found | Cetera Investment Advisers | Partial. |
-| CoSource Financial Group | Beau Beaullieu + team | New Orleans (880 W. Commerce Rd, Ste 404) | https://www.cosourcefinancial.com | Cetera Investment Advisers | Partial. |
+| CoSource Financial Group | Beau Beaullieu; Shawn P. Harrison (New Iberia) + team | New Orleans (880 W. Commerce Rd, Ste 404); New Iberia (152 W. Main St) | https://www.cosourcefinancial.com | Cetera Investment Advisers | Partial. |
 | Schexnayder Wealth Advisors | Nolan H. Schexnayder, CPA, PFS | LaPlace (330 Belle Terre Blvd, Ste 201) | https://www.schexwealth.com | Cetera Investment Advisers (via Farpointe); ex-Cetera Financial Specialists | Partial. $190M; Cetera Diamond Council 2021. |
 | Sandra Gallo Gibson, CPA | Sandra Gallo Gibson, PFS | Chalmette (2700 Gallo Dr); Mandeville (1127 N. Causeway Blvd) | https://sandragallogibson.com | Avantax / Cetera | Partial. |
 | Patin Wealth Partners | Gerard L. Patin, CFP; Kristan Patin; Jordan Morse | Lafayette (2014 W. Pinhook Rd, Ste 502) | https://www.patinwealthpartners.com | Cetera Advisors | Partial. Site snippet quotes Cetera Advisors disclosure. |
 | CanAm Wealth | Michael Gurzi | Lafayette (1201 Camellia Blvd, Ste 209) | https://www.canamwealth.com | Cetera (since 2019; ex-Summit) | Partial. |
 | Helm Financial Group | Neil J. Fontenot | Lafayette (2511 Verot School Rd) | https://www.helmfinancialgroup.com | Cetera Wealth Services / Cetera Investment Advisers | Partial. |
 | (No DBA found) | Jeffrey C. Johnson | Lafayette | No site found | Cetera Advisors (since 2014) | Partial. |
-| Darnall Sikes Wealth Partners (sister firm Darnall Sikes & Frederick CPAs) | Adam Curry, CPA, CFP; Matthew Boudreaux; Jennifer Mouton; Michael Domingue; Benjamin Baudoin; Michelle Inzerella Keenan | Lafayette (2000 Kaliste Saloom Rd, Ste 300); New Iberia (1101 E. Admiral Doyle Dr) + 2 other LA offices | https://darnallsikeswealth.com ; https://www.dsfcpas.com | Avantax Planning Partners (~$1.9B) | Partial. |
+| Darnall Sikes Wealth Partners (sister firm Darnall Sikes & Frederick CPAs) | Adam Curry, CPA, CFP; Matthew Boudreaux; Jennifer Mouton; Michael Domingue; Russell Brown; Cole Griffin; Benjamin Baudoin; Michelle Inzerella Keenan | Lafayette (2000 Kaliste Saloom Rd, Ste 300); New Iberia (1101 E. Admiral Doyle Dr) + 2 other LA offices | https://darnallsikeswealth.com ; https://www.dsfcpas.com | Avantax Planning Partners (~$1.9B) | Partial. |
+| Texada Wealth Management (Horizon Advisor Network affiliate) | Dan Texada | Covington (404 E. Gibson St, Ste 2D) | https://www.texadawealth.com | Cetera Investment Advisers / Cetera Advisors | Partial. Listed as a Horizon Advisor Network affiliated office. |
+| Broussard, Poche, Lewis & Breaux CPAs | Craig J. Viator, CPA | New Iberia (146 W. Main St) | No site found | Cetera (ex-Avantax / 1st Global) | Partial. |
+| Agee Financial Group LLC | Kenneth L. Agee | Lake Charles | No site found | Cetera Investment Advisers (ex-SagePoint) | Partial. |
+| (No DBA found) | Michael R. Cournoyer, CFP, ChFC | DeRidder / DeQuincy | No site found | Cetera Wealth Services (since 2013) | Partial. |
 | Inzerella, Feldman & Pourciau CPAs | Gregory J. Inzerella, CPA | New Iberia (152 W. Main St; CPA office 1305 20 Arpent Rd) | No site found | Avantax | Partial. |
 | Kolder, Slaven & Company CPAs | Casey L. Ardoin, CPA, CFE | Ville Platte (434 E. Main St) | https://www.kcsrcpas.com | Cetera Investment Advisers | Partial. |
-| Empower Wealth Management | Albert R. Leger, CFP, CPA, PFS | Marksville (133 E. Waddil St) | https://www.empowerwealth.net | Cetera Investment Advisers | Partial. |
+| Empower Wealth Management | Albert R. Leger, CFP, CPA, PFS; Chrystal R. Adams, CFP, EA (owner) | Marksville (133 E. Waddil St; 554 Tunica Dr W) | https://www.empowerwealth.net | Cetera Investment Advisers | Partial. |
 | Moreau & Nochta, LLC | Maria Moreau | Marksville (410 Main St) | No site found | Cetera Investment Advisers; ex-First Allied | Partial. |
 | Oestriecher Financial Management Services | Anne M. Oestriecher, CPA, CFP; Christopher Daigrepont; William Whisenant | Alexandria (4641 Windermere Pl) | https://o-fms.com | Avantax (joined Oct 2025; $154M) | Partial. |
 | Brazzel Wealth Management | Toby Brazzel; Kelli Brazzel; Ricky Brazzel | Alexandria (1705 Simmons St) | https://www.brazzelwealthmgt.com | Avantax (joined Mar 2025; ~$80M) | Partial. |
+| Richard P. Reiser Jr., CPA, PFS | Richard P. Reiser Jr. | Kenner (5017 Craig Ave) | https://www.richardpreiserjr.com | Avantax | Partial. |
+| Charles E. Scarbrough, CPA | Charles E. Scarbrough, PFS | DeRidder (109 N. Washington Ave) | No site found. Facebook: https://www.facebook.com/cescpa68/ | Avantax | Partial. |
 | Mitchen Wealth Management | Eric W. Mitchen, CFP; Richard E. Mitchen | Baton Rouge (4757 Millwood Dr) | https://www.mitchenwealth.com | Avantax | Partial. |
 | Providence Wealth Strategies | Payton Denney | Shreveport (7607 Fern Ave, Ste 302) | https://www.totuswm.com/providence-wealth-strategies | Cetera Advisors | Partial. |
 | Thomas & Brubaker CPAs | Robert L. Brubaker II, CPA | Shreveport (850 Olive St, Ste C) | https://www.thomasbrubaker.com | Cetera Wealth Services | Partial. |
@@ -124,7 +136,7 @@ Checked and excluded: Robert Yarbrough (West Monroe) left Cetera for LPL in 2025
 
 | Institution / program | Advisors surfaced | Louisiana offices | Website | Confidence |
 |---|---|---|---|---|
-| Hancock Whitney Financial Consultants (marketing name of Cetera Investment Services; program HQ Denham Springs, 525 Florida Ave SW) | Jerry (Gerald) Graves, Trey Nordan, Sondra Robbins, Jeffrey Roy (Baton Rouge); Jeff Heard (Lafayette); Kyle Hughes, Patrick McCraw (New Orleans); Beau Fontenot (Covington, 805 N Collins Blvd); Benton Ayo (Houma); Donald Abaunza (Harvey, 1855 Manhattan Blvd); Eric Hebert (Walker, 29500 Walker South Rd) | Statewide at Hancock Whitney financial centers | https://www.hancockwhitneyfinancialconsultants.com/louisiana | Partial. Strategic relationship announced Feb 2022. |
+| Hancock Whitney Financial Consultants (marketing name of Cetera Investment Services; program HQ Denham Springs, 525 Florida Ave SW) | Jerry (Gerald) Graves, Trey Nordan, Sondra Robbins, Jeffrey Roy (Baton Rouge); Jeff Heard (Lafayette); Kyle Hughes, Patrick McCraw, Michael Glazer, CFP (New Orleans); Beau Fontenot, Margaret Coleman (Covington, 805 N Collins Blvd); Angela Avant (Covington) and Marybeth Castay (Denham Springs), both Cetera Investment Advisers and likely this program; Benton Ayo (Houma); Donald Abaunza (Harvey, 1855 Manhattan Blvd); Eric Hebert (Walker, 29500 Walker South Rd) | Statewide at Hancock Whitney financial centers | https://www.hancockwhitneyfinancialconsultants.com/louisiana | Partial. Strategic relationship announced Feb 2022. |
 | Regions Investment Solutions (Regions Bank) | Kimberly Slack (Shreveport, 333 Texas St); Ami Patel (Shreveport, 6602 Youree Dr); William Teague (Gretna/Harvey, 101 Wall Blvd) | Statewide at Regions branches | https://www.regions.com/directory/financial-advisor/la (locator) | Partial. Networking agreement renewed 2024. |
 | Bank of St. Francisville / Team Malara | Pamela Malara; Joseph Malara | St. Francisville (5681 Commerce St); Baton Rouge, Central, Livonia, New Roads | https://www.bsf.net/service/investment-services ; https://pam-malara.squarespace.com | Partial. |
 | M C Bank & Trust | Not named | Morgan City | https://www.makeitmcb.com/products-services/investments | Partial. |
@@ -160,7 +172,7 @@ No Kestra presence surfaced in New Orleans, the Northshore, Lafayette proper, Sh
 
 | Firm / Agency | Advisor(s) | City | Website | Confidence |
 |---|---|---|---|---|
-| Iron Horse Financial (Guardian general agency for Louisiana; PAS OSJ 9800 Airline Hwy, Baton Rouge) | John Paul Caswell (President); Stephen Rouprich; Charles Duplechain; Kyle Sharbaugh; Ellen Alderman; Christopher Jackler; Bryan Touchet; Michael "Mac" Sanford; Charles Alexander; Donald Kaufmann; James Leatherman; Merl Schexnaildre | Baton Rouge (10000 Perkins Rowe, Ste G350); Lafayette (3909 Ambassador Caffery Pkwy); Mandeville (2315 Florida St, Ste 117); also New Orleans, Alexandria, Hammond, Ruston | https://www.myihf.com ; https://www.ironhorse-financial.com | Partial. Agency site snippet carries the full PAS disclosure. Lafayette office answers the earlier "PAS Lafayette branch" gap. |
+| Iron Horse Financial (Guardian general agency for Louisiana; PAS OSJ 9800 Airline Hwy, Baton Rouge) | John Paul Caswell (President); Stephen Rouprich; Charles Duplechain; Kyle Sharbaugh; Ellen Alderman; Christopher Jackler; Sean Harry Jr.; Bryan Touchet; Michael "Mac" Sanford; Charles Alexander; Donald Kaufmann; James Leatherman; Merl Schexnaildre | Baton Rouge (10000 Perkins Rowe, Ste G350); Lafayette (3909 Ambassador Caffery Pkwy); Mandeville (2315 Florida St, Ste 117); also New Orleans, Alexandria, Hammond, Ruston | https://www.myihf.com ; https://www.ironhorse-financial.com | Partial. Agency site snippet carries the full PAS disclosure. Lafayette office answers the earlier "PAS Lafayette branch" gap. |
 | Team Sharbaugh (Iron Horse team site) | Kyle Sharbaugh + team | Baton Rouge | https://www.teamsharbaugh.com | Partial. |
 | Hudnall Wealth LLC (dba; Rethink Wealth team) | Christian T. Hudnall | Shreveport (910 Pierremont Rd, Ste 107) | https://www.rethinkwealth.com ; Facebook: https://www.facebook.com/HudnallWealth1/ | Partial. BrokerCheck: still registered with PAS; site states Hudnall Wealth is not an affiliate of PAS or Guardian. |
 | Strategic Wealth Specialists (Guardian agency; Mobile AL based, Metairie office) | Richard H. Villavaso; Alex Villavaso; Kenneth J. Uhlich; John Hooper; Katherine Almerico | Metairie (3300 W. Esplanade Ave, Ste 210) | https://www.strategicwealthspecialists.com | Partial. Agency site: "Securities products and advisory services offered through Park Avenue Securities." |
@@ -172,5 +184,5 @@ No standing Guardian general-agency office in Shreveport surfaced; Hudnall is th
 ## Gaps and how to close them
 
 1. **BrokerCheck / IAPD branch filters** were blocked in both sessions. Firm CRDs to run with a Louisiana branch filter: Cambridge 134139, NewEdge Advisors 171351, Osaic Wealth 23131, Cetera Investment Services 15340, Cetera Advisors 10299, Cetera Wealth Services 13572, Avantax 13686, Arkadios Wealth 288863, Kestra AS 283330, Park Avenue Securities 46173. That closes the Kestra Berwick and NewEdge Covington branches and catches any solo practitioner without a web footprint.
-2. **Bank channel rosters** for Hancock Whitney and Regions are longer than what surfaced; both banks' locator pages list every financial consultant by branch.
+2. **Bank channel rosters** for Hancock Whitney and Regions are longer than what surfaced; both banks' locator pages list every financial consultant by branch. A third pass found no other Louisiana bank or credit union on Osaic Institutions or Cetera Investment Services beyond those listed; the remaining Louisiana banks (b1BANK, Home Bank, Red River, Origin, First Guaranty, Investar) appear to use other providers.
 3. Rows marked "Lead" and every "No site found" row should be confirmed before use. The `brokercheck-verifier` skill can do this from a session with network access.
