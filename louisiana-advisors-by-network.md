@@ -1,6 +1,6 @@
 # Louisiana Financial Advisors by Broker-Dealer / RIA Network
 
-Compiled 2026-09-03, revised 2026-09-04 after a second pass, a website sweep, and a third pass over the bank, CPA, and small-city channels. Networks covered: Cambridge, NewEdge, Osaic, Cetera (incl. Avantax and the bank channel), Arkadios, Kestra, Park Avenue Securities.
+Compiled 2026-09-03, revised 2026-09-04 after a second pass, a website sweep, and a third pass over the bank, CPA, and small-city channels, and a fourth pass over US News, AdvisorCheck, LinkedIn, and press releases. Networks covered: Cambridge, NewEdge, Osaic, Cetera (incl. Avantax and the bank channel), Arkadios, Kestra, Park Avenue Securities.
 
 **How to read the confidence column.** Every advisor website and BrokerCheck page was blocked from direct fetch by the network proxy, so no footer disclosure was read on-page. "Partial" means the Louisiana address and the network affiliation both appeared in search-result snippets from the firm's own site, a press release, or a BrokerCheck-derived directory (Indyfin, SmartAdvisorMatch, getwarmer, Wealthminder, US News). "Lead" means one signal only. Confirm on BrokerCheck before outreach.
 
@@ -10,6 +10,7 @@ Compiled 2026-09-03, revised 2026-09-04 after a second pass, a website sweep, an
 
 | Firm | Advisor(s) | City | Website | Confidence |
 |---|---|---|---|---|
+| Besselman Wealth Planners | Patricia Besselman-Main, CFP; Vicky Laborde, CFP | Metairie (754 Papworth Ave) | https://www.besselmanwp.com | Partial. Site snippet quotes the Cambridge disclosure; firm founded 1973; moved from FSC in 2025. |
 | Guidance Financial Advisors, LLC | Team (names not captured) | New Orleans (929 Arabella St) | https://www.guidancefinancialadvisors.com | Partial. Site snippet shows Cambridge BD/RIA disclosure. |
 | Doubleday Financial Group | Roland T. Doubleday, CFP | Metairie (3501 N. Causeway Blvd, Ste 420) | https://www.doubledayfinancial.com | Partial. With Cambridge since 2007. |
 | Sciortino Financial, LLC | Michael F. Sciortino Jr., CPA | Mandeville | https://www.sciortinofinancial.com | Partial. |
@@ -24,7 +25,8 @@ Compiled 2026-09-03, revised 2026-09-04 after a second pass, a website sweep, an
 | Cypress Wealth Management | Paul L. Thiels, AIF, CPWA | New Orleans (900 Camp St, Ste 3C10) | https://cypressadvisor.com | Lead. Wealthminder shows Cambridge; AdvisorCheck shows J.W. Cole. Same building as the Cambridge branch. Confirm on BrokerCheck. |
 | OakMark Wealth | Michael Spielmann; Cody Delcambre; Karl Hector | Lafayette (102 Asma Blvd, Ste 108) | https://oakmarkwealth.com | Partial. Site snippet quotes the Cambridge disclosure. |
 | Authentic Financial Advisors LLC | Ursula Hand | Abita Springs (71128 Hwy 59, Ste 100) | No site found | Partial. |
-| (No DBA found) | Lavon Welch | Covington (1978 N Hwy 190, Ste A) | No site found | Partial. |
+| Wealthcare Services | Lavon Welch, CFP; Dakota (associate) | Covington (5001 US-190, Unit A3); Shreveport (1945 E. 70th St, Ste D) | https://www.wealthcareonline.com | Partial. Site quotes the Cambridge BD/RIA disclosure. |
+| Summit Financial Services, Inc. (Mandeville branch of a Kennesaw, GA firm) | Allison Trahan, CRPC | Mandeville | https://www.summitfsinc.com | Lead. Trahan's BrokerCheck surfaced on a Cambridge query; BD not confirmed. |
 
 Checked and excluded: Pierre Villere (Metairie) is at Stratos Wealth Advisors, an LPL-affiliated RIA; Elanna Gould is in Beachwood, Ohio. Note: LinkedIn firm names are usually DBAs under the network, so a different name on LinkedIn is not by itself a departure. Indyfin also lists Cambridge branches in Welsh and River Ridge with no advisor named.
 
@@ -50,7 +52,7 @@ Note: NewEdge Advisors is headquartered at 858 Camp St, New Orleans. Directories
 | Papa Financial Services | Brandon C. Papa | Shreveport (2950 Fairfield Ave) | https://www.papafinancialservices.com | Partial. Same building as Goss and Hughes. |
 | Covington branch | Not identified | Covington | None | Lead. |
 
-Checked and excluded: Montz Harcus Wealth Management and Lyons Capital Group are standalone RIAs with no NewEdge tie. Michael Kreimer (registered New Orleans/Slidell) runs AssetWise Financial Group out of Charlotte, NC.
+Checked and excluded: Montz Harcus Wealth Management and Lyons Capital Group are standalone RIAs with no NewEdge tie. Michael Kreimer (registered New Orleans/Slidell) runs AssetWise Financial Group out of Charlotte, NC. The "NewEdge Advisors Acadiana Branch" on LinkedIn is in Beaumont, TX.
 
 ---
 
@@ -59,6 +61,7 @@ Checked and excluded: Montz Harcus Wealth Management and Lyons Capital Group are
 | Firm | Advisor(s) | City | Website | Confidence |
 |---|---|---|---|---|
 | Bezou Financial Planning Group | Jason Bezou, CFP, AAMS + team | Hammond (1665 SW Railroad Ave #10); New Orleans (422 Harrison Ave); Chalmette (1019 W. Judge Perez Dr, Ste B); Monroe (1818 Avenue of America); Baton Rouge | https://www.bezoufinancial.com | Partial. Staff emails on osaicwealth.com; legacy Woodbury. |
+| Michael P. Austin, CFP & Associates | Michael P. Austin, CFP, CLU, ChFC | Baton Rouge (8675 Bluebonnet Blvd, Ste A) | https://www.michaelpaustin.com | Partial. SEC IAPD: Osaic Wealth. |
 | McClain Financial Group, LLC | Shelton R. McClain | Baton Rouge (658 St. Charles St) | https://www.mcclainfinancialgroup.com | Partial. |
 | MarketShare Financial / Nicholson Financial | Not named | Baton Rouge (10500 Coursey Blvd, Ste 103) | https://marketsharefinancial.com ; https://www.nicholson-financial.com | Partial. |
 | Rainier Wealth Planning | Jason Rainier, CFP | Baton Rouge | https://www.rainierwealth.com | Lead. Listed under Osaic Wealth; also described as own RIA. |
@@ -77,7 +80,7 @@ Checked and excluded: Montz Harcus Wealth Management and Lyons Capital Group are
 | Hornbrook Law Firm (attorney-advisor) | Carlos J. Hornbrook | New Orleans (700 S. Peters St, Ste 315) | http://www.hornbrooklawfirm.com | Partial. Osaic Wealth since 2023; legacy FSC. |
 | (No DBA found) | Donald R. Bourgeois Jr. | Arabi (St. Bernard Parish) | No site found | Partial. Legacy Woodbury; annuity focus. |
 | (No DBA found) | Eric Dubroc | Mandeville | No site found | Partial. Legacy Securities America. |
-| (No DBA found; legacy Woodbury office) | Denise Badgerow | Thibodaux (206 Green St, Ste 106) | No site found | Partial. |
+| Southern Wealth Strategies, LLC | Denise A. Osadchuk, CFP, CRPC (formerly Badgerow) | Thibodaux (102 Royal Oak Blvd) | https://www.southernwealthstrategies.com | Partial. Site: Osaic Wealth dba Southern Wealth Strategies. Legacy Woodbury. |
 | (No DBA found) | Gene H. Davis Jr. | Alexandria | No site found | Partial. SEC IAPD: Osaic. |
 | Kees Financial Services | David H. Kees Sr. | Natchitoches (113 South Dr, Ste 4; 505 Royal St) | No site found | Partial. Legacy SagePoint. |
 | Ferdinandsen Financial Group | Not named | Lake Charles (5901 Gray Market Dr, Ste A) | https://www.ferdinandsenfinancial.com | Partial. |
@@ -96,6 +99,7 @@ Checked and excluded: MÄTIS Financial (Metairie) and deMauriac (New Orleans) ar
 
 | Firm | Advisor(s) | City | Website | Cetera entity | Confidence |
 |---|---|---|---|---|---|
+| Olivier Group | Chad Olivier, CFP (CEO); Austin Delery, CFP; Chris Adams | Baton Rouge (4609 Bluebonnet Blvd, Ste A) | https://www.oliviergroup.com | Cetera Wealth Services (BD); advisory via own RIA, CWM LLC | Partial. Site snippet: securities through Cetera Wealth Services. |
 | Horizon Financial Group | Pete Bush, CFP; Andy Bush; Clint Gautreau, CFP | Baton Rouge (15015 Jamestown Blvd, Ste 100) | https://www.horizonfg.com | Cetera Advisors | Partial. Also runs the Horizon Advisor Network OSJ: https://www.horizonadvisornetwork.com |
 | Hays Breard Financial Group, LLC | Michael G. Breard; Walter Hays Jr., CFP | Baton Rouge (5035 Bluebonnet Blvd, Ste A) | https://www.haysbreardfg.com | Cetera Wealth Services | Partial. $327M; joined Mar 2022. |
 | Menard Wealth Management (Menard Financial Group) | Ronald W. Menard, RFC; Brad Kurtz, RFC | Baton Rouge | https://www.menardwealth.com | Cetera Wealth Services (ex-Advisor Networks) | Partial. |
@@ -137,8 +141,9 @@ Checked and excluded: Robert Yarbrough (West Monroe) left Cetera for LPL in 2025
 | Institution / program | Advisors surfaced | Louisiana offices | Website | Confidence |
 |---|---|---|---|---|
 | Hancock Whitney Financial Consultants (marketing name of Cetera Investment Services; program HQ Denham Springs, 525 Florida Ave SW) | Jerry (Gerald) Graves, Trey Nordan, Sondra Robbins, Jeffrey Roy (Baton Rouge); Jeff Heard (Lafayette); Kyle Hughes, Patrick McCraw, Michael Glazer, CFP (New Orleans); Beau Fontenot, Margaret Coleman (Covington, 805 N Collins Blvd); Angela Avant (Covington) and Marybeth Castay (Denham Springs), both Cetera Investment Advisers and likely this program; Benton Ayo (Houma); Donald Abaunza (Harvey, 1855 Manhattan Blvd); Eric Hebert (Walker, 29500 Walker South Rd) | Statewide at Hancock Whitney financial centers | https://www.hancockwhitneyfinancialconsultants.com/louisiana | Partial. Strategic relationship announced Feb 2022. |
-| Regions Investment Solutions (Regions Bank) | Kimberly Slack (Shreveport, 333 Texas St); Ami Patel (Shreveport, 6602 Youree Dr); William Teague (Gretna/Harvey, 101 Wall Blvd) | Statewide at Regions branches | https://www.regions.com/directory/financial-advisor/la (locator) | Partial. Networking agreement renewed 2024. |
+| Regions Investment Solutions (Regions Bank) | Kimberly Slack (Shreveport, 333 Texas St); Ami Patel (Shreveport, 6602 Youree Dr); William Haynes (Bossier City, Pierre Bossier branch); William Teague (Gretna/Harvey, 101 Wall Blvd) | Statewide at Regions branches | https://www.regions.com/directory/financial-advisor/la (locator) | Partial. Networking agreement renewed 2024. |
 | Bank of St. Francisville / Team Malara | Pamela Malara; Joseph Malara | St. Francisville (5681 Commerce St); Baton Rouge, Central, Livonia, New Roads | https://www.bsf.net/service/investment-services ; https://pam-malara.squarespace.com | Partial. |
+| JD Bank (Jeff Davis Bank) program, unconfirmed | Keith J. Broussard | Jennings | https://jdbank.com | Lead. LinkedIn: Cetera Investment Services; Wealthminder: LPL. Confirm on BrokerCheck. |
 | M C Bank & Trust | Not named | Morgan City | https://www.makeitmcb.com/products-services/investments | Partial. |
 
 Checked and excluded: First Federal Bank of Louisiana (Lake Charles / Sulphur) ran on Cetera until recently but its investment program now discloses LPL.
@@ -151,7 +156,9 @@ Checked and excluded: First Federal Bank of Louisiana (Lake Charles / Sulphur) r
 |---|---|---|---|---|
 | Gulf Coast Wealth Management (division of Gulf Coast Bank & Trust) | Jason King (Director); Patrick Talamo (Baton Rouge, 7235 Jefferson Hwy); Alfredo J. Martinez (Kenner, 3410 Williams Blvd); Ryann Gallois (New Orleans); Zachary Gorres (Chalmette); Slade Simons (Metairie); Robyn Sherman (Slidell) | New Orleans HQ; branches in Baton Rouge, Kenner, Metairie, Chalmette, Mandeville, Slidell | https://www.gulfbank.com/wealth-management | Partial. Moved $850M from LPL to Arkadios in June 2024. |
 
-The Arkadios Louisiana branch footprint on every directory (Indyfin, getwarmer, SmartAdvisorMatch, Wealthminder) matches Gulf Coast Bank's branch network exactly. No standalone Arkadios firm in Louisiana was found on the second pass either.
+| Legacy Investment Strategies, LLC | James W. Olsen, CFP | Terrytown / Gretna (1601 Belle Chasse Hwy, Ste 200) | https://legacyinvestment.net | Partial. SEC IAPD: Arkadios Wealth Advisors and Arkadios Capital; joined from LPL in 2026. First standalone Arkadios advisor found outside Gulf Coast Bank. |
+
+Every other Arkadios listing in Louisiana matches Gulf Coast Bank's branch network.
 
 ---
 
