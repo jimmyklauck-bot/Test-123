@@ -8,6 +8,29 @@ Compiled 2026-09-06. Companion to `louisiana-banks-wealth-management.md`, which 
 
 ---
 
+## Status check, run 2026-09-06 — read this first
+
+A second pass checked whether each person is still where the earlier research put them. FINRA is still unreachable from here, so the signal used was the BrokerCheck page title that search returns: "Broker at [FIRM]" indicates a current registration, while an absent record or a "previously registered" title does not. Of 57 named people: **44 look active, 13 do not stand up.** The workbook carries a per-person status column and source URLs. The ones that changed:
+
+**Likely retired or departed — do not call without checking:**
+- **Terrell Kalmbach (Red River Bank).** No BrokerCheck record surfaced across three separate searches. The only sourcing is a 2018 bank newsletter. Meanwhile a name I never had, **John Foster**, now appears on Red River's current team page. That combination reads like roster turnover.
+- **Robyn Sherman (Gulf Coast Bank & Trust).** A BrokerCheck report exists at CRD 5696999, but no current Gulf Coast association surfaced on a targeted re-check.
+
+**Wrong in the earlier draft:**
+- **BankPlus is Sam Bruner, not Robert Bruner.** VP and Wealth & Fiduciary Advisor in the BankPlus Wealth and Trust Services Group. FSU finance and accounting, CIMA from Wharton. "Robert" came from a third-party directory and appears to be simply wrong.
+- **Zachary Gorres is in Metairie, not Chalmette**, and current sources describe him as an **LPL** advisor, not Arkadios.
+- **Ann Summers' CRD is 4047179.** Do not use CRD 4725065 — that is "Ann Therese Sommers" of Amherst NY, who is **not currently registered**. Different person entirely.
+
+**Newly found:**
+- **John Foster**, Investment Executive, Red River Investments Group, 17 years in investments.
+- **Kim Lonergan**, AVP and Division Administrator, Gulf Coast Wealth Management. Not an advisor, but the gatekeeper for the division.
+
+**Two platform questions now open:**
+- **Gulf Coast Bank & Trust may not be cleanly on Arkadios.** The July 2024 coverage says ~$850MM moved from LPL to Arkadios, and BrokerCheck puts Martinez, Gallois and Simons at Arkadios. But current sources describe Gorres and Martinez as LPL advisors at Gulf Coast, and Talamo appears under both. Either the move was partial or some advisors have gone back. Confirm per advisor.
+- **First Horizon's broker-dealer is contested.** Ben Webre's BrokerCheck title reads "Broker at FIRST HORIZON ADVISORS" (firm CRD 17117), but First Horizon's own disclosure says First Horizon Advisors is only a brand name and that securities run through LPL. Both claims are live in current sources.
+
+---
+
 ## LPL Financial bank programs
 
 ### Red River Bank — Red River Investments Group
