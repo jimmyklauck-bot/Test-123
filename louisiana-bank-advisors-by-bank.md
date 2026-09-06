@@ -20,7 +20,7 @@ Alexandria HQ. Offices in Central Louisiana, Shreveport, Baton Rouge, Lafayette,
 | Heath Wester | Investment Executive | heath.wester@redriverinvest.net, 318-561-5901 |
 | Terrell Kalmbach | Investment Executive | terrell.kalmbach@redriverinvest.net, 504-354-5557 |
 
-One source referred to a "Jeremy Wester" alongside LaCour and Farrish. The bank's own email pattern gives heath.wester, so treat Heath as correct and confirm the first name on the call.
+Resolved: his legal name is **Jeremy Heath Wester**, CRD 5644666, registered with LPL Financial. He goes by Heath, which is why the bank email is heath.wester. Both names are the same person.
 
 ### Home Bank — HB Financial
 Two offices. Acadiana at 2810 Johnston Street, Lafayette LA 70503, 337-572-3674. Northshore at 1772 Orleans Street, Mandeville LA 70448.
