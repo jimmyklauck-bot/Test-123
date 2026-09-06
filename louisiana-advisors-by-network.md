@@ -72,7 +72,7 @@ Checked and excluded: Montz Harcus Wealth Management and Lyons Capital Group are
 | Former Lincoln Financial Advisors office | Not named | Baton Rouge (2237 S. Acadian Thruway, Ste 101) | None | Lead. |
 | Preservation Wealth Management | John Robinson (owner); Justin Bardwell | Metairie (3500 N. Causeway Blvd, Ste 120) | https://www.preservation-wealth.com | Partial. Snippet quotes Osaic Wealth disclosure. |
 | River Tower Wealth Management | Pierce Adams, CFP | Metairie (3300 W. Esplanade Ave, Ste 608) | https://www.rivertowerwealth.com | Partial. |
-| Angel Wealth Strategies | Xavier Angel, CFP, ChFC | New Orleans (3815 MacArthur Blvd, Ste 201) | https://www.plan-wisely.com | Partial. |
+| Plan Wisely Wealth Advisors (formerly Angel Wealth Strategies) | Xavier Angel, CFP, ChFC, CLTC (partner) | New Orleans (3815 MacArthur Blvd, Ste 201) | https://www.plan-wisely.com | Partial. |
 | Rigby Financial Group | Eric M. Rigby; Mark Bannick | New Orleans (715 Girod St, Ste 200) | https://therigbygroup.com | Partial. Rigby registered with Osaic Wealth since Jan 2024. |
 | Deep South Investment Services | David B. Smith, AAMS | Mandeville (1555 Hwy 59) | https://www.formyfinancialfuture.com | Partial. Email on osaicwealth.com; Osaic Form CRS on site. |
 | The ROCK Financial Group (Austin Mire also dba ROCK Private Wealth Management) | David L. Mire; Austin Mire; Blake Harper; Wendel Guidry; Jake Richard; Larry Hair (Pineville office, 3340 Military Hwy Ste C) | Lafayette (106 Sears Dr); Pineville | https://www.therockfinancialgroup.net | Partial. Legacy Royal Alliance. |
@@ -102,7 +102,7 @@ Checked and excluded: MÄTIS Financial (Metairie) and deMauriac (New Orleans) ar
 |---|---|---|---|---|---|
 | Olivier Group | Chad Olivier, CFP (CEO); Austin Delery, CFP; Chris Adams; Landon Collins, CFP | Baton Rouge (4609 Bluebonnet Blvd, Ste A) | https://www.oliviergroup.com | Cetera Wealth Services (BD); advisory via own RIA, CWM LLC | Partial. Site snippet: securities through Cetera Wealth Services. |
 | Horizon Financial Group | Pete Bush CFP CEPA; Andy Bush RICP AIF; Clint Gautreau CFP; Robert Burke CFP; Brooke Gautreau (COO) | Baton Rouge (15015 Jamestown Blvd, Ste 100) | https://www.horizonfg.com | Cetera Advisors | Partial. Also runs the Horizon Advisor Network OSJ: https://www.horizonadvisornetwork.com |
-| Hays Breard Financial Group, LLC | Michael G. Breard; Ray Hays CFP CRPC CPFA; Brendan Hays CFP CPFA; Walter Hays Jr. CFP | Baton Rouge (5035 Bluebonnet Blvd, Ste A) | https://www.haysbreardfg.com | Cetera Wealth Services | Partial. $327M; joined Mar 2022. |
+| Hays Breard Financial Group, LLC | Michael G. Breard; Ray Hays CFP CRPC CPFA; Brendan Hays CFP CPFA; Walter Hays Jr. CFP; Richard Burtt | Baton Rouge (5035 Bluebonnet Blvd, Ste A) | https://www.haysbreardfg.com | Cetera Wealth Services | Partial. $327M; joined Mar 2022. |
 | Menard Wealth Management (Menard Financial Group) | Ronald W. Menard, RFC; Brad Kurtz, RFC | Baton Rouge | https://www.menardwealth.com | Cetera Wealth Services (ex-Advisor Networks) | Partial. |
 | Pathway Planning Group | Not named (Eric Roberts has since moved to Cetera Investment Advisers) | Baton Rouge (533 Europe St) | No site found | Cetera Advisor Networks | Lead. |
 | TWRU CPAs & Financial Advisors / LoBue Wealth Management | Louis A. LoBue Jr., CPA, PFS | Baton Rouge (527 E. Airport Ave); Walker (13371 Burgess Ave) | https://www.twru.com | Cetera Investment Advisers / Cetera Financial Specialists | Partial. |
@@ -119,7 +119,7 @@ Checked and excluded: MÄTIS Financial (Metairie) and deMauriac (New Orleans) ar
 | Darnall Sikes Wealth Partners (sister firm Darnall Sikes & Frederick CPAs) | Larry Sikes CPA/PFS CFP; Adam Curry CPA CFP; Michelle Keenan (COO); Robert Marcell CFP; Jed Inzerella CFP RFC; Michael Domingue CFP; Matthew Boudreaux; Jennifer Mouton; Russell Brown; Cole Griffin; Benjamin Baudoin | Lafayette (2000 Kaliste Saloom Rd, Ste 300); New Iberia (1101 E. Admiral Doyle Dr) + 2 other LA offices | https://darnallsikeswealth.com ; https://www.dsfcpas.com | Avantax Planning Partners (~$1.9B) | Partial. |
 | Texada Wealth Management (Horizon Advisor Network affiliate) | Dan Texada | Covington (404 E. Gibson St, Ste 2D) | https://www.texadawealth.com | Cetera Investment Advisers / Cetera Advisors | Partial. Listed as a Horizon Advisor Network affiliated office. |
 | Broussard, Poche, Lewis & Breaux CPAs | Craig J. Viator, CPA | New Iberia (146 W. Main St) | No site found | Cetera (ex-Avantax / 1st Global) | Partial. |
-| Agee Financial Group LLC | Kenneth L. Agee | Lake Charles | No site found | Cetera Investment Advisers (ex-SagePoint) | Partial. |
+| Agee Financial Group LLC | Kenneth "Larry" L. Agee (president/wealth manager) | Lake Charles | No site found | Cetera Investment Advisers (ex-SagePoint) | Partial. |
 | (No DBA found) | Michael R. Cournoyer, CFP, ChFC | DeRidder / DeQuincy | No site found | Cetera Wealth Services (since 2013) | Partial. |
 | Inzerella, Feldman & Pourciau CPAs | Gregory J. Inzerella, CPA; Julie Pourciau, CPA | New Iberia (152 W. Main St; CPA office 1305 20 Arpent Rd) | No site found | Avantax | Partial. |
 | Kolder, Slaven & Company CPAs | Casey L. Ardoin, CPA, CFE | Ville Platte (434 E. Main St) | https://www.kcsrcpas.com | Cetera Investment Advisers | Partial. |
@@ -182,8 +182,9 @@ No Kestra presence surfaced in New Orleans, the Northshore, Lafayette proper, Sh
 |---|---|---|---|---|
 | Iron Horse Financial (Guardian general agency for Louisiana; PAS OSJ 9800 Airline Hwy, Baton Rouge) | John Paul Caswell (President); Stephen Rouprich; Charles Duplechain; Kyle Sharbaugh; Ellen Alderman; Christopher Jackler (Hammond); Sean Harry Jr.; Anthony Bridges; Don Whittington; Alyson Coyle; Bryan Touchet; Michael "Mac" Sanford; Charles Alexander; Donald Kaufmann; James Leatherman; Merl Schexnaildre | Baton Rouge (10000 Perkins Rowe, Ste G350); Lafayette (3909 Ambassador Caffery Pkwy); Mandeville (2315 Florida St, Ste 117); also New Orleans, Alexandria, Hammond, Ruston | https://www.myihf.com ; https://www.ironhorse-financial.com | Partial. Agency site snippet carries the full PAS disclosure. Lafayette office answers the earlier "PAS Lafayette branch" gap. |
 | Team Sharbaugh (Iron Horse team site) | Kyle Sharbaugh + team | Baton Rouge | https://www.teamsharbaugh.com | Partial. |
+| (Departed) Kenneth J. Uhlich Jr., MA, CExP, ChFC | Now managing partner at Actus Wealth (Opelousas), not PAS | Opelousas | https://www.linkedin.com/in/kennethuhlich/ | Excluded. LinkedIn shows a move off the Metairie PAS office. |
 | Hudnall Wealth LLC (dba; Rethink Wealth team) | Christian T. Hudnall | Shreveport (910 Pierremont Rd, Ste 107) | https://www.rethinkwealth.com ; Facebook: https://www.facebook.com/HudnallWealth1/ | Partial. BrokerCheck: still registered with PAS; site states Hudnall Wealth is not an affiliate of PAS or Guardian. |
-| Strategic Wealth Specialists (Guardian agency; Mobile AL based, Metairie office) | Richard H. Villavaso; Alex Villavaso; Kenneth J. Uhlich; Timothy Heath; Stewart Davis; Caresse Fincher; Mitchel Roussel; Wyatt Fontenot; John Hooper; Katherine Almerico, ChFC | Metairie (3300 W. Esplanade Ave, Ste 210) | https://www.strategicwealthspecialists.com | Partial. Agency site: "Securities products and advisory services offered through Park Avenue Securities." |
+| Strategic Wealth Specialists (Guardian agency; Mobile AL based, Metairie office) | Richard H. Villavaso; Alex Villavaso; Timothy Heath; Stewart Davis; Caresse Fincher; Mitchel Roussel; Wyatt Fontenot; John Hooper; Katherine Almerico, ChFC | Metairie (3300 W. Esplanade Ave, Ste 210) | https://www.strategicwealthspecialists.com | Partial. Agency site: "Securities products and advisory services offered through Park Avenue Securities." |
 
 No standing Guardian general-agency office in Shreveport surfaced; Hudnall is the only PAS registrant found there.
 
@@ -191,7 +192,9 @@ No standing Guardian general-agency office in Shreveport surfaced; Hudnall is th
 
 ## LinkedIn profiles
 
-Collected by firm-targeted search. Individual profiles first, then firm pages. Names not listed had no findable profile.
+Collected by firm-targeted search, then a second pass searching every remaining name individually. Individual profiles first, then firm pages.
+
+**Advisors with no LinkedIn profile.** Each of these was searched individually by name plus city and firm, and returned nothing: Kent Wise, Charles Hirling, Lavon Welch, Ursula Hand, Allison Trahan (Cambridge); Stephen Liles, Eugene Songy, Clint Harris, Phillip Shayne Fontenot (NewEdge); Marshal Baggett, Clint Laviolette, Lane Tamburo, Michael P. Austin, Wendel Guidry, J. Tauzin, Mark Kay, Joe Badt, Gene Davis, David Kees, Eric Dubroc, Donald Bourgeois, Ann Singleton, Joseph Falgoust, Justin Bardwell, Carlos Hornbrook (Osaic); Michael Breard, Carman and Bryan Bruno, Neil Fontenot, Albert Leger, Maria Moreau, Robert Dugas, Jeffrey Johnson, Sandra Gibson, Gregory Inzerella, Charles Scarbrough, Michael Cournoyer, Kimberly Slack, Ami Patel, William Haynes, Bruce Eisen, and the Hancock Whitney and Regions branch consultants (Cetera); Slade Simons, Zachary Gorres, Alfredo Martinez, Robyn Sherman, James Olsen (Arkadios); Todd Guerin, Timothy Armentor, Michael Fontenot (Kestra); Richard Villavaso, Stewart Davis, Caresse Fincher, Katherine Almerico, John Hooper (Park Avenue Securities). Most are either long-tenured advisors with 25 to 40 year careers or CPAs whose practice is the accounting firm; for those, use the firm page or the firm's own site.
 
 ### Cambridge Investment Research
 
@@ -209,6 +212,9 @@ Collected by firm-targeted search. Individual profiles first, then firm pages. N
 | John DeBoer | Counterpoint Wealth | https://www.linkedin.com/in/john-deboer-b6b024a1/ |
 | David C. King, CFP | Gateway Financial Advisors | https://www.linkedin.com/in/david-king-cfp%C2%AE-0ab139b8/ |
 | Ron Atchley | Besselman Wealth Planners | https://www.linkedin.com/in/ron-atchley-411510181/ |
+| Michael Sciortino Jr., CPA | Sciortino Financial | https://www.linkedin.com/in/michaelsciortinocpa/ |
+| Matthew C. Person, CPA | Person CPA Group | https://www.linkedin.com/in/matthewperson/ |
+| Grant Nelson, CFP | Financial Partners of Louisiana | https://www.linkedin.com/in/grantjnelson |
 | Firm page | TORO Asset Management | https://www.linkedin.com/company/toro-asset-management-llc/ |
 | Firm page | Doubleday Financial Group | https://www.linkedin.com/company/doubleday-financial-group |
 | Firm page | Besselman Wealth Planners | https://www.linkedin.com/company/besselman-wealth-planners |
@@ -228,6 +234,7 @@ Collected by firm-targeted search. Individual profiles first, then firm pages. N
 | Harlan D. Hughes | Hughes Wealth Management | https://www.linkedin.com/in/harlan-hughes-593028134/ |
 | Brandon C. Papa | Papa Financial Services | https://www.linkedin.com/in/brandon-papa-b891a09/ |
 | Garrett Andrew Ahrens | Ahrens Investment Partners | https://www.linkedin.com/in/andrew-ahrens/ |
+| Michelle McCoy Hollenshead, AAMS | Lagniappe Wealth Management | https://www.linkedin.com/in/michelle-mccoy-hollenshead-aams-63654045 |
 | Firm page | NewEdge Advisors | https://www.linkedin.com/company/newedge-advisors |
 | Firm page | Goss Wealth Management | https://www.linkedin.com/company/gosswealthmanagement |
 | Firm page | Deupree James Wealth Management | https://www.linkedin.com/company/deupree-james-wealth-management |
@@ -247,6 +254,9 @@ Collected by firm-targeted search. Individual profiles first, then firm pages. N
 | David B. Smith, AAMS | Deep South Investment Services | https://www.linkedin.com/in/davesmithaams/ |
 | Denise A. Osadchuk, CFP, CRPC | Southern Wealth Strategies | https://www.linkedin.com/in/denise-osadchuk-cfp%C2%AE-crpc%C2%AE-49a12a92/ |
 | Derrek Gaspard, CFP | Bezou Financial Planning Group | https://www.linkedin.com/in/derrekgaspard/ |
+| Xavier Angel, CFP, ChFC, CLTC | Plan Wisely Wealth Advisors | https://www.linkedin.com/in/xavierangel/ |
+| Pierce Adams, CFP | River Tower Wealth Management | https://www.linkedin.com/in/pierce-adams-cfp%C2%AE-676b7213/ |
+| John Robinson, CFP, ChFC (owner) | Preservation Wealth Management | https://www.linkedin.com/in/john-robinson-cfp%C2%AE-chfc%C2%AE-57b93818/ |
 | Firm page | Rigby Financial Group | https://www.linkedin.com/company/rigby-financial-group |
 | Firm page | Southern Wealth Strategies | https://www.linkedin.com/company/southern-wealth-strategies |
 | Firm page | The ROCK Financial Group | https://www.linkedin.com/company/rock-financial-group |
@@ -290,6 +300,13 @@ Collected by firm-targeted search. Individual profiles first, then firm pages. N
 | Michael Glazer, CFP | Hancock Whitney Financial Consultants | https://www.linkedin.com/in/michael-glazer-cfp%C2%AE-808a31b6/ |
 | Benton Ayo | Hancock Whitney (Houma/Thibodaux) | https://www.linkedin.com/in/benton-ayo-27972520/ |
 | Keith J. Broussard | Cetera Investment Services (Jennings) | https://www.linkedin.com/in/keith-broussard-75b9957a/ |
+| Beau Beaullieu, MBA, AIF, C(k)P | CoSource Financial Group | https://www.linkedin.com/in/beau-beaullieu-mba-aif-c-k-p-1b59681/ |
+| Richard Burtt | Hays Breard Financial Group | https://www.linkedin.com/in/richard-burtt-2a788414b/ |
+| Chrystal R. Adams, CFP, EA | Empower Wealth Management | https://www.linkedin.com/in/chrystal-r-adams-cfp%C2%AE-ea-1a335149 |
+| Craig J. Viator, CPA | Broussard, Poche, Lewis & Breaux | https://www.linkedin.com/in/craig-viator-6028ab28 |
+| Kenneth "Larry" Agee | Agee Financial Group | https://www.linkedin.com/in/larry-agee-9a381914/ |
+| Firm page | Charles E. Scarbrough, CPA | https://www.linkedin.com/company/charles-e-scarbrough-cpa |
+| Firm page | Broussard Poche, LLP | https://www.linkedin.com/company/broussard-poche-lewis-&-breaux |
 | Firm page | Olivier Group | https://www.linkedin.com/company/the-olivier-group |
 | Firm page | Horizon Financial Group | https://www.linkedin.com/company/horizon-wealth-management |
 | Firm page | Darnall Sikes Wealth Partners | https://www.linkedin.com/company/darnall-sikes-wealth-partners-llc |
@@ -304,6 +321,8 @@ Collected by firm-targeted search. Individual profiles first, then firm pages. N
 |---|---|---|
 | Jason King, CFP | Gulf Coast Wealth Management | https://www.linkedin.com/in/jasonking-wealthmanagement/ |
 | Scott Sloan | Gulf Coast Wealth Management | https://www.linkedin.com/in/scott-sloan-b02897170 |
+| Ryann Gallois | Gulf Coast Wealth Management | https://www.linkedin.com/in/rgallois/ |
+| Patrick Talamo | Gulf Coast Wealth Management | https://www.linkedin.com/in/patrick-talamo-18b509174 |
 | Firm page | Gulf Coast Wealth Management | https://www.linkedin.com/company/gulf-coast-wealth-management |
 | Firm page | Arkadios Capital | https://www.linkedin.com/company/arkadios-capital |
 
@@ -336,6 +355,9 @@ Collected by firm-targeted search. Individual profiles first, then firm pages. N
 | Mitchel Roussel | Strategic Wealth Specialists | https://www.linkedin.com/in/mitchel-roussel-13a2401a2/ |
 | Wyatt Fontenot | Strategic Wealth Specialists | https://www.linkedin.com/in/wyatt-fontenot-146363345 |
 | Christian T. Hudnall | Hudnall Wealth / Rethink Wealth | https://www.linkedin.com/in/chris-hudnall-84599177/ |
+| John Paul Caswell, AIF, CLTC (president) | Iron Horse Financial | https://www.linkedin.com/in/johnpaulcaswell/ |
+| Christopher Jackler (Hammond office) | Iron Horse Financial | https://www.linkedin.com/in/christopher-jackler-4b742a88/ |
+| Tina Nuzzo | Iron Horse Financial | https://www.linkedin.com/in/tina-nuzzo-60b415125/ |
 | Firm page | Iron Horse Financial | https://www.linkedin.com/company/iron-horse-financial |
 | Firm page | Strategic Wealth Specialists | https://www.linkedin.com/company/yoursws |
 
