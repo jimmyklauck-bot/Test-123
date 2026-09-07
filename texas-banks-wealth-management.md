@@ -4,7 +4,7 @@ Compiled 2026-09-06. Companion to the Louisiana files in this repo.
 
 ## Scope, read this first
 
-Texas has roughly 380 banks. This pass covers **Tier 1 (Texas-headquartered banks with real wealth arms) and part of Tier 2 (out-of-state banks with large Texas branch networks).** Tier 3, the community banks by metro, is **not started**. This is a bank-level pass: it establishes which institutions have programs and what platform each runs on. It is **not** an advisor-level pass — only five individual names surfaced, and they are noted as such.
+Texas has roughly 380 banks. This pass covers **Tier 1 (Texas-headquartered banks with real wealth arms) and part of Tier 2 (out-of-state banks with large Texas branch networks).** Tier 3, the community banks by metro, is **not started**. This is a bank-level pass: it establishes which institutions have programs and what platform each runs on. An advisor-level pass followed on 2026-09-07 and is in `texas-bank-advisors-by-bank.md` and the workbook's Texas Advisors tab: **36 named people across 9 banks**.
 
 **Environment constraint, same as the Louisiana project.** FINRA BrokerCheck, SEC IAPD, FDIC BankFind, and every individual bank website were blocked by the network egress proxy. Reachability was tested before any research. Everything below came through web search of those same sources. No BrokerCheck report was opened, so no registration status is verified.
 
@@ -36,7 +36,7 @@ Texas has roughly 380 banks. This pass covers **Tier 1 (Texas-headquartered bank
 |---|---|---|---|---|
 | **Comerica** | The **largest U.S. commercial bank headquartered in Texas** (Dallas). Wealth centers in Dallas (8225 Preston Rd) and Houston (2 Riverway, 14th Floor), plus Fort Worth, Austin, San Antonio, Kerrville | **Comerica Private Wealth Management.** Team model with CFAs, certified trust and financial advisors, and tax specialists. Advisor directory published | David Camp, Private Banking Advisor, Dallas. Jana Calongne, Wealth Advisor, Houston. Janelle Walker. Line 877-888-0958 | High |
 | **Bank of Texas** (BOK Financial) | Austin, San Antonio, Dallas, Houston | **Private banking and wealth management**, plus **BOK Financial Advisors**, a wholly owned subsidiary providing investment advisory | None surfaced | High |
-| **Woodforest National Bank** | The Woodlands HQ, branches statewide | **Woodforest Wealth / Woodforest Advisors**, advisory through **Raymond James Financial Services Advisors, Inc.** Office at 1330 Lake Robbins Dr, Suite 150, The Woodlands 77380 | An advisor surnamed **Folwell** joined with 30+ years' experience; first name not surfaced | High |
+| **Woodforest National Bank** | The Woodlands HQ, branches statewide | **Woodforest Wealth / Woodforest Advisors**, advisory through **Raymond James Financial Services Advisors, Inc.** Office at 1330 Lake Robbins Dr, Suite 150, The Woodlands 77380 | **Steve Tucker** (President, Woodforest Wealth Strategies); **Ronald Folwell** (joined Aug 2024 from United Capital managing ~$197MM); **Jonathan Murdock** CFP CPWA (VP); plus 2 client-service staff. Advisors sit in 7 bank offices across greater Houston | High |
 | **Huntington Bank** | Now very large in Texas after two acquisitions | **Huntington Private Bank.** Absorbed legacy **Cadence** trust and investment services and legacy **Veritex** private banking | None surfaced | Moderate |
 | **b1BANK** | Dallas and Houston | b1 Wealth Solutions Group on **Raymond James** FID operates across Louisiana **and Texas**. See the Louisiana files | Jeremy A. Parker | High |
 
@@ -63,7 +63,7 @@ Different from Louisiana in one important way: **Texas banks are far more likely
 ## 5. What is not done
 
 - **Tier 3 is untouched** — community banks across DFW, Houston, San Antonio, Austin, El Paso, Lubbock, Midland-Odessa, Corpus, the Rio Grande Valley, Tyler, Waco and Abilene. That is the large majority of the 380 Texas banks.
-- **No advisor rosters.** Only five individual names surfaced across the whole pass. Every program above needs an advisor-level pass to be callable.
+- ~~No advisor rosters.~~ **Done 2026-09-07:** 36 names across 9 banks. Eleven confirmed programs still have zero names — see the end of `texas-bank-advisors-by-bank.md`.
 - **No registration verified.** BrokerCheck was unreachable. Treat every name as a lead.
 - **Wirehouse channel not covered** — Merrill, J.P. Morgan, Wells Fargo, UBS and Morgan Stanley all have large Texas footprints but are typically home-office covered.
 
