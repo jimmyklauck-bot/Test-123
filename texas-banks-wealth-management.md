@@ -20,7 +20,7 @@ Texas has roughly 380 banks. This pass covers **Tier 1 (Texas-headquartered bank
 | **Broadway Bank** | San Antonio | **Broadway Wealth Solutions, Inc.**, an RIA wholly owned but separate from the bank, delivering the "Insight Advisor" and "Insight Digital" brands. "Insight Partner" is the trust administration group. Also real estate, farm and ranch, and oil, gas and mineral management | Bank $5.9B assets; **$3.8B under wealth management**. The RIA itself shows $308M AUM and 11 employees, so most wealth assets sit on the trust side | High |
 | **PlainsCapital Bank** (Hilltop Holdings) | Dallas | Bank-level private banking plus trust and wealth management. The holding company owns two broker-dealers: **Hilltop Securities Inc.** and **Momentum Independent Network Inc.** HilltopSecurities is a full-service investment bank and RIA that also does securities clearing | Fifth largest Texas-HQ bank by deposit share, **64 Texas branches**. Hilltop $15.8B assets | High |
 | **Southside Bank** | Tyler | Two channels. In-house **Wealth Management & Trust Group**, providing wealth services 40+ years, team with 150–200 years combined experience. Plus **Southside Investment Services of Raymond James** | $8.5B assets, 53 branches across East Texas, Southeast Texas, DFW, Austin and Houston | High |
-| **First Financial Bankshares** | Abilene | **First Financial Wealth Management** (recently renamed). Investment management, retirement planning, trust and estate administration, mineral management, real property management, fiduciary services | **Nine Texas markets, 79 locations** | High |
+| **First Financial Bankshares** | Abilene | **Two channels, corrected 2026-09-07.** (1) **First Financial Wealth Management** (formerly First Financial Trust & Asset Management) — in-house investment management, retirement planning, trust and estate administration, mineral management, real property management, fiduciary services. (2) **First Financial Investment Advisors**, a **Raymond James** program. Abilene wealth office 400 Pine St, Ste 300, (325) 627-7100 | **Nine Texas markets, 79 locations** | High |
 | **American National Bank of Texas (ANBTX)** | Terrell | **ANBTX Wealth Management.** Asset management, financial planning, investment services, trust and estate | **13th largest trust organization in Texas, $3B+ AUM.** 27 North Texas branches | High |
 | **Texas Bank and Trust** | Longview | Two channels. **TBT Wealth Management** for personal trust and estate planning, offices in East Texas and DFW. Plus **TBT Financial Services**, which LPL Financial publicly welcomed, so the brokerage side runs on **LPL** | Founded 1958 | High |
 | **Texas Regional Bank** | Rio Grande Valley | **TRB Wealth Management, LLC**, an SEC-registered RIA doing business as TRB Trust and Wealth Management. Trust and family office services offered exclusively through the bank. Advisors and trust officers average 20+ years from global investment firms | Institutional work for nonprofits, endowments, foundations, municipalities | High |
@@ -55,9 +55,9 @@ Texas is consolidating fast and two deals moved a lot of wealth assets in the la
 Different from Louisiana in one important way: **Texas banks are far more likely to own their own broker-dealer or RIA** rather than host a third party.
 
 - **In-house BD or RIA:** Frost (both), Texas Capital (RIA), Broadway (RIA), PlainsCapital/Hilltop (two BDs), Texas Regional (RIA), BOK Financial (BOK Financial Advisors)
-- **Raymond James:** Prosperity, Southside, Woodforest, b1BANK
+- **Raymond James:** Prosperity, Southside, Woodforest, First Financial (its second channel), b1BANK
 - **LPL:** Texas Bank and Trust, IBC Bank, Pegasus Bank
-- **In-house trust only:** Amarillo National, FirstBank Southwest, First Financial, ANBTX, Jefferson Bank (1900 Wealth)
+- **In-house trust only:** Amarillo National, FirstBank Southwest, ANBTX, Jefferson Bank (1900 Wealth)
 - **Cetera:** none found yet in Texas. Worth noting that Cetera Financial Institutions supports 450+ bank and credit union programs nationally and has been actively taking programs off LPL, so Tier 3 will likely surface some.
 
 ## 5. What is not done
