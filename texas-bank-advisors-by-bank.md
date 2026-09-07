@@ -1,34 +1,40 @@
-# Texas Bank Advisors — Roster in Prose, by Region
+# South Texas Bank Advisors — Roster in Prose, by Region
 
-Compiled 6 September 2026, then EXTENDED AND CORRECTED in a second research pass the same day. Research channel: web search only. 64 institutions, 213 named people. Read the Verification Ceiling first — it is the single most important thing to know before using any row.
+Compiled 6 September 2026; extended and corrected in a second pass the same day; then RE-SCOPED AND DEEPENED IN A THIRD PASS on 7 September 2026 against the four South Texas territories — Houston Metro & Southeast Texas, San Antonio Metro & Hill Country, the Mexico Border, and the Coastal Bend & Golden Crescent between them. Austin and Dallas were dropped from the research target per instruction; rows already captured there are retained and filed under 'Outside the territory' rather than deleted. Research channel: web search only. Read the Verification Ceiling first — it is the single most important thing to know before using any row.
 
 Companion files: `texas-banks-wealth-management.md` (which banks have programs and what platform each runs on, also by region) and `texas-bank-advisors.xlsx` (a filterable Master List with a Region column, one tab per region, and one tab per bank). All three come from one dataset, so a correction in one appears in all three.
 
-## The four regions
+## The territory
 
-**1. Houston Metro & Southeast Texas** — Houston and its metro, out to College Station/Bryan in the north-west, Beaumont and Port Arthur in the east, and down the coast to Lake Jackson and Angleton. Also The Woodlands, Kingwood, Humble, Sugar Land, Katy, Pearland, Conroe, Galveston and Victoria.
+**1. Houston Metro & Southeast Texas** — Houston and its metro, out to College Station and Bryan in the north-west, Beaumont and Port Arthur in the east, and down the coast to Lake Jackson and Angleton. Also The Woodlands, Kingwood, Humble, Sugar Land, Katy, Pearland, Conroe, Galveston, Texas City, Baytown, Wharton and El Campo.
 
 **2. San Antonio Metro & Hill Country** — San Antonio and the surrounding Hill Country — New Braunfels, Boerne, Seguin, Fredericksburg, Kerrville, Bandera, Schertz and Canyon Lake.
 
-**3. South Texas & the Mexico Border** — South Texas and the Mexico border — Laredo and Zapata, the Rio Grande Valley (McAllen, Edinburg, Pharr, Harlingen, Brownsville, Weslaco, Rio Grande City), Eagle Pass, Del Rio and Uvalde, plus the Coastal Bend (Corpus Christi, Alice, Kingsville, Rockport, Port Aransas, Beeville, Goliad).
+**3. The Mexico Border** — The Mexico border — Laredo and Zapata, the Rio Grande Valley (McAllen, Edinburg, Pharr, Mission, Harlingen, Brownsville, Weslaco, Rio Grande City), Eagle Pass, Del Rio, Uvalde and Carrizo Springs.
 
-**4. Rest of Texas** — Everything else in Texas: Dallas-Fort Worth and the whole Metroplex, AUSTIN and Central Texas, El Paso, Lubbock, Amarillo and the Panhandle, Midland-Odessa and the Permian Basin, Abilene, San Angelo, Waco, Wichita Falls, and East Texas (Tyler, Longview, Henderson, Jacksonville).
+**4. Coastal Bend & Golden Crescent (between them)** — The region between Houston, San Antonio and the border — the Coastal Bend and the Golden Crescent. Corpus Christi, Victoria, Kingsville, Alice, Beeville, Goliad, Rockport, Port Aransas, Aransas Pass, Refugio, Sinton, Robstown, Port Lavaca, Bay City, Cuero, Gonzales, Yoakum, Karnes City, Floresville, Pleasanton, Three Rivers and George West.
 
-**Unassigned — statewide, multi-region or city not found** — People and institutions whose office city could not be pinned down, or whose role spans several regions at once — statewide executives, regional managing directors and multi-market coverage roles. These are NOT force-assigned to a region, because guessing a city would be worse than leaving it blank. To work them, use the bank's own home region as the starting point: 18 of the 29 are Frost advisors whose IAPD records gave a CRD but no city, and six are Texas Regional Bank people who will sit in Harlingen, Houston, McAllen or San Antonio. One search each on a name plus a city would place most of them.
+**5. Outside the territory** — Everything outside the territory, retained but DE-PRIORITISED: Austin and Central Texas, Dallas-Fort Worth and the Metroplex, El Paso, Lubbock, Amarillo and the Panhandle, Midland-Odessa and the Permian Basin, Abilene, San Angelo, Waco, Wichita Falls, and East Texas (Tyler, Longview, Henderson, Jacksonville). Kept in the file because many of these banks also operate inside the territory, and because the platform and consolidation intelligence still applies.
 
-**Three boundary calls I made, so you can correct them if they are wrong.**
+**Unassigned — city not found or multi-region role** — People and institutions whose office city could not be pinned down, or whose role spans several regions at once. These are NOT force-assigned, because guessing a city would be worse than leaving it blank. To work them, start from the bank's own home region — most of the Frost entries here are advisors whose IAPD records gave a CRD but no city, and the Texas Regional Bank entries will sit in Harlingen, McAllen, Houston or San Antonio.
 
-1. **Austin sits in Region 4, not its own region.** You named Houston and San Antonio as the focus, the border as
-   the third, and "everything else" as the fourth, so Austin falls into the fourth by construction. It is a large
-   wealth market and if you want it split out, that is a quick change.
-2. **El Paso sits in Region 4, not the border region.** It is on the Mexico border, but you framed the border
-   region as what is near San Antonio and running down to Mexico, which reads as South Texas. El Paso is roughly
-   550 miles from San Antonio, so I put it with the rest of the state.
-3. **Corpus Christi and the Coastal Bend sit in Region 3.** They are not on the border, but they are South Texas
-   and sit naturally with the Valley rather than with Houston or with the rest of the state.
+**The territory, and the calls I made drawing it.**
 
-A bank appears under EVERY region where it has a presence, because most of the large ones span several. Its
-home region is noted on each row. An individual appears once, under the region of their own office city.
+The four focus regions are Houston, San Antonio, the Mexico border, and the region between them. Austin and
+Dallas-Fort Worth are explicitly OUT of the territory and now sit in region 5 alongside West, North and East
+Texas. Nothing was deleted — those banks are still in the file with their platform and consolidation detail,
+because many of them also operate inside the territory — but they are no longer part of the focus.
+
+1. **Corpus Christi anchors region 4, not the border.** It is not a border city, and it sits naturally with
+   Victoria, Kingsville, Alice and the rest of the Coastal Bend in the space between the three focus metros.
+2. **Victoria moved into region 4** for the same reason. It had been grouped with Houston, but the Golden
+   Crescent belongs with Corpus.
+3. **El Paso stays out of the border region.** It is on the Mexico border but it is 550 miles from San Antonio
+   and nowhere near this territory, so it sits in region 5 with the rest of West Texas.
+4. **Beaumont, Port Arthur and College Station stay with Houston**, as originally specified.
+
+A bank appears under EVERY region where it has a presence, because most of the large ones span several. Its home
+region is noted on each row. An individual appears once, under the region of their own office city.
 
 ## Before you use a single name here
 
@@ -47,13 +53,219 @@ A second research pass proved this matters in both directions: five people carri
 
 # 1. Houston Metro & Southeast Texas
 
-*Houston and its metro, out to College Station/Bryan in the north-west, Beaumont and Port Arthur in the east, and down the coast to Lake Jackson and Angleton. Also The Woodlands, Kingwood, Humble, Sugar Land, Katy, Pearland, Conroe, Galveston and Victoria.*
+*Houston and its metro, out to College Station and Bryan in the north-west, Beaumont and Port Arthur in the east, and down the coast to Lake Jackson and Angleton. Also The Woodlands, Kingwood, Humble, Sugar Land, Katy, Pearland, Conroe, Galveston, Texas City, Baytown, Wharton and El Campo.*
 
-**34 named people across 12 institutions in this region.**
+**67 named people across 17 institutions in this region.**
+
+## Texas Regional Bank (TRB) — TRB Trust & Wealth Management
+
+Headquartered in Harlingen, TX (bank). CONTRADICTION FLAGGED: trb.bank and the bank's own releases say Harlingen; a third-party profile (altss.com) says McAllen; and the Trust & Wealth DIVISION is separately described as HOUSTON-headquartered. All three recorded — always qualify bank HQ vs division HQ. Home region: 3. The Mexico Border. Program: TRB Trust & Wealth Management (rebranded). Boutique fiduciary division: investment management, estate and trust administration, financial planning, family office services, institutional services. Broker-dealer: None identified. This is an RIA + bank trust model, NOT a third-party-BD brokerage. BRAND vs ENTITY NOTE: unlike most bank programs in this dataset, here the brand DOES map to a real bank-owned registered entity — TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management. Clearing and custody: Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
+
+**9 of this bank's 15 named people sit in Houston Metro & Southeast Texas.**
+
+**Trey Willerson** is listed as President, TRB Trust & Wealth Management; continues as Chief Investment Officer in Houston, TX. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here. Licences and designations: CFA. 25+ years; previously SVP & Senior Portfolio Manager at Northern Trust; joined TRB in the April 2024 hiring wave as CIO; promoted to President effective 31 August 2026.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Named President in a PR Newswire release dated 31 AUGUST 2026 — six days before this research was run, and the freshest source in the entire project. Carried independently by Bankers Digest.
+
+&nbsp;&nbsp;*Sources:* https://www.prnewswire.com/news-releases/texas-regional-bank-appoints-trey-willerson-president-of-trb-trust--wealth-management-302865316.html · https://bankersdigest.com/texas-regional-bank-appoints-willerson-president-of-trb-trust-wealth-management/
+
+**Joshua R. Flores** is listed as Chief Fiduciary Officer in Houston region (executive team) — city stated at region level, not office level. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here. Joined April 2024. Oversees all trust and estate accounts where TRB serves as fiduciary; a decade of experience in trust and estate litigation, including will contests, trust administration and guardianship proceedings.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered fiduciary role).** Named in the April 2024 hiring release and in current descriptions of division leadership. A chief fiduciary officer is typically not securities-registered; per the protocol that is not a staleness flag.
+
+&nbsp;&nbsp;*Sources:* https://trb.bank/news/trust-wealth-management-division-grows-with-four-strategic-hires/
+
+**Brian Cafferky** is listed as Chief Operating and Compliance Officer, TRB Trust & Wealth Management — TITLE RESOLVED IN PASS 2 (the fuller form is correct, not plain COO) in Houston region (executive team) — city stated at region level, not office level. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here. Joined April 2024.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered operations role).** Named in the April 2024 hiring release and described in current coverage as the division's Houston-based Chief Operating and Compliance Officer, which resolves the pass-1 title discrepancy.
+
+&nbsp;&nbsp;*Sources:* https://trb.bank/wealth-management/trust-wealth-team/ · https://trb.bank/news/trust-wealth-management-division-grows-with-four-strategic-hires/
+
+**Hunter Layne** is listed as Senior Wealth Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Named on TRB's current trust & wealth team page or hiring releases. NOTE: no BrokerCheck title check was run for any TRB individual — the session search budget was exhausted. IARs of a bank-owned RIA may hold no FINRA CRD, so absence of a BrokerCheck record is not itself a staleness flag.
+
+&nbsp;&nbsp;*Sources:* https://trb.bank/news/trust-wealth-management-division-grows-with-four-strategic-hires/ · https://trb.bank/all/hunter-layne-senior-wealth-advisor-houston-trb/
+
+**Peyton Stamper** is listed as Client Advisor in Houston region (executive team) — city stated at region level, not office level. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here. Joined April 2024.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Named in the April 2024 hiring release, roughly 2.4 years old — under the 3-year staleness threshold, so not marked stale, but not independently re-confirmed either.
+
+&nbsp;&nbsp;*Sources:* https://trb.bank/news/trust-wealth-management-division-grows-with-four-strategic-hires/
+
+**Darren Hem** is listed as Associate Client Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Subject of a dedicated TRB appointment announcement.
+
+&nbsp;&nbsp;*Sources:* https://trb.bank/news/darren-hem-joins-trb-trust-wealth-houston/
+
+**Elena Pappas** is listed as Trust Officer in Houston, TX. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered trust role).** Dedicated TRB news release announcing their hire as Trust Officer in Houston.
+
+&nbsp;&nbsp;*Sources:* https://trb.bank/news/elena-pappas-trust-officer-texas-regional-bank/
+
+**Tanya T. Castro** is listed as Senior Vice President | Wealth Strategist, TRB Trust & Wealth Management in Houston, TX. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser (IAPD firm 309370), 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — confirmed as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here. Licences and designations: CFP(R), CTFA, AEP(R) — the strongest credential stack on the TRB bench. 20+ years in financial services; wealth management, relationship building and strategic client development.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered fiduciary role).** Hired into the HOUSTON seat — the Bankers Digest headline reads 'Castro Joins Texas Regional Bank as Senior Vice President/Wealth Strategist in Houston', so the city is stated, not inferred. A trust/wealth-strategist seat is routinely not securities-registered, so the absence of a CRD here is NOT a staleness flag.
+
+&nbsp;&nbsp;*Sources:* https://trb.bank/news/trb-trust-wealth-management-division-welcomes-tanya-t-castro-as-senior-vice-president-and-wealth-strategist/ · https://bankersdigest.com/castro-joins-texas-regional-bank-as-senior-vice-president-wealth-strategist-in-houston/ · https://www.linkedin.com/in/tanyacastro/
+
+**Ben Fedorko** is listed as President, TRB Trust and Wealth Management (per the bank team page) — SUPERSEDED, current role unknown in Houston, TX. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
+
+&nbsp;&nbsp;**Status: UNRESOLVED — CONTRADICTION, FOR A CALL.** CONTRADICTION recorded, not silently resolved. TRB's own team and rebrand pages describe the division as 'led by President Ben Fedorko', while the 31 Aug 2026 release appoints TREY WILLERSON President of the SAME division. Two sources, same title, two people. The most likely reading is a succession the team page has not caught up with, but that was not confirmed. ASK ON THE CALL whether Fedorko moved up, moved out, or holds a parallel role. PASS 3 ADDS, WITHOUT CLOSING IT: a dedicated TRB announcement page titles them 'Trust Division President' and places them in HOUSTON. That is consistent with a Fedorko-then-Willerson succession, but no source says they left, moved up, or hold a parallel role, so the contradiction stands. The city, at least, is now pinned.
+
+&nbsp;&nbsp;*Sources:* https://trb.bank/wealth-management/trust-wealth-team/ · https://www.prnewswire.com/news-releases/texas-regional-bank-appoints-trey-willerson-president-of-trb-trust--wealth-management-302865316.html · https://trb.bank/people-you-know/texas-regional-bank-adds-ben-fedorko-as-trust-division-president/
+
+---
+
+## Cadence Bank — ACQUIRED BY HUNTINGTON (incl. Linscomb Wealth, Houston)
+
+Headquartered in was Houston/Tupelo. Now part of The Huntington National Bank (Columbus, OH). Program: Linscomb Wealth (f/k/a Linscomb & Williams) — a Houston-headquartered Barron's Top-100 RIA, a Cadence subsidiary since 2012, rebranded January 2024. Texas offices: Houston, Austin, The Woodlands. Non-Texas: Birmingham, Huntsville, Atlanta. Broker-dealer: not confirmed post-merger. PLATFORM CONSEQUENCE: Huntington selected AMERIPRISE FINANCIAL SERVICES, LLC as its new retail investment program provider on 4 February 2026, moving Huntington Financial Advisors' retail brokerage, advisory and insurance onto the Ameriprise Financial Institutions Group. That changes the platform under every Huntington-owned Texas branch, including the former Cadence and Veritex footprints. Clearing and custody: not confirmed. If the Ameriprise/AFIG transition governs, clearing would be American Enterprise Investment Services — but that was NOT confirmed for these accounts and is not asserted.
+
+**8 of this bank's 8 named people sit in Houston Metro & Southeast Texas.**
+
+**Phillip Hamman** is listed as President & Chief Executive Officer, Linscomb Wealth, Inc in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CFA, CFP(R).
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/phillip-hamman/ · https://linscombwealth.com/our-team/
+
+**G. Walter Christopherson** is listed as Chairman, Linscomb Wealth, Inc in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: JD, CFP(R).
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/our-team/ · https://www.bbb.org/us/tx/houston/profile/investment-management/linscomb-wealth-inc-0915-41167
+
+**Neal Wadley** is listed as Managing Director, Senior Wealth Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CFP(R), CIMA(R). 20+ years; generational wealth, complex planning, family office services.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/neal-wadley/
+
+**Heidi Davis** is listed as Managing Director, Senior Wealth Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CPA/PFS, CFP(R). Tax-focused comprehensive planning.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/heidi-davis/
+
+**Jessica Banitt** is listed as Managing Director, Senior Wealth Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CFP(R), CPA. 10+ years with high-net-worth clients.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/jessica-banitt/
+
+**Lauren Rich** is listed as Regional Director, Senior Wealth Advisor in Houston, TX — BUT THE TITLE IS 'REGIONAL DIRECTOR' AND THE REGION IS NOT STATED. This could be one of the non-Houston offices. Verify before working as Houston. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CFP(R). BBA Finance, UT Austin; FPA member.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/lauren-rich/
+
+**Troy Taylor** is listed as Senior Wealth Advisor, Team Lead in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: MBA (Cornell).
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/troy-taylor/
+
+**Carolyn Galfione** is listed as Senior Wealth Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: B.A. Accounting, UT Austin; MBA Finance, Rice.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/carolyn-galfione/
+
+---
+
+## Amegy Bank (a division of Zions Bancorporation, N.A.)
+
+Headquartered in Houston, TX — but note that AMEGY IS A DIVISION, NOT A SEPARATE CHARTER. The charter is Zions Bancorporation, N.A., Salt Lake City, UT. Program: Amegy Wealth Advisors (retail brokerage/advisory brand) + Amegy Private Banking + Fiduciary and Trust Services. Broker-dealer: *** LPL FINANCIAL LLC — AND 'AMEGY WEALTH ADVISORS' IS A MARKETING BRAND SITTING ON LPL, NOT A REGISTERED ENTITY. *** Amegy's own disclosure reads: 'Registered representatives of LPL offer products and services using the name Amegy Wealth Advisors, and may also be employees of Amegy Bank, a division of Zions Bancorporation, N.A.' Securities AND advisory services are offered through LPL Financial. The parallel Zions disclosure adds that 'Zions Wealth Advisors are not registered as a broker/dealer or investment advisor' and that Zions Bancorporation receives referral payments from LPL — a disclosed conflict. SEPARATE TRUST RAIL, DO NOT MERGE IT WITH THE BD: trust and fiduciary investment services are provided through ZIONS WEALTH, a division of Zions Bancorporation, N.A. — bank fiduciary powers, not LPL. TWO DISTINCT RAILS AT THE SAME BANK. Clearing and custody: LPL Financial self-clears. Not separately re-confirmed from an Amegy/LPL document, so treat the SPECIFIC Amegy arrangement as not confirmed.
+
+**7 of this bank's 7 named people sit in Houston Metro & Southeast Texas.**
+
+**Rebecca Hensley** is listed as Wealth Advisor, Amegy Wealth Advisors in Houston, TX — the exact office was not found. Legal name on record: REBECCA LYNN HENSLEY. CRD 3235871. Clearing at LPL self-clears; the specific Amegy arrangement is not confirmed.
+
+&nbsp;&nbsp;**Status: ACTIVE.** BrokerCheck result title reads 'REBECCA LYNN HENSLEY - Broker at LPL FINANCIAL LLC' — present-tense 'Broker at', and LPL is exactly Amegy's disclosed broker-dealer. Corroborated by a current amegybank.com bio page. CRD taken directly from the BrokerCheck summary URL, not inferred.
+
+&nbsp;&nbsp;*Sources:* https://brokercheck.finra.org/individual/summary/3235871 · https://www.amegybank.com/personal/directory/wealth-advisors/rebecca-hensley/
+
+**Rob Moyes — legal first name NOT FOUND; likely Robert, but do not assume it** is listed as Wealth Advisor, Amegy Wealth Advisors in Houston, TX — the exact office was not found. No CRD was obtained, and none is guessed. Clearing at LPL self-clears; the specific Amegy arrangement is not confirmed. Joined Amegy Wealth Advisors in 2015; 20+ years in financial services with individuals, business owners and institutions.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Current bank bio page. No BrokerCheck title hit surfaced under 'Rob Moyes' — very likely indexed under a legal first name. The absence here is a search-form artifact, NOT a departure signal.
+
+&nbsp;&nbsp;*Sources:* https://www.amegybank.com/personal/directory/wealth-advisors/rob-moyes/
+
+**Brent Buehler** is listed as Wealth Advisor, Amegy Wealth Advisors in Houston, TX — the exact office was not found. No CRD was obtained, and none is guessed. Clearing at LPL self-clears; the specific Amegy arrangement is not confirmed. Joined Amegy Wealth Advisors in 2018; 18+ years in the financial industry.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Live individual bio page on amegybank.com under /personal/directory/wealth-advisors/, which is the primary currency-of-employment signal. No BrokerCheck title hit surfaced — a search-form artifact, not a departure signal.
+
+&nbsp;&nbsp;*Sources:* https://www.amegybank.com/personal/directory/wealth-advisors/brent-buehler/
+
+**Robert V. Walsh, Jr.** is listed as Wealth Advisor, Amegy Wealth Advisors in Houston, TX — the exact office was not found. No CRD was obtained, and none is guessed. Clearing at LPL self-clears; the specific Amegy arrangement is not confirmed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Live individual bio page on amegybank.com under /personal/directory/wealth-advisors/, which is the primary currency-of-employment signal. No BrokerCheck title hit surfaced — a search-form artifact, not a departure signal.
+
+&nbsp;&nbsp;*Sources:* https://www.amegybank.com/personal/directory/wealth-advisors/robert-v-walsh-jr/
+
+**Robert Shelton** is listed as Wealth Advisor, Amegy Wealth Advisors in Houston, TX — the exact office was not found. No CRD was obtained, and none is guessed. Clearing at LPL self-clears; the specific Amegy arrangement is not confirmed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Live individual bio page on amegybank.com under /personal/directory/wealth-advisors/, which is the primary currency-of-employment signal. No BrokerCheck title hit surfaced — a search-form artifact, not a departure signal.
+
+&nbsp;&nbsp;*Sources:* https://www.amegybank.com/personal/directory/wealth-advisors/robert-shelton/
+
+**Michael Pritchard** is listed as Wealth Advisor, Amegy Wealth Advisors in Houston, TX — the exact office was not found. No CRD was obtained, and none is guessed. Clearing at LPL self-clears; the specific Amegy arrangement is not confirmed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Live individual bio page on amegybank.com under /personal/directory/wealth-advisors/, which is the primary currency-of-employment signal. No BrokerCheck title hit surfaced — a search-form artifact, not a departure signal.
+
+&nbsp;&nbsp;*Sources:* https://www.amegybank.com/personal/directory/wealth-advisors/michael-pritchard/
+
+**J. Ryan Taylor** is listed as Wealth Advisor, Amegy Wealth Advisors in Houston, TX — the exact office was not found. No CRD was obtained, and none is guessed. Clearing at LPL self-clears; the specific Amegy arrangement is not confirmed. Licences and designations: CFA. 20+ years of financial experience; REJOINED Amegy Wealth Advisors in June 2017.
+
+&nbsp;&nbsp;**Status: UNRESOLVED (NAME COLLISION).** *** DO NOT ATTACH A CRD. *** BrokerCheck returns at least five distinct Ryan Taylors — CRD 5167042, 6808437, 6263598, 4570484 at RBC Capital Markets, and 6212541 at Cetera Advisor Networks — NONE confirmed as this person and NONE shown at LPL. Their current bank bio page supports current employment; only the identity match is unresolved.
+
+&nbsp;&nbsp;*Sources:* https://www.amegybank.com/personal/directory/wealth-advisors/j-ryan-taylor/
+
+---
+
+## Moody National Bank (d/b/a Moody Bank) — Wealth Management & Trust
+
+Headquartered in Galveston, TX — Main/Downtown Banking Center, 2302 Postoffice Street, Galveston, TX 77550. Nationally chartered, founded 1907. Privately owned, Moody family. Program: Moody Bank Wealth Management & Trust (WM&T). Department established 1927. Administers OVER $26 BILLION in assets and is described as THE LARGEST TRUST DEPARTMENT DOMICILED IN TEXAS — against a bank of only ~$1.7B in assets. Ranked #1 by the Houston Business Journal per the bank's own news post. Broker-dealer: NONE IDENTIFIED — this appears to be a PURE NATIONAL BANK TRUST DEPARTMENT. No 'securities offered through...' disclosure was found on any Moody page, no affiliated BD name surfaced, and no Moody wealth staffer produced a BrokerCheck title hit. Recorded as NO BROKER-DEALER FOUND, which is not the same as proven absent. Worth one confirming call. Clearing and custody: not confirmed.
+
+**5 of this bank's 6 named people sit in Houston Metro & Southeast Texas.**
+
+**Wayne H. Madsen** is listed as EVP, Director of Wealth Management & Trust — CONTRADICTION: another rendering gives the title as 'Executive Vice President and Chief Trust Officer'. Both recorded; confirm on a call in Galveston, TX. No CRD was obtained, and none is guessed. Office: Main / Downtown Banking Center, 2302 Postoffice Street, Galveston, TX 77550. Licences and designations: not found; FORMER PRACTISING LAWYER. 29 years in the industry including the practice of law; 22+ years in trust banking. Previously GROUP EVP, WEALTH MANAGEMENT DIVISION at BROADWAY BANK, San Antonio — note the direct line back into your San Antonio territory. Before that, Managing Director, Wealth Management Department, THE NORTHERN TRUST COMPANY, Chicago.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered role).** A BrokerCheck title search returned only unrelated individuals (Jeffrey Duane Madsen, Wayne F Nelson) and no record for this person — consistent with a non-securities-registered trust executive and NOT a staleness flag. Their bank bio page is current.
+
+&nbsp;&nbsp;*Sources:* https://www.moodybank.com/our-team/wayne-madsen · https://www.moodybank.com/managing-wealth
+
+**John B. Smith — rendered on the bank team page simply as 'John Smith'** is listed as EVP, Senior Trust Advisor — THREE TITLES IN CIRCULATION: 'Senior Trust Advisor', 'Senior Trust Officer' and 'Head of Moody Bank Wealth Management & Trust'. It is unclear which of the two heads the department. For a call in Galveston, TX. No CRD was obtained, and none is guessed. Office: Main / Downtown Banking Center, 2302 Postoffice Street, Galveston, TX 77550. Licences and designations: CTFA (from an earlier pass; not re-confirmed this run). 9 years at Moody Bank; 32 years total in banking.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered role).** UNVERIFIED as a non-registered role, and REGISTRATION IS UNRESOLVABLE BY NAME COLLISION — 'John Smith' cannot be run through the BrokerCheck title heuristic at all. DO NOT ATTRIBUTE ANY BROKERCHECK RECORD TO THEM.
+
+&nbsp;&nbsp;*Sources:* https://www.moodybank.com/our-team/john-smith · https://www.moodybank.com/our-team
+
+**Jennifer Dunn Key** is listed as VP, Wealth Advisor, Wealth Management & Trust Department in Galveston, TX. No CRD was obtained, and none is guessed. Office: Main / Downtown Banking Center, 2302 Postoffice Street, Galveston, TX 77550. Licences and designations: not found; former licensed Texas real estate agent. 25+ years in the Houston-area business sector (project management, client relations, sales, business management); JOINED MOODY BANK NOVEMBER 2019 as Trust Fulfillment Officer and has since been promoted to VP/Wealth Advisor; prior Keller Williams Premier Katy 2015-2019; degree in Interior Design & English, Stephen F. Austin State University.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered role).** SURNAME RESOLVED IN PASS 3 = KEY. The bank team page renders 'Jennifer Dunn'; two independent third-party records render 'Jennifer Dunn Key' / 'Jennifer Key' at Moody. NAME NOTE: the middle/maiden versus surname ordering is ambiguous — use 'Jennifer Dunn Key' and expect they may go by 'Jennifer Key'. DO NOT SHORTEN TO 'Jennifer Dunn' ALONE. No BrokerCheck record surfaced; the trust-fulfillment-to-wealth-advisor path is a classic non-registered bank trust track. EMAIL NOT RECORDED: an aggregator shows a masked j***@moodybank.com value, which is not a real address and was not reconstructed.
+
+&nbsp;&nbsp;*Sources:* https://www.moodybank.com/our-team · https://theorg.com/org/moody-national-bank/org-chart/jennifer-dunn-key · https://www.zoominfo.com/p/Jennifer-Key/10194346584
+
+**C. Jordan Pitts — goes by 'Jordan'** is listed as SVP, Senior Fiduciary Officer in Galveston, TX. No CRD was obtained, and none is guessed. Office: Galveston Banking Center.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered role).** Current bank bio page on moodybank.com. No BrokerCheck record surfaced, which is EXPECTED for bank fiduciary staff and is NOT a staleness flag.
+
+&nbsp;&nbsp;*Sources:* https://www.moodybank.com/our-team/c-jordan-pitts
+
+**Darren King** is listed as SVP & Chief Investment Officer in Galveston, TX. No CRD was obtained, and none is guessed. Office: Main / Downtown Banking Center, 2302 Postoffice Street, Galveston, TX 77550. Licences and designations: CFA. 25 years in asset management; 15 years as Senior Portfolio Manager and Head of Equities at a $24 billion Texas-based financial institution (unnamed in the source); 9 years as Investment Officer and Head of Equity Research at an independent HOUSTON trust company (unnamed).
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered role).** A BrokerCheck title search returned only unrelated people (Mary B King, Shanelle Mary King) and no record for them; bank CIO roles are commonly non-registered. THEY ARE THE PERSON WHO PICKS THE FUNDS — for a Pacer book this is the name on this tab that matters most.
+
+&nbsp;&nbsp;*Sources:* https://www.moodybank.com/our-team/darren-king-cfa · https://www.moodybank.com/managing-wealth
+
+---
 
 ## Regions Bank (Regions Financial Corporation)
 
-Headquartered in Birmingham, Alabama. Home region: 4. Rest of Texas. Program: (1) REGIONS PRIVATE WEALTH MANAGEMENT — the HNW/UHNW bank channel, staffed by Wealth Advisors, Trust Advisors, Wealth Strategists, Portfolio Managers and Lending Advisors who are Regions Bank employees and are largely NOT securities-registered. (2) REGIONS INVESTMENT SOLUTIONS — the retail/branch brokerage channel. Broker-dealer: Retail channel (Regions Investment Solutions): CETERA INVESTMENT SERVICES LLC — VERIFIED, not assumed. Regions sold Morgan Keegan to Raymond James in April 2012 and re-entered securities via a Cetera arrangement; Cetera publicly announced a RENEWED relationship with Regions Bank and provides investment services for Regions in 16 states. PWM channel: fiduciary, trust and investment management delivered through the bank's own trust and investment management arms, NOT through Cetera. Clearing and custody: Retail channel: CETERA INVESTMENT SERVICES IS SELF-CLEARING — it became the first broker-dealer in the bank/institutional space to self-clear in 1991 and holds IRS custodial powers granted in 1993, custodying IRA assets for 140,000+ customers. Cetera ADDITIONALLY uses PERSHING LLC as third-party custodian for certain IRA types, and at enterprise level uses both NFS/Fidelity and Pershing. For the PWM channel specifically: not confirmed.
+Headquartered in Birmingham, Alabama. Home region: 5. Outside the territory. Program: (1) REGIONS PRIVATE WEALTH MANAGEMENT — the HNW/UHNW bank channel, staffed by Wealth Advisors, Trust Advisors, Wealth Strategists, Portfolio Managers and Lending Advisors who are Regions Bank employees and are largely NOT securities-registered. (2) REGIONS INVESTMENT SOLUTIONS — the retail/branch brokerage channel. Broker-dealer: Retail channel (Regions Investment Solutions): CETERA INVESTMENT SERVICES LLC — VERIFIED, not assumed. Regions sold Morgan Keegan to Raymond James in April 2012 and re-entered securities via a Cetera arrangement; Cetera publicly announced a RENEWED relationship with Regions Bank and provides investment services for Regions in 16 states. PWM channel: fiduciary, trust and investment management delivered through the bank's own trust and investment management arms, NOT through Cetera. Clearing and custody: Retail channel: CETERA INVESTMENT SERVICES IS SELF-CLEARING — it became the first broker-dealer in the bank/institutional space to self-clear in 1991 and holds IRS custodial powers granted in 1993, custodying IRA assets for 140,000+ customers. Cetera ADDITIONALLY uses PERSHING LLC as third-party custodian for certain IRA types, and at enterprise level uses both NFS/Fidelity and Pershing. For the PWM channel specifically: not confirmed.
 
 **5 of this bank's 8 named people sit in Houston Metro & Southeast Texas.**
 
@@ -89,6 +301,44 @@ Headquartered in Birmingham, Alabama. Home region: 4. Rest of Texas. Program: (1
 
 ---
 
+## Third Coast Bank, SSB (Third Coast Bancshares, NASDAQ: TCBX)
+
+Headquartered in Humble, TX (Greater Houston). Texas state savings bank charter, founded 2008. Program: Third Coast Advisors. Broker-dealer: Ameriprise Financial Services, LLC. The program launched in SEPTEMBER 2021 as a bank investment program 'in partnership with Ameriprise Financial'. Third Coast Advisors is a BRAND on the Ameriprise platform, not a registered entity of the bank. Clearing and custody: not confirmed — Ameriprise self-clears via American Enterprise Investment Services, but no source states it for this program.
+
+**5 of this bank's 5 named people sit in Houston Metro & Southeast Texas.**
+
+**Andrew D. Rohrer** is listed as Financial advisor, Third Coast Advisors in Greater Houston — exact office NOT FOUND. No CRD was obtained, and none is guessed. Clearing at not confirmed — Ameriprise self-clears via American Enterprise Investment Services, but no source states it for this program. Licences and designations: ChFC.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Named on the CURRENT Third Coast Advisors team/locations page — a live firm source, which is why they are not stale. No BrokerCheck title was returned for them, so registration is not independently confirmed.
+
+&nbsp;&nbsp;*Sources:* https://www.thirdcoastadv.com/locations · https://www.thirdcoast.bank/Premier-Banking/Third-Coast-Advisors
+
+**Dominic Johnson Sr.** is listed as Financial advisor, Third Coast Advisors in Greater Houston — exact office NOT FOUND. No CRD was obtained, and none is guessed. Clearing at not confirmed — Ameriprise self-clears via American Enterprise Investment Services, but no source states it for this program.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Named on the current team page; no independent registration signal. NOTE THE 'Sr.' SUFFIX — do not conflate with a junior of the same name.
+
+&nbsp;&nbsp;*Sources:* https://www.thirdcoastadv.com/locations · https://www.thirdcoast.bank/Premier-Banking/Third-Coast-Advisors
+
+**Mark A. Smith** is listed as Financial advisor, Third Coast Advisors in Greater Houston — exact office NOT FOUND. No CRD was obtained, and none is guessed. Clearing at not confirmed — Ameriprise self-clears via American Enterprise Investment Services, but no source states it for this program.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Named on the current team page. *** EXTREME CRD-COLLISION RISK: *** 'Mark A. Smith' is one of the most collision-prone names in U.S. financial services and there will be many unrelated Mark Smiths on BrokerCheck. DO NOT ATTACH ANY CRD TO THIS PERSON without matching the firm.
+
+&nbsp;&nbsp;*Sources:* https://www.thirdcoastadv.com/locations · https://www.thirdcoast.bank/Premier-Banking/Third-Coast-Advisors
+
+**Jeanette Allan** is listed as Financial advisor, Third Coast Advisors in Houston / The Woodlands, TX. No CRD was obtained, and none is guessed. 24+ years in financial services as of the 2021 release; serves families and businesses in Houston and The Woodlands, HNW individuals, families and estates; managed ~$249 million at prior firm Wells Fargo.
+
+&nbsp;&nbsp;**Status: LIKELY STALE.** The ONLY source is the launch press release dated 8 September 2021 — five years old, which trips the 3-plus-year staleness rule. No BrokerCheck title match was obtained and no current bank page names their. They may well still be there; the point is that nothing current confirms it. PASS 3 CONFIRMS THE STALE READ AND STRENGTHENS IT: their 2021 launch details are real — 24+ years in financial services, serving families and businesses in Houston and The Woodlands, University of Houston B.A. Finance, ~$249 million managed at Wells Fargo — but THEY DO NOT APPEAR ON THE CURRENT thirdcoastadv.com TEAM LISTING, which now shows Rohrer, Johnson Sr. and Smith. Their Houston/Woodlands market tie is real; their PRESENCE AT THIRD COAST is what is stale.
+
+&nbsp;&nbsp;*Sources:* https://www.businesswire.com/news/home/20210908006017/en/Third-Coast-Advisors-Launches-Investment-Program-in-Partnership-with-Ameriprise-Financial · https://www.thirdcoastadv.com/locations
+
+**'John Bunch' vs 'John Boles' — NAME CONTRADICTION, DO NOT USE EITHER SPELLING FOR OUTREACH** is listed as Financial advisor, Third Coast Advisors in CONTESTED: the earlier capture placed 'Bunch' in Kingwood / Humble / Atascocita, TX. The launch-release material describes BOLES as serving CENTRAL TEXAS — which, if it is the same person, puts them OUTSIDE this territory. No CRD was obtained, and none is guessed. 32+ years in financial services as of the 2021 release; managed ~$136 million at prior firm JP Morgan Chase. *(spans Houston Metro & Southeast Texas + Outside the territory)*
+
+&nbsp;&nbsp;**Status: UNRESOLVED — NAME CONTRADICTION.** CONTRADICTION RECORDED, NOT RESOLVED. The 2021 launch-release material returns a 'JOHN BOLES' — 'over 21 years in financial services, serving families and businesses in Central Texas' — occupying the same slot in the same launch cohort that the earlier pass recorded as 'John Bunch' (32+ years, ~$136 million from JP Morgan Chase). Two possibilities: (a) 'Bunch' was a transcription error for 'Boles', or (b) they are two different people. Neither is picked. Neither name appears on the current thirdcoastadv.com roster, so whichever is correct is ALSO likely stale.
+
+&nbsp;&nbsp;*Sources:* https://www.businesswire.com/news/home/20210908006017/en/Third-Coast-Advisors-Launches-Investment-Program-in-Partnership-with-Ameriprise-Financial · https://www.thirdcoastadv.com/locations
+
+---
+
 ## Trustmark National Bank (Trustmark Corporation)
 
 Headquartered in Jackson, Mississippi. Program: Trustmark Wealth Management (bank/trust side, including Private Banking as a division); TRUSTMARK FINANCIAL SERVICES (the investment/brokerage program brand). Broker-dealer: RAYMOND JAMES FINANCIAL SERVICES, INC. through Raymond James' FINANCIAL INSTITUTIONS DIVISION, marketed as Trustmark Financial Services, with advisory through Raymond James Financial Services Advisors, Inc. *** THIS IS A 2025 CHANGE: Trustmark moved the program OFF LPL FINANCIAL, *** where it had sat under a longstanding referral arrangement. Raymond James announced the incoming program on 22 MAY 2025; trade coverage put it at ~$2.7B in client assets, a program of 33 financial professionals across five southern states of which 18 are advisors. SEPARATELY, TRUSTMARK INVESTMENT ADVISORS, INC. (TIA) is the bank's OWN registered investment adviser subsidiary and handles asset management — TIA is a DIFFERENT THING from the retail BD program; do not merge the two fields. Clearing and custody: Raymond James self-clears — Raymond James & Associates provides clearing for Raymond James Financial Services. No third-party clearing arrangement found.
@@ -121,7 +371,7 @@ Headquartered in Jackson, Mississippi. Program: Trustmark Wealth Management (ban
 
 **Mark Walker** is listed as Vice President / Investment Officer, Portfolio Manager III in SPLIT — Houston, TX AND Jackson, MS. No CRD was obtained, and none is guessed. Advisory through Trustmark Investment Advisors, Inc. — INFERRED from the portfolio-manager title, NOT confirmed. Office: Bunker Hill office, 945 Bunker Hill Road, Houston, TX. 15 years of investment experience.
 
-&nbsp;&nbsp;**Status: UNVERIFIED — dual-state coverage; the Texas presence is real but not exclusive.** Their trustmark.com page is titled 'Mark Walker - MS & TX Portfolio Manager' and names BOTH the Bunker Hill (Houston) office and Jackson, Mississippi. They are a genuinely DUAL-STATE person, so they belong in the Texas dataset WITH AN EXPLICIT MISSISSIPPI FLAG — not silently as a Texas-only row.
+&nbsp;&nbsp;**Status: UNVERIFIED — dual-state coverage; the Texas presence is real but not exclusive.** Their trustmark.com page is titled 'Mark Walker - MS & TX Portfolio Manager' and names BOTH the Bunker Hill (Houston) office and Jackson, Mississippi. They are a genuinely DUAL-STATE person, so they belong in the Texas dataset WITH AN EXPLICIT MISSISSIPPI FLAG — not silently as a Texas-only row. PASS 3: their page title reads 'MS & TX Portfolio Manager', so HOUSTON IS THEIR MARKET, NOT NECESSARILY THEIR DESK. Worth a call to pin down. 15 years of investment experience; high-net-worth individuals, personal trusts, foundations, endowments and government entities.
 
 &nbsp;&nbsp;*Sources:* https://www.trustmark.com/associates/wx/mark-walker
 
@@ -139,7 +389,7 @@ Headquartered in Houston, TX. Program: ProsperityPrivate — split into Prosperi
 
 &nbsp;&nbsp;*Sources:* https://theorg.com/org/prosperity-bank?person=dean-theiss · https://www.prosperitybankusa.com/Wealth-Management-and-Trust-Services/ · https://www.prosperitybankusa.com/ProsperityPrivate-Investments-Bios/
 
-**Brad Muchow** is listed as Senior Financial Advisor in Bryan, TX (covers the Brazos Valley). No CRD was obtained, and none is guessed. Advisory through Raymond James Financial Services Advisors, Inc. 25+ years in financial services; joined ProsperityPrivate Investments in 2005 — a 20-year tenure. *(spans Houston Metro & Southeast Texas + South Texas & the Mexico Border)*
+**Brad Muchow** is listed as Senior Financial Advisor in Bryan, TX (covers the Brazos Valley). No CRD was obtained, and none is guessed. Advisory through Raymond James Financial Services Advisors, Inc. 25+ years in financial services; joined ProsperityPrivate Investments in 2005 — a 20-year tenure. *(spans Houston Metro & Southeast Texas + The Mexico Border)*
 
 &nbsp;&nbsp;**Status: UNVERIFIED.** Named on the bank's own CURRENT ProsperityPrivate bios page. No independent BrokerCheck check was possible before the session search cap. This is unchecked, NOT a staleness signal.
 
@@ -159,35 +409,35 @@ Headquartered in Houston, TX. Program: ProsperityPrivate — split into Prosperi
 
 ---
 
-## Texas Regional Bank (TRB) — TRB Trust & Wealth Management
+## Texas Capital Bancshares, Inc. — Texas Capital Bank
 
-Headquartered in Harlingen, TX (bank). CONTRADICTION FLAGGED: trb.bank and the bank's own releases say Harlingen; a third-party profile (altss.com) says McAllen; and the Trust & Wealth DIVISION is separately described as HOUSTON-headquartered. All three recorded — always qualify bank HQ vs division HQ. Home region: 3. South Texas & the Mexico Border. Program: TRB Trust & Wealth Management (rebranded). Boutique fiduciary division: investment management, estate and trust administration, financial planning, family office services, institutional services. Broker-dealer: None identified. This is an RIA + bank trust model, NOT a third-party-BD brokerage. BRAND vs ENTITY NOTE: unlike most bank programs in this dataset, here the brand DOES map to a real bank-owned registered entity — TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management. Clearing and custody: Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
+Headquartered in Dallas, TX. Home region: 5. Outside the territory. Program: Texas Capital Private Bank (umbrella brand). Client-facing advisory arm is Texas Capital Bank Private Wealth Advisors (PWA). Broker-dealer: TCBI Securities, Inc., trade name Texas Capital Securities (CRD 313304) — captive in-house BD, SEC/MSRB registered, member FINRA/SIPC. Clearing and custody: Pershing LLC (BNY) — CONFIRMED from TCBI Securities' own BrokerCheck firm report. The BrokerCheck firm report discloses that TCBI Securities introduces customers to other brokers, that customer accounts and securities are maintained by a third party, and specifically that Pershing maintains certain books and records for TCBI Securities — the standard formulation for a fully-disclosed introducing arrangement.
 
-**4 of this bank's 13 named people sit in Houston Metro & Southeast Texas.**
+**4 of this bank's 19 named people sit in Houston Metro & Southeast Texas.**
 
-**Trey Willerson** is listed as President, TRB Trust & Wealth Management; continues as Chief Investment Officer in Houston, TX. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here. Licences and designations: CFA. 25+ years; previously SVP & Senior Portfolio Manager at Northern Trust; joined TRB in the April 2024 hiring wave as CIO; promoted to President effective 31 August 2026.
+**Rob Ball** is listed as Managing Director, Senior Private Client Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Texas Capital Bank Wealth Management Services, Inc., trade name Texas Capital Bank Private Wealth Advisors (SEC IAPD firm 298422); clearing at Pershing LLC (BNY) — CONFIRMED from TCBI Securities' own BrokerCheck firm report.
 
-&nbsp;&nbsp;**Status: ACTIVE.** Named President in a PR Newswire release dated 31 AUGUST 2026 — six days before this research was run, and the freshest source in the entire project. Carried independently by Bankers Digest.
+&nbsp;&nbsp;**Status: ACTIVE.** Named on Texas Capital's current Houston private wealth page. ACTIVE strictly under the 'current bank page names them now' test — NO individual BrokerCheck check was possible, and this bank had senior leadership churn in April 2026, so re-verify individually before outreach. RE-CONFIRMED IN PASS 3 against Texas Capital's current Houston private-wealth page.
 
-&nbsp;&nbsp;*Sources:* https://www.prnewswire.com/news-releases/texas-regional-bank-appoints-trey-willerson-president-of-trb-trust--wealth-management-302865316.html · https://bankersdigest.com/texas-regional-bank-appoints-willerson-president-of-trb-trust-wealth-management/
+&nbsp;&nbsp;*Sources:* https://texascapitalbank.com/private-bank/private-wealth-management/houston
 
-**Brian Cafferky** is listed as Chief Operating and Compliance Officer, TRB Trust & Wealth Management — TITLE RESOLVED IN PASS 2 (the fuller form is correct, not plain COO) in Houston, TX. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here. Joined April 2024.
+**Conlon Cash** is listed as Executive Director, Senior Investment Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Texas Capital Bank Wealth Management Services, Inc., trade name Texas Capital Bank Private Wealth Advisors (SEC IAPD firm 298422); clearing at Pershing LLC (BNY) — CONFIRMED from TCBI Securities' own BrokerCheck firm report.
 
-&nbsp;&nbsp;**Status: UNVERIFIED (non-registered operations role).** Named in the April 2024 hiring release and described in current coverage as the division's Houston-based Chief Operating and Compliance Officer, which resolves the pass-1 title discrepancy.
+&nbsp;&nbsp;**Status: ACTIVE.** Named on Texas Capital's current Houston private wealth page. ACTIVE strictly under the 'current bank page names them now' test — NO individual BrokerCheck check was possible, and this bank had senior leadership churn in April 2026, so re-verify individually before outreach. RE-CONFIRMED IN PASS 3 against Texas Capital's current Houston private-wealth page.
 
-&nbsp;&nbsp;*Sources:* https://trb.bank/wealth-management/trust-wealth-team/
+&nbsp;&nbsp;*Sources:* https://texascapitalbank.com/private-bank/private-wealth-management/houston
 
-**Darren Hem** is listed as Associate Client Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
+**Joseph Hill** is listed as Executive Director, Private Banking Advisor, Houston office in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Texas Capital Bank Private Wealth Advisors — SEC firm 298422 (801-114364). Prior: Senior Private Banker at PNC Private Bank until March 2023.
 
-&nbsp;&nbsp;**Status: UNVERIFIED.** Subject of a dedicated TRB appointment announcement.
+&nbsp;&nbsp;**Status: ACTIVE.** Named on Texas Capital's CURRENT Houston private-wealth page as part of the Houston team. Cross-corroborated by an independent record of their March 2023 move FROM PNC Private Bank TO Texas Capital — the direction of the move confirms they are at TCB now, not PNC. A private banking advisor seat is likely non-registered; the absence of a CRD is not a staleness flag.
 
-&nbsp;&nbsp;*Sources:* https://trb.bank/news/darren-hem-joins-trb-trust-wealth-houston/
+&nbsp;&nbsp;*Sources:* https://www.texascapitalbank.com/what-we-offer/private-wealth-solutions/private-wealth-advisors---houston · https://texascapitalbank.com/private-bank/private-wealth-management/houston
 
-**Elena Pappas** is listed as Trust Officer in Houston, TX. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
+**Diego Patino** is listed as Executive Director, Senior Private Client Advisor, Private Wealth Advisors in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Texas Capital Bank Private Wealth Advisors — SEC firm 298422 (801-114364). Licences and designations: CFP(R). Joined November 2022. Prior: SVP, Private Client Advisor at Bank of America Private Bank; before that Citi Private Bank, leading law-firm and attorney coverage for Houston and Austin. BBA finance, University of Houston.
 
-&nbsp;&nbsp;**Status: UNVERIFIED (non-registered trust role).** Dedicated TRB news release announcing their hire as Trust Officer in Houston.
+&nbsp;&nbsp;**Status: ACTIVE.** Named on Texas Capital's current Houston page. *** METHOD NOTE, BECAUSE THIS ROW NEARLY DID NOT SURVIVE: *** they first surfaced as FIRST-NAME-ONLY 'Diego', which the hard rules require be recorded as UNRESOLVED and not used. They were promoted to a usable row only because a second, independent source returned the surname attached to the IDENTICAL title string and firm. Had the title not matched exactly, this row would have stayed UNRESOLVED. The surname was not guessed.
 
-&nbsp;&nbsp;*Sources:* https://trb.bank/news/elena-pappas-trust-officer-texas-regional-bank/
+&nbsp;&nbsp;*Sources:* https://www.texascapitalbank.com/what-we-offer/private-wealth-solutions/private-wealth-advisors---houston · https://www.zoominfo.com/p/Diego-Patino/2987300578
 
 ---
 
@@ -197,35 +447,35 @@ Headquartered in The Woodlands, TX (national charter). Program office 1330 Lake 
 
 **4 of this bank's 4 named people sit in Houston Metro & Southeast Texas.**
 
-**Rudy Wentzler** is listed as Senior Vice President, WW Private Wealth Advisor, RJFS in The Woodlands, TX. No CRD was obtained, and none is guessed. Advisory through Raymond James Financial Services Advisors, Inc. Office: 1330 Lake Robbins Dr Ste 150. Licences and designations: MBA, CWS, CEPA, AAMS (self-published designations; no license list confirmed). Leads a private-wealth team serving high-net-worth clients.
+**Rudy Wentzler** is listed as Senior Vice President, Private Wealth Advisor — leads a team serving high-net-worth individuals with complex needs: investment management, risk mitigation, legacy planning in The Woodlands, TX. No CRD was obtained, and none is guessed. Advisory through Raymond James Financial Services Advisors, Inc; clearing at Raymond James & Associates self-clears (RJ&A) — carried forward at firm level. Office: 1330 Lake Robbins Dr Ste 150. Licences and designations: MBA, CWS(R), CEPA(R), AAMS(R). Leads a private-wealth team serving high-net-worth clients.
 
-&nbsp;&nbsp;**Status: UNVERIFIED.** Named on the program's own current site with a live bio URL, so the source is current rather than stale. But a targeted BrokerCheck title search returned NO individual record for them. CONTRADICTION FLAGGED: a separate site, wentzlerdeckerwealth.com ('Wentzler & Decker Wealth', The Woodlands), also carries a Raymond James Financial Services disclosure. This may be a DBA operating INSIDE Woodforest Wealth, or the team may have MOVED OFF the Woodforest brand. Both readings are live; do not resolve from snippets.
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on woodforestwealth.com today. Note the program's own disclosure: 'Raymond James is not affiliated with Woodforest National Bank or Woodforest Wealth Strategies' — this is the arm's-length independent channel, not the bank-employee channel.
 
-&nbsp;&nbsp;*Sources:* https://www.woodforestwealth.com/our-team/bio?_=rwentzler · https://www.wentzlerdeckerwealth.com/
+&nbsp;&nbsp;*Sources:* https://www.woodforestwealth.com/our-team/bio?_=rwentzler · https://www.woodforestwealth.com/our-team
 
-**Forest Busby** is listed as Vice President, Woodforest Wealth Strategies in The Woodlands, TX (presumed; not stated). No CRD was obtained, and none is guessed.
+**Edwin Blaine Decker** is listed as Financial Advisor, Raymond James Financial Services in The Woodlands, TX. Legal name on record: EDWIN BLAINE DECKER. CRD 7638880 — RESOLVED IN PASS 3. Clearing at Raymond James & Associates self-clears (RJ&A) — carried forward at firm level. Office: 1330 Lake Robbins Dr Ste 150, The Woodlands, TX. Licences and designations: MSF, CEPA(R).
 
-&nbsp;&nbsp;**Status: UNVERIFIED.** The sole source is a third-party company-people aggregator, not the bank and not BrokerCheck. Aggregator people pages are often years stale. Treat as a lead to confirm by phone, not a fact.
+&nbsp;&nbsp;**Status: ACTIVE.** *** THE STRONGEST SINGLE PIECE OF EVIDENCE IN THE HOUSTON TERRITORY. *** An actual BrokerCheck report — files.brokercheck.finra.org/individual/individual_7638880.pdf — records them at Woodforest Financial Group, The Woodlands, in a Bank/Credit Union Associate financial advisor position BEGINNING 21 OCTOBER 2024. A recent, present-tense registration with a matching street address. The prior surname-only 'Decker' row is resolved to a full name, a CRD and an office.
 
-&nbsp;&nbsp;*Sources:* https://www.cbinsights.com/company/woodforest-wealth-strategies/people
+&nbsp;&nbsp;*Sources:* https://files.brokercheck.finra.org/individual/individual_7638880.pdf · https://www.woodforestwealth.com/our-team
 
-**'Folwell' — SURNAME ONLY, first name NOT captured** is listed as Financial advisor joining Woodforest Advisors in The Woodlands, TX. No CRD was obtained, and none is guessed. Prior firm United Capital Financial Advisors; ~$197 million in prior AUM.
+**Forest Busby, Jr.** is listed as Financial advisor, Woodforest Wealth Strategies — began their advisory practice in 2006 in The Woodlands, TX. No CRD was obtained, and none is guessed. Clearing at Raymond James & Associates self-clears (RJ&A) — carried forward at firm level.
 
-&nbsp;&nbsp;**Status: UNVERIFIED.** Sourced to a Raymond James FID press release dated 27 August 2024 — under three years old, so not stale — but the first name was never rendered and no registration record was matched.
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on woodforestwealth.com today. NOTE THE 'Jr.' — do not conflate with a senior of the same name.
 
-&nbsp;&nbsp;*Sources:* https://www.raymondjames.com/advisor-opportunities/press-releases/2024/08/27/raymond-james-fid-welcomes-advisor-managing-$197-million-to-woodforest-national-bank
+&nbsp;&nbsp;*Sources:* https://www.woodforestwealth.com/our-team/bio?_=fbusby
 
-**'Decker' — SURNAME ONLY, first name NOT established** in The Woodlands, TX. No CRD was obtained, and none is guessed.
+**Ronald Folwell** is listed as Financial advisor, Corporate RIA-affiliated, Raymond James Financial Institutions Division in The Woodlands, TX. No CRD was obtained, and none is guessed. Clearing at Raymond James & Associates self-clears (RJ&A) — carried forward at firm level. Office: Woodforest National Bank, The Woodlands, TX. Licences and designations: CFP(R). 30+ years; began in 1991 at Ameriprise (23 years), then United Capital from 2014.
 
-&nbsp;&nbsp;**Status: UNRESOLVED.** The surname is derived ONLY from a firm/DBA name. Do not attribute a person until the first name is confirmed.
+&nbsp;&nbsp;**Status: ACTIVE.** Named in a RAYMOND JAMES CORPORATE PRESS RELEASE dated 27 August 2024 announcing their arrival with approximately $197 MILLION from United Capital Financial Advisors. Firm-issued, recent and unambiguous.
 
-&nbsp;&nbsp;*Sources:* https://www.wentzlerdeckerwealth.com/
+&nbsp;&nbsp;*Sources:* https://www.raymondjames.com/advisor-opportunities/press-releases/2024/08/27/raymond-james-fid-welcomes-advisor-managing-$197-million-to-woodforest-national-bank · https://www.raymondjames.com/woodforestadvisors/about-us
 
 ---
 
 ## Bank of America Corporation — Merrill Lynch Wealth Management + Bank of America Private Bank
 
-Headquartered in Charlotte, NC. Home region: 4. Rest of Texas. Program: Merrill Lynch Wealth Management (full-service FAs); Merrill Private Wealth Management (UHNW teams); Merrill Edge (self-directed); Bank of America Private Bank (the former U.S. Trust — bank, trust and fiduciary side). Broker-dealer: Merrill Lynch, Pierce, Fenner & Smith Incorporated (MLPF&S), CRD 7691 — dually registered BD and RIA. BofA Securities, Inc. is the SEPARATE institutional BD. Clearing and custody: SELF-CLEARING / CARRYING. The FINRA firm record answers yes to holding customer funds or securities and providing clearing services for other broker-dealers — it is a carrying firm, not an introducing firm. Merrill Lynch Professional Clearing Corp. is the affiliated institutional/prime-brokerage clearing entity.
+Headquartered in Charlotte, NC. Home region: 5. Outside the territory. Program: Merrill Lynch Wealth Management (full-service FAs); Merrill Private Wealth Management (UHNW teams); Merrill Edge (self-directed); Bank of America Private Bank (the former U.S. Trust — bank, trust and fiduciary side). Broker-dealer: Merrill Lynch, Pierce, Fenner & Smith Incorporated (MLPF&S), CRD 7691 — dually registered BD and RIA. BofA Securities, Inc. is the SEPARATE institutional BD. Clearing and custody: SELF-CLEARING / CARRYING. The FINRA firm record answers yes to holding customer funds or securities and providing clearing services for other broker-dealers — it is a carrying firm, not an introducing firm. Merrill Lynch Professional Clearing Corp. is the affiliated institutional/prime-brokerage clearing entity.
 
 **2 of this bank's 6 named people sit in Houston Metro & Southeast Texas.**
 
@@ -243,49 +493,29 @@ Headquartered in Charlotte, NC. Home region: 4. Rest of Texas. Program: Merrill 
 
 ---
 
-## Texas Capital Bancshares, Inc. — Texas Capital Bank
+## The PNC Financial Services Group — PNC Wealth Management (formerly PNC Investments)
 
-Headquartered in Dallas, TX. Home region: 4. Rest of Texas. Program: Texas Capital Private Bank (umbrella brand). Client-facing advisory arm is Texas Capital Bank Private Wealth Advisors (PWA). Broker-dealer: TCBI Securities, Inc., trade name Texas Capital Securities (CRD 313304) — captive in-house BD, SEC/MSRB registered, member FINRA/SIPC. Clearing and custody: Pershing LLC (BNY) — CONFIRMED from TCBI Securities' own BrokerCheck firm report. The BrokerCheck firm report discloses that TCBI Securities introduces customers to other brokers, that customer accounts and securities are maintained by a third party, and specifically that Pershing maintains certain books and records for TCBI Securities — the standard formulation for a fully-disclosed introducing arrangement.
+Headquartered in Pittsburgh, PA. Home region: 5. Outside the territory. Program: Three tiers: PNC Wealth Management (mass-affluent and affluent brokerage and managed accounts); PNC Private Bank (HNW); and PNC PRIVATE BANK HAWTHORN, the UHNW multi-family office — named 'Best Private Bank in the Southwest' (Global Finance, 2025) and 'Best private bank – client service' (With Intelligence PAM Awards 2026). The Southwest award is directly relevant here. Rebranded from PNC Investments on 6 October 2025. Broker-dealer: PNC Wealth Management LLC (formerly PNC Investments LLC), CRD 129052 — dually registered BD and RIA, member FINRA/SIPC, subsidiary of PNC Bank, N.A. Described as one of the largest bank broker-dealers in the US with more than $92 billion in client assets and approximately 800 financial advisors nationally. Texas share of that: not found. Clearing and custody: National Financial Services LLC (NFS) — CONFIRMED. NFS is the clearing broker for PNC's brokerage business and the agent engaged to provide custody and clearing. Sourced from PNC's own brokerage FAQ pages and the brokerage account customer agreement. Like Truist, PNC is an INTRODUCING firm on the NFS platform.
 
-**2 of this bank's 17 named people sit in Houston Metro & Southeast Texas.**
+**2 of this bank's 3 named people sit in Houston Metro & Southeast Texas.**
 
-**Rob Ball** is listed as Managing Director, Senior Private Client Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Texas Capital Bank Wealth Management Services, Inc., trade name Texas Capital Bank Private Wealth Advisors (SEC IAPD firm 298422); clearing at Pershing LLC (BNY) — CONFIRMED from TCBI Securities' own BrokerCheck firm report.
+**David Key** is listed as Houston Market Leader, PNC Private Bank in Houston, TX. No CRD was obtained, and none is guessed. Clearing at National Financial Services LLC (NFS) — carried forward at firm level, not re-verified. Office: 2200 Post Oak Blvd, Houston, TX 77056 — the market seat; suite not confirmed. ~30 years of experience per the appointment release.
 
-&nbsp;&nbsp;**Status: ACTIVE.** Named on Texas Capital's current Houston private wealth page. ACTIVE strictly under the 'current bank page names them now' test — NO individual BrokerCheck check was possible, and this bank had senior leadership churn in April 2026, so re-verify individually before outreach.
+&nbsp;&nbsp;**Status: ACTIVE.** Named in PNC's OWN newsroom release dated 7 February 2024 appointing them to the Houston seat. PNC Private Bank market-leader roles are typically non-registered management, so the absence of a BrokerCheck title is NOT a staleness flag. No contrary evidence.
 
-&nbsp;&nbsp;*Sources:* https://texascapitalbank.com/private-bank/private-wealth-management/houston
+&nbsp;&nbsp;*Sources:* https://pnc.mediaroom.com/2024-02-07-David-Key-Named-Houston-Market-Leader-For-PNC-Private-Bank
 
-**Conlon Cash** is listed as Executive Director, Senior Investment Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Texas Capital Bank Wealth Management Services, Inc., trade name Texas Capital Bank Private Wealth Advisors (SEC IAPD firm 298422); clearing at Pershing LLC (BNY) — CONFIRMED from TCBI Securities' own BrokerCheck firm report.
+**Kendall Montalvo** is listed as Financial advisor, PNC Investments in Houston, TX. No CRD was obtained, and none is guessed. Clearing at National Financial Services LLC (NFS) — carried forward at firm level. Office: 2200 Post Oak Blvd, Houston, TX 77056. Phone: (346) 872-1304 — AS PUBLISHED BY A THIRD-PARTY AGGREGATOR. NOT VERIFIED. Verify before dialling. Email: kendall.montalvo@pnc.com — AS PUBLISHED BY A THIRD-PARTY AGGREGATOR. NOT VERIFIED.
 
-&nbsp;&nbsp;**Status: ACTIVE.** Named on Texas Capital's current Houston private wealth page. ACTIVE strictly under the 'current bank page names them now' test — NO individual BrokerCheck check was possible, and this bank had senior leadership churn in April 2026, so re-verify individually before outreach.
+&nbsp;&nbsp;**Status: UNVERIFIED.** The ONLY source is a third-party advisor-directory page keyed to the 2200 Post Oak branch. A direct 'Kendall Montalvo BrokerCheck' search returned NO BrokerCheck or IAPD result title at all, so registration could not be confirmed. Aggregator directories are known to carry departed reps. The phone and email above are reproduced from that aggregator and are explicitly unverified — they were not invented, and they are not confirmed either.
 
-&nbsp;&nbsp;*Sources:* https://texascapitalbank.com/private-bank/private-wealth-management/houston
-
----
-
-## Third Coast Bank, SSB (Third Coast Bancshares, NASDAQ: TCBX)
-
-Headquartered in Humble, TX (Greater Houston). Texas state savings bank charter, founded 2008. Program: Third Coast Advisors. Broker-dealer: Ameriprise Financial Services, LLC. The program launched in SEPTEMBER 2021 as a bank investment program 'in partnership with Ameriprise Financial'. Third Coast Advisors is a BRAND on the Ameriprise platform, not a registered entity of the bank. Clearing and custody: not confirmed — Ameriprise self-clears via American Enterprise Investment Services, but no source states it for this program.
-
-**2 of this bank's 2 named people sit in Houston Metro & Southeast Texas.**
-
-**Jeanette Allan** is listed as Financial advisor, Third Coast Advisors in Houston / The Woodlands, TX. No CRD was obtained, and none is guessed. 24+ years in financial services as of the 2021 release; serves families and businesses in Houston and The Woodlands, HNW individuals, families and estates; managed ~$249 million at prior firm Wells Fargo.
-
-&nbsp;&nbsp;**Status: LIKELY STALE.** The ONLY source is the launch press release dated 8 September 2021 — five years old, which trips the 3-plus-year staleness rule. No BrokerCheck title match was obtained and no current bank page names their. They may well still be there; the point is that nothing current confirms it.
-
-&nbsp;&nbsp;*Sources:* https://www.businesswire.com/news/home/20210908006017/en/Third-Coast-Advisors-Launches-Investment-Program-in-Partnership-with-Ameriprise-Financial
-
-**John Bunch** is listed as Financial advisor, Third Coast Advisors in Kingwood / Humble / Atascocita, TX. No CRD was obtained, and none is guessed. 32+ years in financial services as of the 2021 release; managed ~$136 million at prior firm JP Morgan Chase.
-
-&nbsp;&nbsp;**Status: LIKELY STALE.** Identical reasoning to Jeanette Allan — the sole source is the 8 September 2021 launch release, five years old, with no current confirmation and no BrokerCheck title match. ALSO NOTE: 'John Bunch' is a common name and a same-named securities-industry executive exists elsewhere; do not match on name alone without the Texas office city.
-
-&nbsp;&nbsp;*Sources:* https://www.businesswire.com/news/home/20210908006017/en/Third-Coast-Advisors-Launches-Investment-Program-in-Partnership-with-Ameriprise-Financial
+&nbsp;&nbsp;*Sources:* https://www.seniorfinanceadvisor.com/firm_locations/tx/houston/pnc-investments/2200-post-oak-boulevard
 
 ---
 
 ## Truist Financial Corporation — Truist Wealth
 
-Headquartered in Charlotte, NC. Home region: 4. Rest of Texas. Program: Truist Wealth (HNW) and Truist Premier (affluent tier, roughly $100K-$1M in deposits/AUM). Truist has said Premier advisor headcount should grow ~20% between 2025 and 2030, with Austin and Dallas named among the Sun Belt target markets. Broker-dealer: Truist Investment Services, Inc. (TIS), CRD 17499 — registered with the SEC and FINRA. Clearing and custody: National Financial Services LLC (NFS), a Fidelity company — CONFIRMED. TIS is a FULLY DISCLOSED INTRODUCING broker-dealer that clears through NFS, and custody of securities in customer accounts is maintained with NFS. Explicitly NOT Pershing. Note the contrast: Truist and PNC are INTRODUCING firms, while JPMorgan, Merrill and Wells are CARRYING firms. That is a real operational difference.
+Headquartered in Charlotte, NC. Home region: 5. Outside the territory. Program: Truist Wealth (HNW) and Truist Premier (affluent tier, roughly $100K-$1M in deposits/AUM). Truist has said Premier advisor headcount should grow ~20% between 2025 and 2030, with Austin and Dallas named among the Sun Belt target markets. Broker-dealer: Truist Investment Services, Inc. (TIS), CRD 17499 — registered with the SEC and FINRA. Clearing and custody: National Financial Services LLC (NFS), a Fidelity company — CONFIRMED. TIS is a FULLY DISCLOSED INTRODUCING broker-dealer that clears through NFS, and custody of securities in customer accounts is maintained with NFS. Explicitly NOT Pershing. Note the contrast: Truist and PNC are INTRODUCING firms, while JPMorgan, Merrill and Wells are CARRYING firms. That is a real operational difference.
 
 **2 of this bank's 5 named people sit in Houston Metro & Southeast Texas.**
 
@@ -305,7 +535,7 @@ Headquartered in Charlotte, NC. Home region: 4. Rest of Texas. Program: Truist W
 
 ## Wells Fargo & Company — Wells Fargo Advisors + Wells Fargo Private Bank
 
-Headquartered in San Francisco, CA (corporate); Wells Fargo Advisors is run out of St. Louis, MO. Large Texas footprint including a new Irving, TX campus. Home region: 4. Rest of Texas. Program: Wells Fargo Advisors (employee channel); Wells Fargo Advisors Financial Network / FiNet (independent channel, existence not re-confirmed); Wells Fargo Private Bank (HNW, bank and trust side); First Clearing (correspondent clearing for third-party BDs and RIAs). Broker-dealer: Wells Fargo Clearing Services, LLC (WFCS) — this is the ACTUAL registered entity, dually registered BD and RIA. 'Wells Fargo Advisors' is a TRADE NAME of WFCS and 'First Clearing' is likewise a TRADE NAME of the SAME entity. In November 2016 Wells Fargo Advisors, LLC and First Clearing, LLC MERGED and the surviving entity was renamed Wells Fargo Clearing Services, LLC. Anyone writing 'Wells Fargo Advisors, LLC' is using a pre-2016 entity name. Clearing and custody: SELF-CLEARING. WFCS is the carrying/clearing broker-dealer. First Clearing is the trade name under which that SAME entity provides clearing and custody to unaffiliated broker-dealers and RIAs. The important refinement: First Clearing is NOT a separate company from Wells Fargo Advisors.
+Headquartered in San Francisco, CA (corporate); Wells Fargo Advisors is run out of St. Louis, MO. Large Texas footprint including a new Irving, TX campus. Home region: 5. Outside the territory. Program: Wells Fargo Advisors (employee channel); Wells Fargo Advisors Financial Network / FiNet (independent channel, existence not re-confirmed); Wells Fargo Private Bank (HNW, bank and trust side); First Clearing (correspondent clearing for third-party BDs and RIAs). Broker-dealer: Wells Fargo Clearing Services, LLC (WFCS) — this is the ACTUAL registered entity, dually registered BD and RIA. 'Wells Fargo Advisors' is a TRADE NAME of WFCS and 'First Clearing' is likewise a TRADE NAME of the SAME entity. In November 2016 Wells Fargo Advisors, LLC and First Clearing, LLC MERGED and the surviving entity was renamed Wells Fargo Clearing Services, LLC. Anyone writing 'Wells Fargo Advisors, LLC' is using a pre-2016 entity name. Clearing and custody: SELF-CLEARING. WFCS is the carrying/clearing broker-dealer. First Clearing is the trade name under which that SAME entity provides clearing and custody to unaffiliated broker-dealers and RIAs. The important refinement: First Clearing is NOT a separate company from Wells Fargo Advisors.
 
 **2 of this bank's 3 named people sit in Houston Metro & Southeast Texas.**
 
@@ -325,7 +555,7 @@ Headquartered in San Francisco, CA (corporate); Wells Fargo Advisors is run out 
 
 ## Comerica Incorporated — Comerica Wealth Management — NOW PART OF FIFTH THIRD
 
-Headquartered in DALLAS, TEXAS. Comerica relocated its corporate headquarters from Detroit to Dallas in 2007, so despite the Michigan heritage this was a Texas-headquartered institution. Home region: 4. Rest of Texas. Program: 'Comerica Financial Advisors, powered by Ameriprise Financial' (brand adopted at the Nov 2023 close). Comerica Asset Management (RIA) and Comerica Trust (state-chartered trust company) sit alongside. Broker-dealer: FIFTH THIRD'S OWN IN-HOUSE BROKER-DEALER — CORRECTED IN PASS 2. The Ameriprise arrangement is TERMINATED. The two Financial Planning headlines that looked contradictory are NOT a contradiction: they are three years apart and describe opposite ends of the same relationship. TIMELINE: (1) 2023 — Comerica selects Ameriprise; ~100 advisors and $18B affiliate ('Ameriprise secures $18B of client assets from Comerica Bank'). (2) 28 Oct 2025 — Fifth Third's application to acquire Comerica is filed with the Federal Reserve and trade press flags the Ameriprise relationship as at risk. (3) Feb 2026 — the acquisition closes. (4) POST-CLOSE — Comerica notified Ameriprise it would CEASE using it as investment services provider; 89 ADVISORS AND $18.5B LEFT AMERIPRISE by the end of Q3 and AMERIPRISE RECEIVED A $25 MILLION TERMINATION FEE ('Ameriprise to lose 89 advisors, $18.5B from Comerica deal'). SO: any Comerica row still showing broker-dealer = Ameriprise is WRONG. Comerica Securities, Inc. (CRD 17079) still exists as a legal entity but what business it retains is not confirmed. CAVEAT FOR A CALL: the legacy Ameriprise team page for 'Comerica Financial Advisors' (Dallas) was STILL LIVE at time of search. Treat it as a stale artifact of the terminated program, not as evidence that any Texas Comerica team remains on Ameriprise. Clearing and custody: not confirmed. Custody moved from Pershing LLC to American Enterprise Investment Services in Nov 2023, but with the Ameriprise relationship now terminated the current arrangement sits with Fifth Third and was NOT established.
+Headquartered in DALLAS, TEXAS. Comerica relocated its corporate headquarters from Detroit to Dallas in 2007, so despite the Michigan heritage this was a Texas-headquartered institution. Home region: 5. Outside the territory. Program: 'Comerica Financial Advisors, powered by Ameriprise Financial' (brand adopted at the Nov 2023 close). Comerica Asset Management (RIA) and Comerica Trust (state-chartered trust company) sit alongside. Broker-dealer: FIFTH THIRD'S OWN IN-HOUSE BROKER-DEALER — CORRECTED IN PASS 2. The Ameriprise arrangement is TERMINATED. The two Financial Planning headlines that looked contradictory are NOT a contradiction: they are three years apart and describe opposite ends of the same relationship. TIMELINE: (1) 2023 — Comerica selects Ameriprise; ~100 advisors and $18B affiliate ('Ameriprise secures $18B of client assets from Comerica Bank'). (2) 28 Oct 2025 — Fifth Third's application to acquire Comerica is filed with the Federal Reserve and trade press flags the Ameriprise relationship as at risk. (3) Feb 2026 — the acquisition closes. (4) POST-CLOSE — Comerica notified Ameriprise it would CEASE using it as investment services provider; 89 ADVISORS AND $18.5B LEFT AMERIPRISE by the end of Q3 and AMERIPRISE RECEIVED A $25 MILLION TERMINATION FEE ('Ameriprise to lose 89 advisors, $18.5B from Comerica deal'). SO: any Comerica row still showing broker-dealer = Ameriprise is WRONG. Comerica Securities, Inc. (CRD 17079) still exists as a legal entity but what business it retains is not confirmed. CAVEAT FOR A CALL: the legacy Ameriprise team page for 'Comerica Financial Advisors' (Dallas) was STILL LIVE at time of search. Treat it as a stale artifact of the terminated program, not as evidence that any Texas Comerica team remains on Ameriprise. Clearing and custody: not confirmed. Custody moved from Pershing LLC to American Enterprise Investment Services in Nov 2023, but with the Ameriprise relationship now terminated the current arrangement sits with Fifth Third and was NOT established.
 
 **1 of this bank's 4 named people sit in Houston Metro & Southeast Texas.**
 
@@ -339,7 +569,7 @@ Headquartered in DALLAS, TEXAS. Comerica relocated its corporate headquarters fr
 
 ## First Financial Bankshares, Inc. — First Financial Wealth Management
 
-Headquartered in Abilene, TX (FFIN, NASDAQ). Trust company at 400 Pine St, Abilene, TX 79601. Home region: 4. Rest of Texas. Program: First Financial Wealth Management. HEADLINE CURRENCY FINDING: the company formerly known as First Financial Trust & Asset Management Company, N.A. was RENAMED to First Financial Wealth Management effective JULY 9, 2026. FFIN was explicit that this is a clarification, NOT a restructuring — team, services, locations and leadership unchanged. Every source older than July 2026, including much of FFIN's own live site which still carries /about-trust/ URLs, uses the old name. Broker-dealer: None found. This is a separately chartered NATIONAL TRUST COMPANY (N.A.) — a fiduciary, not a brokerage. Offering is investment management, retirement planning, trust and estate administration, mineral management, real property management and fiduciary services, continuously since 1927. No affiliation with LPL/Cetera/Osaic/RJFS was found, but the absence of a BD was not positively confirmed. Clearing and custody: not confirmed.
+Headquartered in Abilene, TX (FFIN, NASDAQ). Trust company at 400 Pine St, Abilene, TX 79601. Home region: 5. Outside the territory. Program: First Financial Wealth Management. HEADLINE CURRENCY FINDING: the company formerly known as First Financial Trust & Asset Management Company, N.A. was RENAMED to First Financial Wealth Management effective JULY 9, 2026. FFIN was explicit that this is a clarification, NOT a restructuring — team, services, locations and leadership unchanged. Every source older than July 2026, including much of FFIN's own live site which still carries /about-trust/ URLs, uses the old name. Broker-dealer: None found. This is a separately chartered NATIONAL TRUST COMPANY (N.A.) — a fiduciary, not a brokerage. Offering is investment management, retirement planning, trust and estate administration, mineral management, real property management and fiduciary services, continuously since 1927. No affiliation with LPL/Cetera/Osaic/RJFS was found, but the absence of a BD was not positively confirmed. Clearing and custody: not confirmed.
 
 **1 of this bank's 15 named people sit in Houston Metro & Southeast Texas.**
 
@@ -351,17 +581,31 @@ Headquartered in Abilene, TX (FFIN, NASDAQ). Trust company at 400 Pine St, Abile
 
 ---
 
+## Vantage Bank Texas
+
+Headquartered in San Antonio, TX. Founded 1923 as San Antonio National Bank; renamed Vantage Bank Texas 12 February 2012. ~$4.5B assets (2024). 100% family and employee owned. Home region: 2. San Antonio Metro & Hill Country. Program: No distinct brand found — presented simply as Vantage Bank wealth management / private banking. Broker-dealer: None found. No RIA and no broker-dealer is disclosed anywhere reachable. Do not assert one. Clearing and custody: not confirmed.
+
+**1 of this bank's 2 named people sit in Houston Metro & Southeast Texas.**
+
+**[surname] Mounce — FIRST NAME NOT FOUND, DO NOT GUESS IT** is listed as Houston Regional President, Vantage Bank Texas in Houston, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNRESOLVED — SURNAME ONLY.** A trade-press headline names 'Mounce' as Houston Regional President without a first name, and no second source supplied one. Recorded per the hard rule that a name fragment is written down and explicitly NOT used for outreach. Do not construct a first name.
+
+&nbsp;&nbsp;*Sources:* https://bankersdigest.com/vantage-bank-names-mounce-houston-regional-president/
+
+---
+
 # 2. San Antonio Metro & Hill Country
 
 *San Antonio and the surrounding Hill Country — New Braunfels, Boerne, Seguin, Fredericksburg, Kerrville, Bandera, Schertz and Canyon Lake.*
 
-**39 named people across 6 institutions in this region.**
+**62 named people across 10 institutions in this region.**
 
 ## Jefferson Bank
 
 Headquartered in San Antonio, TX. Wealth/trust department line: (210) 736-7600. Program: Jefferson Bank Trust & Wealth Management (bank fiduciary) PLUS 1900 Wealth. Broker-dealer: NONE FOUND. No broker-dealer affiliation surfaced for either the bank trust side or 1900 Wealth. Clearing and custody: not confirmed.
 
-**14 of this bank's 14 named people sit in San Antonio Metro & Hill Country.**
+**15 of this bank's 15 named people sit in San Antonio Metro & Hill Country.**
 
 **Todd L. Brockwell** is listed as President, 1900 Wealth in San Antonio, TX. CRD 6711710 — MEDIUM CONFIDENCE, NOT FIRST-PARTY VERIFIED. It appears as the CRD in two independent third-party advisor-directory URL slugs. Confirm before use. Advisory through 1900 Wealth Management, LLC — an SEC-REGISTERED INVESTMENT ADVISER, firm CRD/ID 175346, established 2015, WHOLLY OWNED BY JEFFERSON BANK. $1.5B+ AUM. RIA ONLY — not a FINRA broker-dealer.
 
@@ -447,19 +691,111 @@ Headquartered in San Antonio, TX. Wealth/trust department line: (210) 736-7600. 
 
 &nbsp;&nbsp;*Sources:* https://www.jeffersonbank.com/wealth/trust-services/trust-advisors
 
+**J. Sulester — GIVEN NAME NOT RECOVERED, ONLY THE INITIAL 'J.'. DO NOT GUESS IT.** is listed as not found — a dedicated bio page exists at 1900wealth.com/team/j-sulester/ but no title was recovered in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through 1900 Wealth Management, LLC — SEC firm 175346, wholly owned by Jefferson Bank.
+
+&nbsp;&nbsp;**Status: UNRESOLVED — PARTIAL NAME.** A first-party team-page URL on the RIA's own site confirms this person exists on the team today. The given name never rendered in any search result and was not constructed. Recorded so the seat is visible; not usable for outreach until the name is confirmed.
+
+&nbsp;&nbsp;*Sources:* https://1900wealth.com/team/j-sulester/ · https://1900wealth.com/team/
+
+---
+
+## Texas Partners Bank (The Bank of San Antonio / The Bank of Austin / Texas Hill Country Bank)
+
+Headquartered in San Antonio, TX. Bank HQ per the Texas Department of Banking; RIA HQ 1900 NW Loop 410, Ste 200, San Antonio, TX 78213. Program: TPB Wealth Advisors, LLC (SEC-registered investment adviser) + bank-side Private Banking. Broker-dealer: NONE FOUND. No FINRA broker-dealer is named for Texas Partners Bank or TPB Wealth Advisors in any source reached. Bucket (c) — could not verify either way — but the absence across the RIA's own disclosure pages leans RIA-only. Do not assert a BD. Clearing and custody: not confirmed.
+
+**13 of this bank's 13 named people sit in San Antonio Metro & Hill Country.**
+
+**Kevin Harris** is listed as President & Chief Investment Officer, TPB Wealth Advisors, LLC — the same role they held under the Aspireon name in San Antonio, TX. CRD not found — DO NOT RECORD A NUMBER. An Indyfin profile URL for a San Antonio 'Kevin Harris, CFA' carries the slug 3129566; that is a DIRECTORY URL FRAGMENT, not a verified CRD, and it could not be confirmed against FINRA or IAPD (both blocked). *** NAME-COLLISION WARNING: *** FINRA search surfaced at least three distinct records — individual_6699194, KEVIN MAXWELL HARRIS 4336717, and WILLIAM KEVIN HARRISON 4353102 — plus a Kevin Harris insurance agent in Cedar Park. NONE is confirmed to be the TPB man. Attach nothing. Advisory through TPB Wealth Advisors, LLC — SEC/IARD firm 150508. Office: 1900 NW Loop 410, Ste 200, San Antonio, TX 78213. Phone: not found — the 210-424-8710 line is a LEGACY GENERAL number for the unit under its old entity name, not theirs. Licences and designations: Series 63, 65 and 66 passed per an adviser-directory record; CFA cited on one directory profile but NOT independently confirmed — verify. ~11 years in the adviser-directory record; a firm bio cites 20+ years in finance. Prior firms named: Redhawk Opportunity Partners LLC; Titleist Asset Management.
+
+&nbsp;&nbsp;**Status: ACTIVE.** A directory record shows them CURRENTLY at TPB Wealth Advisors LLC, registered to give investment advice in Texas, with the exam set intact and named prior firms — the shape of a live IAPD record. Independently named as President/CIO in the 2020 BusinessWire rename release and on the firm's own team page. No 'formerly', 'previously registered' or 'no longer' language anywhere.
+
+&nbsp;&nbsp;*Sources:* https://www.thebankofsawealthadvisors.com/team/ · https://www.businesswire.com/news/home/20200306005368/en/The-Bank-of-San-Antonio-Deepens-its-Wealth-Management-Focus-with-Aspireon-Wealth-Advisors-Vision · https://indyfin.com/financial-advisor/texas/san-antonio/kevin-harris-3129566/ · https://reports.adviserinfo.sec.gov/crs/crs_150508.pdf
+
+**Cynthia Michael** is listed as Managing Director, Wealth Strategist — CONTRADICTION: the older BBB record for the predecessor entity lists them as Vice President. Both recorded; for a call in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through TPB Wealth Advisors, LLC — SEC/IARD firm 150508. Office: 1900 NW Loop 410, Ste 200, San Antonio, TX 78213. Licences and designations: CRWA(R) — Certified Retirement Wealth Advisor, as written by the firm. 25+ years in finance per the firm bio.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Described as an INVESTMENT ADVISER REPRESENTATIVE on the firm's own team page — a role that commonly carries no FINRA BrokerCheck record at all. No BrokerCheck title, and no departure language either. This is an IAR-only or non-registered role, NOT a staleness flag.
+
+&nbsp;&nbsp;*Sources:* https://www.thebankofsawealthadvisors.com/team/ · https://www.bbb.org/us/tx/san-antonio/profile/investment-advisory-services/the-bank-of-san-antonio-wealth-advisors-llc-0825-1000131855
+
+**Maria Breen** is listed as Executive Vice President, Private Banking / Private Banking Manager — head of Private Banking at The Bank of San Antonio in San Antonio, TX. No CRD was obtained, and none is guessed. Email: not found — a data-broker page shows a MASKED @texaspartners.bank address; the local part was not guessed. 30+ years in financial services. Prior: Wealth Advisor at Wells Fargo. Board Chair, AVANCE San Antonio; Committee Co-Chair, Impact SA.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered role).** Private bankers routinely hold no FINRA record; its absence is expected and is NOT a staleness flag. Named on the bank's own current pages, including a bank-published profile of their hire and a bank-published Women-in-Banking feature. ADJACENT TO THE WEALTH UNIT AND WORTH THE CALL.
+
+&nbsp;&nbsp;*Sources:* https://www.texaspartners.bank/maria-breen-joins-private-banking-to-help-build-legacies · https://www.texaspartners.bank/sa-woman-featuring-maria-breen · https://www.texaspartners.bank/private/private-banking · https://www.linkedin.com/in/mariabreen/
+
+**Brent Given** is listed as President & Chief Executive Officer, Texas Partners Bank in San Antonio, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered bank executive role).** Named on Texas Partners Bank's own current leadership pages. Bank executive seats carry no FINRA record and the absence of one is expected, NOT a staleness flag. Recorded as ORG CONTEXT AND DOOR-OPENERS, not as advisors.
+
+&nbsp;&nbsp;*Sources:* https://www.texaspartners.bank/about/leadership/texas-partners-bank-leadership-team · https://www.dob.texas.gov/entity-search/entity-detail?bid=9383&eid=1&bn=0
+
+**J. Bruce Bugg Jr.** is listed as Board Chairman, Texas Partners Bank in San Antonio, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered bank executive role).** Named on Texas Partners Bank's own current leadership pages. Bank executive seats carry no FINRA record and the absence of one is expected, NOT a staleness flag. Recorded as ORG CONTEXT AND DOOR-OPENERS, not as advisors.
+
+&nbsp;&nbsp;*Sources:* https://www.texaspartners.bank/about/leadership/texas-partners-bank-leadership-team
+
+**Brandi Vitier** is listed as President, The Bank of San Antonio — heads private banking, commercial and business divisions; 22 years in banking; previously EVP & Market Executive in San Antonio, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered bank executive role).** Named on Texas Partners Bank's own current leadership pages. Bank executive seats carry no FINRA record and the absence of one is expected, NOT a staleness flag. Recorded as ORG CONTEXT AND DOOR-OPENERS, not as advisors.
+
+&nbsp;&nbsp;*Sources:* https://www.texaspartners.bank/about/leadership/market-leadership
+
+**Paul Davidson** is listed as Chief Banking Officer, Texas Partners Bank; 40+ years in San Antonio, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered bank executive role).** Named on Texas Partners Bank's own current leadership pages. Bank executive seats carry no FINRA record and the absence of one is expected, NOT a staleness flag. Recorded as ORG CONTEXT AND DOOR-OPENERS, not as advisors.
+
+&nbsp;&nbsp;*Sources:* https://www.texaspartners.bank/about/leadership/texas-partners-bank-leadership-team
+
+**Tom Moreno Jr.** is listed as Executive Vice President & Chief Operating Officer in San Antonio, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered bank executive role).** Named on Texas Partners Bank's own current leadership pages. Bank executive seats carry no FINRA record and the absence of one is expected, NOT a staleness flag. Recorded as ORG CONTEXT AND DOOR-OPENERS, not as advisors.
+
+&nbsp;&nbsp;*Sources:* https://www.texaspartners.bank/about/leadership/texas-partners-bank-leadership-team
+
+**Amy Sondergeld** is listed as Executive Vice President & Chief Financial Officer in San Antonio, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered bank executive role).** Named on Texas Partners Bank's own current leadership pages. Bank executive seats carry no FINRA record and the absence of one is expected, NOT a staleness flag. Recorded as ORG CONTEXT AND DOOR-OPENERS, not as advisors.
+
+&nbsp;&nbsp;*Sources:* https://www.texaspartners.bank/about/leadership/texas-partners-bank-leadership-team
+
+**Patti Wilson** is listed as Executive Vice President & Chief Human Resources Officer in San Antonio, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered bank executive role).** Named on Texas Partners Bank's own current leadership pages. Bank executive seats carry no FINRA record and the absence of one is expected, NOT a staleness flag. Recorded as ORG CONTEXT AND DOOR-OPENERS, not as advisors.
+
+&nbsp;&nbsp;*Sources:* https://www.texaspartners.bank/about/leadership/texas-partners-bank-leadership-team
+
+**Amanda McChesney** is listed as Executive Vice President & Chief Credit Officer in San Antonio, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered bank executive role).** Named on Texas Partners Bank's own current leadership pages. Bank executive seats carry no FINRA record and the absence of one is expected, NOT a staleness flag. Recorded as ORG CONTEXT AND DOOR-OPENERS, not as advisors.
+
+&nbsp;&nbsp;*Sources:* https://bankersdigest.com/texas-partners-bank-taps-mcchesney-as-chief-credit-officer-and-executive-vice-president/
+
+**Rachel Slade** is listed as Vice President, Treasury Solutions Relationship Manager in San Antonio, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered bank executive role).** Named on Texas Partners Bank's own current leadership pages. Bank executive seats carry no FINRA record and the absence of one is expected, NOT a staleness flag. Recorded as ORG CONTEXT AND DOOR-OPENERS, not as advisors.
+
+&nbsp;&nbsp;*Sources:* https://www.texaspartners.bank/treasury-management-team
+
+**Robert G. Ownby Jr.** is listed as Executive Vice President — listed as a principal of THE BANK OF SAN ANTONIO WEALTH ADVISORS, LLC, the pre-2020 name of today's TPB Wealth Advisors in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through TPB Wealth Advisors, LLC — SEC/IARD firm 150508 (via the predecessor entity name).
+
+&nbsp;&nbsp;**Status: UNRESOLVED.** SOLE SOURCE IS A BBB BUSINESS PROFILE KEYED TO THE PRE-2020 ENTITY NAME. The entity has been renamed twice since. They may still be there, may have moved to the bank side, or may be gone. No BrokerCheck signal, no current-site confirmation. DO NOT PRESENT THEM AS CURRENT STAFF.
+
+&nbsp;&nbsp;*Sources:* https://www.bbb.org/us/tx/san-antonio/profile/investment-advisory-services/the-bank-of-san-antonio-wealth-advisors-llc-0825-1000131855
+
 ---
 
 ## Broadway Bank
 
-Headquartered in San Antonio, TX (wealth address 1177 N.E. Loop 410, San Antonio, TX 78209). Program: Broadway Bank Wealth Management (bank trust/fiduciary) PLUS Broadway Wealth Solutions, Inc. Service tiers: Insight Partner, Insight Advisor, Insight Digital. Specialty services include oil, gas and mineral management and real estate (farm & ranch, residential, commercial). Broker-dealer: NONE FOUND — this is a bank-trust plus affiliated-RIA model, not a broker-dealer model. RESOLVED IN PASS 2. Broadway Wealth Solutions, Inc. — an SEC-REGISTERED INVESTMENT ADVISER, firm ID 291753, SEC-registered since 2022, reported AUM ~$308M (third-party figure, approximate). A REAL REGISTERED ENTITY, not a marketing brand. Broadway does not appear in FINRA broker-dealer listings and no third-party BD arrangement (LPL/Cetera/Osaic/RJFS) surfaced anywhere. The bank's history page notes it was 'the city's first to offer on-site brokerage services' in 1983 and opened a Wealth Management Division in 1984 — historical, not evidence of a current BD. Marked Medium-High rather than High only because BD absence was established by non-appearance, and a blank is 'not found', not 'confirmed absent'. Clearing and custody: not confirmed.
+Headquartered in San Antonio, TX (wealth address 1177 N.E. Loop 410, San Antonio, TX 78209). Program: Broadway Bank Wealth Management (bank trust/fiduciary) PLUS Broadway Wealth Solutions, Inc. Service tiers: Insight Partner, Insight Advisor, Insight Digital. Specialty services include oil, gas and mineral management and real estate (farm & ranch, residential, commercial). Broker-dealer: NONE — PASS 3 ANSWERS THIS AS FAR AS THE CHANNEL ALLOWS. Broadway Wealth Solutions, Inc. (SEC 291753) describes itself as a REGISTERED INVESTMENT ADVISER only, with the standard RIA state-registration/exemption disclosure and NO 'securities offered through ... Member FINRA/SIPC' line anywhere on its own site or the bank's wealth pages. Targeted searching against FINRA's firms-we-regulate listings surfaced no Broadway entity. CONCLUSION: RIA-only, no affiliated broker-dealer. Confidence Medium-High; the residual doubt is only that FINRA's 'B' firm list could not be opened directly. Clearing and custody: not confirmed.
 
 **12 of this bank's 13 named people sit in San Antonio Metro & Hill Country.**
 
-**Christian Escamilla** is listed as EVP, Head of Wealth Management, Marketing & Communications, Broadway Bank; CEO, Broadway Wealth Solutions, Inc in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Broadway Wealth Solutions, Inc. — an SEC-REGISTERED INVESTMENT ADVISER, firm ID 291753, SEC-registered since 2022, reported AUM ~$308M (third-party figure, approximate). A REAL REGISTERED ENTITY, not a marketing brand. Licences and designations: MBA, CWS. ~23 years; prior firms U.S. Trust and BBVA Compass.
+**Christian Escamilla** is listed as EVP, Broadway Bank Head of Wealth Management AND Chief Executive Officer, Broadway Wealth Solutions, Inc. — NOTE THE DUAL TITLE; the CEO-of-the-RIA half was not captured before pass 3 in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Broadway Wealth Solutions, Inc. — an SEC-REGISTERED INVESTMENT ADVISER, firm ID 291753, SEC-registered since 2022, reported AUM ~$308M (third-party figure, approximate). A REAL REGISTERED ENTITY, not a marketing brand. Licences and designations: MBA, CWS. Prior: Broadway Bank, U.S. Trust, BBVA Compass.
 
-&nbsp;&nbsp;**Status: ACTIVE.** THIS IS THE HEAD OF WEALTH MANAGEMENT. Named in the bank's own 26 August 2025 promotion press release AND in Bankers Digest coverage of it, with a matching current LinkedIn title. No BrokerCheck record surfaced, which is consistent with a bank-trust/RIA executive who may be IAR-only or unregistered. NAME COLLISION: the Escamilla BrokerCheck hits returned (Hector J, Nicholas, Nereyda) are DIFFERENT PEOPLE — do not attribute.
+&nbsp;&nbsp;**Status: ACTIVE.** THIS IS THE HEAD OF WEALTH MANAGEMENT. Named in the bank's own 26 August 2025 promotion press release AND in Bankers Digest coverage of it, with a matching current LinkedIn title. No BrokerCheck record surfaced, which is consistent with a bank-trust/RIA executive who may be IAR-only or unregistered. NAME COLLISION: the Escamilla BrokerCheck hits returned (Hector J, Nicholas, Nereyda) are DIFFERENT PEOPLE — do not attribute. PASS 3: a current professional profile carries BOTH titles in the present tense, corroborated by the bank's own wealth pages. An executive/RIA seat carries no FINRA record and none is expected.
 
-&nbsp;&nbsp;*Sources:* https://broadway.bank/newsroom/press-releases/broadway-bank-announces-strategic-leadership-realignment-and-key-promotions-to-drive-continued-growth · https://bankersdigest.com/tag/christian-escamilla/
+&nbsp;&nbsp;*Sources:* https://broadway.bank/newsroom/press-releases/broadway-bank-announces-strategic-leadership-realignment-and-key-promotions-to-drive-continued-growth · https://bankersdigest.com/tag/christian-escamilla/ · https://www.linkedin.com/in/christian-escamilla-mba-cws%C2%AE-28098a8/
 
 **Jeffrey S. Nelson** is listed as EVP, Chief Investment Officer in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Broadway Wealth Solutions, Inc. — an SEC-REGISTERED INVESTMENT ADVISER, firm ID 291753, SEC-registered since 2022, reported AUM ~$308M (third-party figure, approximate). A REAL REGISTERED ENTITY, not a marketing brand. Licences and designations: PhD, CFA, CFP.
 
@@ -521,11 +857,11 @@ Headquartered in San Antonio, TX (wealth address 1177 N.E. Loop 410, San Antonio
 
 &nbsp;&nbsp;*Sources:* https://broadway.bank/newsroom/press-releases/broadway-bank-announces-strategic-leadership-realignment-and-key-promotions-to-drive-continued-growth
 
-**Jonathan Wolf** is listed as EVP, Wealth Management Line of Business — FORMER in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Broadway Wealth Solutions, Inc. — an SEC-REGISTERED INVESTMENT ADVISER, firm ID 291753, SEC-registered since 2022, reported AUM ~$308M (third-party figure, approximate). A REAL REGISTERED ENTITY, not a marketing brand.
+**Jonathan Wolf** is listed as CONTESTED. Source A: Executive Vice President, Wealth Management Line of Business, Broadway Bank. Source B: PORTFOLIO MANAGER at Broadway Bank — a San Antonio Report feature quotes a 'Wolf' describing portfolio management work and prior service at larger corporate banks. Both recorded; neither picked in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Broadway Wealth Solutions, Inc. — an SEC-REGISTERED INVESTMENT ADVISER, firm ID 291753, SEC-registered since 2022, reported AUM ~$308M (third-party figure, approximate). A REAL REGISTERED ENTITY, not a marketing brand.
 
-&nbsp;&nbsp;**Status: LIKELY STALE.** The sole source is a ~2020 San Antonio Report piece, and the role they held is now held by CHRISTIAN ESCAMILLA per the August 2025 realignment. Treat them as a PREDECESSOR — do not call them as the current head of wealth.
+&nbsp;&nbsp;**Status: UNRESOLVED — TITLE CONTRADICTION, FOR A CALL (revised in pass 3 from LIKELY STALE).** PASS 3 REVISES THE EARLIER LIKELY STALE READ. Two sources give materially different SENIORITY for the same surname at the same bank. Three possibilities: one person promoted from portfolio manager to EVP between the sources; two different Wolfs; or a data-broker title error. It also sits uneasily beside Escamilla as Head of Wealth Management — either Wolf reports to them or one of the titles is wrong. The staleness read is withdrawn because a current feature places a Wolf in the wealth team; what is unresolved is WHICH SEAT, not whether they are there. Do not present a single title.
 
-&nbsp;&nbsp;*Sources:* https://sanantonioreport.org/broadway-banks-wealth-management-team-delivers-innovative-solutions-personal-service/
+&nbsp;&nbsp;*Sources:* https://broadway.bank/team/ · https://www.zoominfo.com/pic/broadway-bank/17879231 · https://sanantonioreport.org/broadway-banks-wealth-management-team-delivers-innovative-solutions-personal-service/
 
 ---
 
@@ -533,13 +869,13 @@ Headquartered in San Antonio, TX (wealth address 1177 N.E. Loop 410, San Antonio
 
 Headquartered in San Antonio, TX. Program: Frost Wealth Advisors (bank division). Related entities: Frost Brokerage Services, Inc. (BD); Frost Investment Services, LLC (RIA); Frost Investment Advisors, LLC (asset manager). Private Banking is separately branded. Broker-dealer: Frost Brokerage Services, Inc. (CRD 17465) — captive in-house BD — member FINRA/SIPC, wholly owned by Frost Bank, formed in Texas 03/21/1986. An INTRODUCING broker-dealer. Not a marketing brand on a third-party BD. Clearing and custody: National Financial Services LLC (Fidelity) — CONFIRMED. Frost's own brokerage fee schedule and Reg BI disclosure state customer accounts are carried by NFS and that margin runs through NFS as clearing and custodial firm.
 
-**7 of this bank's 26 named people sit in San Antonio Metro & Hill Country.**
+**12 of this bank's 31 named people sit in San Antonio Metro & Hill Country.**
 
-**Bryan T. Adkison** is listed as Wealth Advisor in San Antonio, TX (inferred from an initials-only aggregator listing — NOT confirmed). No CRD was obtained, and none is guessed. Advisory through Frost Investment Services, LLC; clearing at National Financial Services LLC (Fidelity) — CONFIRMED. Licences and designations: CWS (Certified Wealth Strategist); licensed life/health/accident insurance agent. Wealth Advisor at Frost Brokerage Services since March 2003.
+**Bryan T. Adkison** is listed as Wealth Advisor in San Antonio, TX (inferred from an initials-only aggregator listing — NOT confirmed). Legal name on record: Bryan Tad Adkison. CRD 2759268 — NEWLY RESOLVED IN PASS 3. Advisory through Frost Investment Services, LLC; clearing at National Financial Services LLC (Fidelity) — CONFIRMED. Licences and designations: CWS (Certified Wealth Strategist); licensed life/health/accident insurance agent. Wealth Advisor at Frost Brokerage Services since March 2003.
 
-&nbsp;&nbsp;**Status: ACTIVE.** Named in Frost's own Form ADV Part 2B brochure supplements dated JUNE 2026 with tenure stated to present. A current primary regulatory filing — the strongest ACTIVE evidence available anywhere in this project.
+&nbsp;&nbsp;**Status: ACTIVE.** CRD RESOLVED IN PASS 3. The BrokerCheck result title reads 'BRYAN TAD ADKISON - Broker at FROST BROKERAGE ...' — present tense, firm matches the captive BD. Corroborated by a LinkedIn title naming them SVP at Frost Wealth Advisors and by the June 2026 Form ADV Part 2B. They remain city-unplaced.
 
-&nbsp;&nbsp;*Sources:* https://www.frostbank.com/dam/jcr:f04a91fe-8bdb-413d-bd85-22cbacc9eae2/FormADVPart2BAdvisorBrochureSupplements.pdf
+&nbsp;&nbsp;*Sources:* https://www.frostbank.com/dam/jcr:f04a91fe-8bdb-413d-bd85-22cbacc9eae2/FormADVPart2BAdvisorBrochureSupplements.pdf · https://brokercheck.finra.org/individual/summary/2759268 · https://www.linkedin.com/in/bryan-adkison-640a09228/
 
 **Kenneth L. 'Kenny' Wilson** is listed as Group EVP & Chief Wealth Officer, Frost Bank — oversees trust, investment and brokerage in San Antonio, TX. Legal name on record: Kenneth L. Wilson. No CRD was obtained, and none is guessed. Joined Frost Aug 2023 from Haven for Hope (CEO). Prior: Bank of America San Antonio/Austin market president; U.S. Trust / BofA Private Wealth managing director.
 
@@ -559,13 +895,43 @@ Headquartered in San Antonio, TX. Program: Frost Wealth Advisors (bank division)
 
 &nbsp;&nbsp;*Sources:* https://www.prnewswire.com/news-releases/frost-bank-announces-leadership-changes-for-frost-wealth-advisors-300200473.html
 
+**Rebecca Boyd** is listed as Financial advisor, Frost Investment Services in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Frost Investment Services, LLC; clearing at National Financial Services LLC (Fidelity). Office: 1250 Northeast Interstate 410 Loop, San Antonio, TX 78209. Phone: (210) 220-5000 — OFFICE line, not a direct line.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Placed at Frost's San Antonio office by an advisor-directory location page. No individual BrokerCheck title check was run, and no departure language appeared — this is unchecked, not stale. NOTE: cross-match this person against the 13 Frost advisors already carrying CRDs but no city; a full-name match would let you stamp this address on that CRD row.
+
+&nbsp;&nbsp;*Sources:* https://www.seniorfinanceadvisor.com/firm_locations/tx/san-antonio/frost-investment-services/1250-northeast-interstate-410-loop
+
+**Lorena Salazar** is listed as Financial advisor, Frost Investment Services in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Frost Investment Services, LLC; clearing at National Financial Services LLC (Fidelity). Office: 1250 Northeast Interstate 410 Loop, San Antonio, TX 78209. Phone: (210) 220-5000 — OFFICE line, not a direct line.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Placed at Frost's San Antonio office by an advisor-directory location page. No individual BrokerCheck title check was run, and no departure language appeared — this is unchecked, not stale. NOTE: cross-match this person against the 13 Frost advisors already carrying CRDs but no city; a full-name match would let you stamp this address on that CRD row.
+
+&nbsp;&nbsp;*Sources:* https://www.seniorfinanceadvisor.com/firm_locations/tx/san-antonio/frost-investment-services/1250-northeast-interstate-410-loop
+
+**Daryl Hoffmann** is listed as Financial advisor, Frost Investment Services in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Frost Investment Services, LLC; clearing at National Financial Services LLC (Fidelity). Office: 1250 Northeast Interstate 410 Loop, San Antonio, TX 78209. Phone: (210) 220-5000 — OFFICE line, not a direct line.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Placed at Frost's San Antonio office by an advisor-directory location page. No individual BrokerCheck title check was run, and no departure language appeared — this is unchecked, not stale. NOTE: cross-match this person against the 13 Frost advisors already carrying CRDs but no city; a full-name match would let you stamp this address on that CRD row.
+
+&nbsp;&nbsp;*Sources:* https://www.seniorfinanceadvisor.com/firm_locations/tx/san-antonio/frost-investment-services/1250-northeast-interstate-410-loop
+
+**Anabell Rodriguez** is listed as Financial advisor, Frost Investment Services in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Frost Investment Services, LLC; clearing at National Financial Services LLC (Fidelity). Office: 1250 Northeast Interstate 410 Loop, San Antonio, TX 78209. Phone: (210) 220-5000 — OFFICE line, not a direct line.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Placed at Frost's San Antonio office by an advisor-directory location page. No individual BrokerCheck title check was run, and no departure language appeared — this is unchecked, not stale. NOTE: cross-match this person against the 13 Frost advisors already carrying CRDs but no city; a full-name match would let you stamp this address on that CRD row.
+
+&nbsp;&nbsp;*Sources:* https://www.seniorfinanceadvisor.com/firm_locations/tx/san-antonio/frost-investment-services/1250-northeast-interstate-410-loop
+
+**Collin Fabac** is listed as Financial advisor, Frost Investment Services in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Frost Investment Services, LLC; clearing at National Financial Services LLC (Fidelity). Office: 1250 Northeast Interstate 410 Loop, San Antonio, TX 78209. Phone: (210) 220-5000 — OFFICE line, not a direct line.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Placed at Frost's San Antonio office by an advisor-directory location page. No individual BrokerCheck title check was run, and no departure language appeared — this is unchecked, not stale. NOTE: cross-match this person against the 13 Frost advisors already carrying CRDs but no city; a full-name match would let you stamp this address on that CRD row.
+
+&nbsp;&nbsp;*Sources:* https://www.seniorfinanceadvisor.com/firm_locations/tx/san-antonio/frost-investment-services/1250-northeast-interstate-410-loop
+
 **Richard Kardys** is listed as FORMER Group EVP, Frost Wealth Advisors in San Antonio, TX. No CRD was obtained, and none is guessed. Trust & investments executive at Frost since 1980.
 
 &nbsp;&nbsp;**Status: LIKELY STALE.** Transitioned out of the role in 2016. Sole source is a 2015/2016 press release, roughly ten years old. DO NOT call them as a current Frost contact.
 
 &nbsp;&nbsp;*Sources:* https://www.prnewswire.com/news-releases/frost-bank-announces-leadership-changes-for-frost-wealth-advisors-300200473.html
 
-**Tom Stringfellow** is listed as FORMER President, Frost Investment Advisors in San Antonio / Fort Worth, TX. No CRD was obtained, and none is guessed. 40+ years at Frost. *(spans San Antonio Metro & Hill Country + Rest of Texas)*
+**Tom Stringfellow** is listed as FORMER President, Frost Investment Advisors in San Antonio / Fort Worth, TX. No CRD was obtained, and none is guessed. 40+ years at Frost. *(spans San Antonio Metro & Hill Country + Outside the territory)*
 
 &nbsp;&nbsp;**Status: LIKELY STALE — DEPARTED.** Retired from Frost; succeeded by Mace McCain in Feb 2021; subsequently joined ARGENT TRUST COMPANY as Chief Investment Advisor. They are at a different firm now — do not call them at Frost.
 
@@ -581,9 +947,9 @@ Headquartered in San Antonio, TX. Program: Frost Wealth Advisors (bank division)
 
 ## Texas Capital Bancshares, Inc. — Texas Capital Bank
 
-Headquartered in Dallas, TX. Home region: 4. Rest of Texas. Program: Texas Capital Private Bank (umbrella brand). Client-facing advisory arm is Texas Capital Bank Private Wealth Advisors (PWA). Broker-dealer: TCBI Securities, Inc., trade name Texas Capital Securities (CRD 313304) — captive in-house BD, SEC/MSRB registered, member FINRA/SIPC. Clearing and custody: Pershing LLC (BNY) — CONFIRMED from TCBI Securities' own BrokerCheck firm report. The BrokerCheck firm report discloses that TCBI Securities introduces customers to other brokers, that customer accounts and securities are maintained by a third party, and specifically that Pershing maintains certain books and records for TCBI Securities — the standard formulation for a fully-disclosed introducing arrangement.
+Headquartered in Dallas, TX. Home region: 5. Outside the territory. Program: Texas Capital Private Bank (umbrella brand). Client-facing advisory arm is Texas Capital Bank Private Wealth Advisors (PWA). Broker-dealer: TCBI Securities, Inc., trade name Texas Capital Securities (CRD 313304) — captive in-house BD, SEC/MSRB registered, member FINRA/SIPC. Clearing and custody: Pershing LLC (BNY) — CONFIRMED from TCBI Securities' own BrokerCheck firm report. The BrokerCheck firm report discloses that TCBI Securities introduces customers to other brokers, that customer accounts and securities are maintained by a third party, and specifically that Pershing maintains certain books and records for TCBI Securities — the standard formulation for a fully-disclosed introducing arrangement.
 
-**3 of this bank's 17 named people sit in San Antonio Metro & Hill Country.**
+**3 of this bank's 19 named people sit in San Antonio Metro & Hill Country.**
 
 **John Jusztin** is listed as Executive Director, Private Client Advisor in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Texas Capital Bank Wealth Management Services, Inc., trade name Texas Capital Bank Private Wealth Advisors (SEC IAPD firm 298422); clearing at Pershing LLC (BNY) — CONFIRMED from TCBI Securities' own BrokerCheck firm report.
 
@@ -605,9 +971,29 @@ Headquartered in Dallas, TX. Home region: 4. Rest of Texas. Program: Texas Capit
 
 ---
 
+## Falcon International Bank
+
+Headquartered in Laredo, TX. Founded 1986. President/CEO Gilbert Narvaez, Jr.; Chairman Adolfo E. Gutierrez. Home region: 3. The Mexico Border. Program: (1) FALCON TRUST DEPARTMENT — in-house bank fiduciary. The bank publishes a dedicated Trust page offering estate planning, administration of trusts, investment management and IRAs, including testamentary trusts under will and charitable foundation setup. (2) FALCONVEST FINANCIAL SERVICES — the brokerage arm, established OCTOBER 2002 under a third-party brokerage affiliate agreement among Falcon International Bank, AC Financial and LPL Financial. Broker-dealer: LPL Financial LLC for the brokerage arm, reached THROUGH AC Financial (San Antonio), which operates the FalconVest brand. This is a classic bank-brokerage TPM arrangement: the advisors are AC Financial / LPL people, NOT bank employees. The trust department has NO broker-dealer and needs none — it is bank fiduciary business. Clearing and custody: not confirmed.
+
+**2 of this bank's 3 named people sit in San Antonio Metro & Hill Country.**
+
+**Albert Cavazos** is listed as Owner / Principal, AC Financial and AC Asset Management, Inc.; LPL Registered Principal and LPL Financial Advisor. Operates FalconVest Financial Services for Falcon International Bank under the 2002 affiliate agreement in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through AC Asset Management, Inc. Office: 242 W Sunset Rd, Ste 101, San Antonio, TX. Email: albert.cavazos@lpl.com — published via a contact aggregator, NOT the firm site. Treat as unconfirmed; it was not invented. Licences and designations: CFA; the 'LPL Registered Principal' descriptor implies a Series 24, but no license record was seen. 30+ years in finance; leads AC Asset Management and AC Financial; focuses on personalised strategies for private clients; works with a small group of banks and holds the affiliate relationship with Falcon International Bank.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** The firm site is current and the Falcon relationship is described in the PRESENT TENSE on both falconbank.com and myacinvestments.com. No registration record surfaced by search — a search-form artifact, not a departure signal, for someone described as an LPL Registered Principal.
+
+&nbsp;&nbsp;*Sources:* https://www.myacinvestments.com/our-company · https://www.myacinvestments.com/p/our-strategic-partners-affiliates · https://www.myacinvestments.com/falconvest-financial-services · https://www.linkedin.com/in/albert-cavazos-cfa-5288157/
+
+**Alexandra Cavazos** is listed as Advisor, AC Financial — father-and-daughter team with Albert Cavazos; the firm describes 'over 35 years of combined experience' in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through AC Asset Management, Inc. Graduate of Texas A&M University; joined the family firm.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Junior advisor named on the firm's current company page. No registration signal either way — likely recently registered, but nothing confirms it.
+
+&nbsp;&nbsp;*Sources:* https://www.myacinvestments.com/our-company
+
+---
+
 ## Happy State Bank & Trust Company, a Division of Centennial Bank
 
-Headquartered in 701 S. Taylor St., Amarillo, TX 79101. Bank CHARTER is now Centennial Bank, Conway, Arkansas. Home region: 4. Rest of Texas. Program: Happy Trust Company (trust, fiduciary, portfolio management, special-asset management covering farms, ranches, oil/gas/wind/solar royalties and working interests); Happy Investment Services (retail brokerage/advisory, operating under four practice names — Panhandle Wealth, West Texas Wealth, Hill Country Wealth, Addison); GoldStar Trust Company (self-directed IRA / escrow custodian, Canyon TX, acquired 2004 as Colonial Trust Company). Broker-dealer: AMERIPRISE FINANCIAL SERVICES, LLC (CRD 6363) — RESOLVED IN PASS 2, previously recorded as CONTESTED. The contradiction between the Home BancShares 10-K (Ameriprise) and happybank.com (LPL Financial) is settled by a DATED PLATFORM-CHANGE ANNOUNCEMENT that the first pass had not found: an Ameriprise press release of 18 MAY 2023, 'Happy State Bank Joins the Ameriprise Financial Institutions Group through its Merger with Centennial Bank', which names the TEXAS programs specifically — Happy Investment Services and West Texas Wealth — at 20 advisors and $1.3B in client assets. CHRONOLOGY: (1) pre-2022 Happy State Bank is independent and its program runs on LPL FINANCIAL — proven by a GlobeNewswire release of 3 Sept 2020, 'LPL Financial Welcomes the Murphy Team to Happy Investment Services'; (2) April 2022 Home BancShares closes the acquisition and Happy becomes a division of Centennial Bank; (3) 18 May 2023 the wealth arm converts onto Ameriprise and the LPL relationship ends; (4) the FY2025 10-K describes only the Ameriprise contract. So the happybank.com LPL paragraph is an UN-UPDATED LEGACY PAGE, not a live second platform — accurate once, obsolete now. The 'Arkansas on Ameriprise, Texas on LPL' hypothesis was TESTED AND REJECTED: all four Ameriprise practice pages are Texas offices and no post-2023 LPL-registered Happy advisor exists in any source. NAME-COLLISION TRAP: a recent LPL release about 'Happier Wealth' is an UNRELATED firm and must not be read as a reversal. Prior BD: LPL Financial, through ~2022/23. Clearing and custody: not confirmed. Ameriprise clears through its affiliate American Enterprise Investment Services and LPL self-clears, so the answer depends on which BD is correct above. NO source stated the clearing arrangement for these accounts. Do not write in a clearing firm until the BD contradiction is settled.
+Headquartered in 701 S. Taylor St., Amarillo, TX 79101. Bank CHARTER is now Centennial Bank, Conway, Arkansas. Home region: 5. Outside the territory. Program: Happy Trust Company (trust, fiduciary, portfolio management, special-asset management covering farms, ranches, oil/gas/wind/solar royalties and working interests); Happy Investment Services (retail brokerage/advisory, operating under four practice names — Panhandle Wealth, West Texas Wealth, Hill Country Wealth, Addison); GoldStar Trust Company (self-directed IRA / escrow custodian, Canyon TX, acquired 2004 as Colonial Trust Company). Broker-dealer: AMERIPRISE FINANCIAL SERVICES, LLC (CRD 6363) — RESOLVED IN PASS 2, previously recorded as CONTESTED. The contradiction between the Home BancShares 10-K (Ameriprise) and happybank.com (LPL Financial) is settled by a DATED PLATFORM-CHANGE ANNOUNCEMENT that the first pass had not found: an Ameriprise press release of 18 MAY 2023, 'Happy State Bank Joins the Ameriprise Financial Institutions Group through its Merger with Centennial Bank', which names the TEXAS programs specifically — Happy Investment Services and West Texas Wealth — at 20 advisors and $1.3B in client assets. CHRONOLOGY: (1) pre-2022 Happy State Bank is independent and its program runs on LPL FINANCIAL — proven by a GlobeNewswire release of 3 Sept 2020, 'LPL Financial Welcomes the Murphy Team to Happy Investment Services'; (2) April 2022 Home BancShares closes the acquisition and Happy becomes a division of Centennial Bank; (3) 18 May 2023 the wealth arm converts onto Ameriprise and the LPL relationship ends; (4) the FY2025 10-K describes only the Ameriprise contract. So the happybank.com LPL paragraph is an UN-UPDATED LEGACY PAGE, not a live second platform — accurate once, obsolete now. The 'Arkansas on Ameriprise, Texas on LPL' hypothesis was TESTED AND REJECTED: all four Ameriprise practice pages are Texas offices and no post-2023 LPL-registered Happy advisor exists in any source. NAME-COLLISION TRAP: a recent LPL release about 'Happier Wealth' is an UNRELATED firm and must not be read as a reversal. Prior BD: LPL Financial, through ~2022/23. Clearing and custody: not confirmed. Ameriprise clears through its affiliate American Enterprise Investment Services and LPL self-clears, so the answer depends on which BD is correct above. NO source stated the clearing arrangement for these accounts. Do not write in a clearing firm until the BD contradiction is settled.
 
 **2 of this bank's 5 named people sit in San Antonio Metro & Hill Country.**
 
@@ -625,31 +1011,103 @@ Headquartered in 701 S. Taylor St., Amarillo, TX 79101. Bank CHARTER is now Cent
 
 ---
 
+## International Bank of Commerce (IBC Bank) / International Bancshares Corp.
+
+Headquartered in Laredo, TX (bank founded 1966; 1200 San Bernardo Ave). Parent International Bancshares Corporation (NASDAQ: IBOC), ~$16.6B assets. Home region: 3. The Mexico Border. Program: IBC Investment Services — MARKETING BRAND. IBC Bank and IBC Investment Services are explicitly NOT registered as a broker/dealer or investment advisor. The bank separately lists trust and employee-benefits divisions. Broker-dealer: LPL Financial — explicit disclosure: 'Securities and advisory services are offered through LPL Financial ... Registered representatives of LPL offer products and services using IBC Investment Services and may also be employees of IBC Bank.' Textbook LPL Institution Services dual-employee model. Clearing and custody: not confirmed.
+
+**1 of this bank's 9 named people sit in San Antonio Metro & Hill Country.**
+
+**Carlos R. Benavides** is listed as Financial Consultant, IBC Investment Services in San Antonio, TX (IBC's San Antonio market, not the border proper). CRD 5425251. Phone: (210) 807-6356. Licences and designations: Series 7, Series 66, Life & Health Insurance. Serves high-net-worth clients and small business owners in San Antonio.
+
+&nbsp;&nbsp;**Status: ACTIVE.** BrokerCheck title 'CARLOS RAFAEL BENAVIDES JR - Broker at LPL...' at CRD 5425251. Full name plus LPL in the title, and the Jr suffix matches the bank bio's 'Carlos R.' — accepted.
+
+&nbsp;&nbsp;*Sources:* https://www.ibcinvestments.com/Carlos-Benavides.e1129355.htm · https://brokercheck.finra.org/individual/summary/5425251
+
+---
+
 ## Rio Bank
 
-Headquartered in McAllen, TX (founded 1985). 16 locations across the Rio Grande Valley. Home region: 3. South Texas & the Mexico Border. Program: Rio Bank Wealth Management & Trust Services. Broker-dealer: not found. The presentation is a bank trust department / portfolio management with no third-party BD disclosure surfaced. It is possible there is no retail brokerage arm at all — but that is unconfirmed either way. Clearing and custody: not confirmed.
+Headquartered in McAllen, TX (founded 1985). 16 locations across the Rio Grande Valley. Home region: 3. The Mexico Border. Program: Rio Bank Wealth Management & Trust Services. Broker-dealer: not found. The presentation is a bank trust department / portfolio management with no third-party BD disclosure surfaced. It is possible there is no retail brokerage arm at all — but that is unconfirmed either way. Clearing and custody: not confirmed.
 
 **1 of this bank's 2 named people sit in San Antonio Metro & Hill Country.**
 
-**Corey M. Mowen** is listed as Vice President, Trust Investment Officer in San Antonio, TX (San Antonio region for McAllen-based Rio Bank). No CRD was obtained, and none is guessed. Licences and designations: CFP, DPT, MS. 10+ years in business management, the most recent five focused on wealth management. *(spans San Antonio Metro & Hill Country + South Texas & the Mexico Border)*
+**Corey M. Mowen** is listed as Vice President, Trust Investment Officer in San Antonio region, TX — this is Rio Bank's San Antonio trust footprint, NOT McAllen. No CRD was obtained, and none is guessed. Licences and designations: BS Texas Tech; Doctor of Physical Therapy, UT Health San Antonio; MS Personal Financial Planning, College for Financial Planning. 10+ years in business management, the last five focused on wealth management. *(spans San Antonio Metro & Hill Country + The Mexico Border)*
 
-&nbsp;&nbsp;**Status: UNVERIFIED (non-registered role).** The sole source is a Bankers Digest new-hire trade item whose publication date was not surfaced. If that item proves 3+ years old with no corroborating current bank page, downgrade to LIKELY STALE. They were NOT confirmed present on Rio Bank's own 'Our People' page.
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered role).** CITY PINNED IN PASS 3 off a dated trade-press headline: 'Mowen Joins Rio Bank as Trust Investment Officer in San Antonio'. Trust investment officer is a fiduciary seat that routinely carries no FINRA record, so the absence of a CRD is expected here and is not a staleness flag.
 
 &nbsp;&nbsp;*Sources:* https://bankersdigest.com/mowen-joins-rio-bank-as-trust-investment-officer-in-san-antonio/
 
 ---
 
-# 3. South Texas & the Mexico Border
+## Vantage Bank Texas
 
-*South Texas and the Mexico border — Laredo and Zapata, the Rio Grande Valley (McAllen, Edinburg, Pharr, Harlingen, Brownsville, Weslaco, Rio Grande City), Eagle Pass, Del Rio and Uvalde, plus the Coastal Bend (Corpus Christi, Alice, Kingsville, Rockport, Port Aransas, Beeville, Goliad).*
+Headquartered in San Antonio, TX. Founded 1923 as San Antonio National Bank; renamed Vantage Bank Texas 12 February 2012. ~$4.5B assets (2024). 100% family and employee owned. Program: No distinct brand found — presented simply as Vantage Bank wealth management / private banking. Broker-dealer: None found. No RIA and no broker-dealer is disclosed anywhere reachable. Do not assert one. Clearing and custody: not confirmed.
 
-**8 named people across 6 institutions in this region.**
+**1 of this bank's 2 named people sit in San Antonio Metro & Hill Country.**
+
+**Clay Burnett** is listed as Executive Vice President / San Antonio Market President in San Antonio, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered bank executive role).** Named in dated trade-press coverage of the hire. They are a BANK MARKET PRESIDENT, not confirmed wealth staff — recorded as the named door-opener into a program whose advisors are entirely unpublished.
+
+&nbsp;&nbsp;*Sources:* https://bankersdigest.com/vantage-bank-welcomes-burnett-as-san-antonio-market-president/
+
+---
+
+# 3. The Mexico Border
+
+*The Mexico border — Laredo and Zapata, the Rio Grande Valley (McAllen, Edinburg, Pharr, Mission, Harlingen, Brownsville, Weslaco, Rio Grande City), Eagle Pass, Del Rio, Uvalde and Carrizo Springs.*
+
+**13 named people across 5 institutions in this region.**
+
+## International Bank of Commerce (IBC Bank) / International Bancshares Corp.
+
+Headquartered in Laredo, TX (bank founded 1966; 1200 San Bernardo Ave). Parent International Bancshares Corporation (NASDAQ: IBOC), ~$16.6B assets. Program: IBC Investment Services — MARKETING BRAND. IBC Bank and IBC Investment Services are explicitly NOT registered as a broker/dealer or investment advisor. The bank separately lists trust and employee-benefits divisions. Broker-dealer: LPL Financial — explicit disclosure: 'Securities and advisory services are offered through LPL Financial ... Registered representatives of LPL offer products and services using IBC Investment Services and may also be employees of IBC Bank.' Textbook LPL Institution Services dual-employee model. Clearing and custody: not confirmed.
+
+**6 of this bank's 9 named people sit in The Mexico Border.**
+
+**Luis O. Gonzalez** is listed as LPL Financial Consultant, IBC Investment Services — covering the Laredo and Zapata area in CONTESTED — pass-1 sourcing said Laredo and Zapata; the CURRENT ibcinvestments.com bio reads 'Brownsville and Zapata area'. Both recorded. Legal name on record: Luis Orlando Gonzalez. CRD 5230574. 17+ years in financial services; former Credit Analyst and Personal Banker at IBC Bank; joined LPL Financial in 2002.
+
+&nbsp;&nbsp;**Status: ACTIVE.** BrokerCheck title reads 'LUIS ORLANDO GONZALEZ - Broker at LPL FINANCIAL LLC' at CRD 5230574; firm matches IBC's disclosed BD. CITY CONTRADICTION FLAGGED, NOT RESOLVED — they most likely moved markets, but that is unverified.
+
+&nbsp;&nbsp;*Sources:* https://www.ibcinvestments.com/Luis-O--Gonzalez.e1129361.htm · https://brokercheck.finra.org/individual/summary/5230574
+
+**Ismael E. Reyes-Retana** is listed as Senior Financial Consultant, IBC Investment Services in Laredo, TX. CRD 3250007. Phone: (956) 465-2485; also published (956) 726-6631. Email: ismaelreyes.retana@lpl.com. Licences and designations: Series 6, 7, 24, 66. Described as one of the top-producing consultants at IBC Investment Services; works with individuals and small business owners in Texas and Mexico — a cross-border book.
+
+&nbsp;&nbsp;**Status: ACTIVE.** BrokerCheck title 'ISMAEL ERADIO REYES RETANA - Broker at LPL...' at CRD 3250007; firm matches IBC's BD; Laredo confirmed by a third-party profile. *** SIGNIFICANT DISCLOSURE HISTORY — HANDLE WITH CARE: *** a November 2019 Houston FINRA arbitration panel ordered LPL to pay $864,839 compensatory plus $340,000 attorney fees plus $350,000 — $1,554,839 total — over non-traded REIT recommendations, and a February 2024 complaint alleges $106,000 of damages over a variable annuity. Several plaintiff-side law firms are actively soliciting on their name.
+
+&nbsp;&nbsp;*Sources:* https://www.ibcinvestments.com/Ismael-E--Reyes-Retana.e1129359.htm · https://brokercheck.finra.org/individual/summary/3250007 · https://klaymantoskes.com/broker-investigation/broker-misconduct-investigation-ismael-reyes-retana-ibc-investment-services/
+
+**Fernando R. Montemayor Jr.** is listed as Senior Financial Consultant, IBC Investment Services in Laredo, TX (inferred from the 956-465-24xx Laredo block). No CRD was obtained, and none is guessed. Phone: (956) 465-2484. ~15 years of financial experience, 10+ with IBC Investment Services. LPL FINANCIAL CHAIRMAN'S CLUB award recipient, 2012.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Named on a current firm bio page with a live direct-dial, but no BrokerCheck record surfaced. Do NOT read the absence as stale — a top producer with a Chairman's Club award is very likely registered and the search simply did not return it.
+
+&nbsp;&nbsp;*Sources:* https://www.ibcinvestments.com/Fernando-Montemayor.e1129357.htm
+
+**Carmen Garza** is listed as Financial Consultant, IBC Investment Services in Laredo, TX (inferred from the 956-465-24xx Laredo block). No CRD was obtained, and none is guessed. Phone: (956) 465-2482. 13 years in banking and finance; started at IBC Bank as a Personal Banker.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Current firm bio page with a live direct-dial. NO CRD, AND DO NOT ATTEMPT TO ATTACH ONE — 'Carmen Garza' is a high-collision name in the Valley and no BrokerCheck title carrying both their full name and LPL was located. Their career path is consistent with a Series 6 or 7 rep.
+
+&nbsp;&nbsp;*Sources:* https://www.ibcinvestments.com/Carmen-Garza.e1129356.htm
+
+**Julian Cruz** is listed as Financial Consultant, IBC Investment Services in Laredo, TX (inferred from the 956-465-24xx block). No CRD was obtained, and none is guessed. Phone: (956) 465-2486. Personal approach to client needs; long-term strategy development.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Named on a current IBC Investment Services bio page with a live direct-dial number. No BrokerCheck record surfaced on a name-plus-firm search — treat that as a search-form artifact, NOT a departure signal.
+
+&nbsp;&nbsp;*Sources:* https://www.ibcinvestments.com/Julian-Cruz.e1129360.htm
+
+**Virgilio Rodriguez** is listed as Financial Consultant, IBC Investment Services in Eagle Pass, TX. No CRD was obtained, and none is guessed. Phone: (830) 773-4910. 12+ years in the banking industry.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** *** THE ONLY EAGLE PASS WEALTH NAME IN THE ENTIRE DATASET. *** Their bio explicitly says they 'came to Eagle Pass' and the 830-773 exchange is the Eagle Pass block. Current firm bio page; no BrokerCheck record returned. Their bio ID sits in a much later block than the rest of the roster, indicating a newer hire.
+
+&nbsp;&nbsp;*Sources:* https://www.ibcinvestments.com/Virgilio--Rodriguez.e1158306.htm
+
+---
 
 ## Texas Regional Bank (TRB) — TRB Trust & Wealth Management
 
 Headquartered in Harlingen, TX (bank). CONTRADICTION FLAGGED: trb.bank and the bank's own releases say Harlingen; a third-party profile (altss.com) says McAllen; and the Trust & Wealth DIVISION is separately described as HOUSTON-headquartered. All three recorded — always qualify bank HQ vs division HQ. Program: TRB Trust & Wealth Management (rebranded). Boutique fiduciary division: investment management, estate and trust administration, financial planning, family office services, institutional services. Broker-dealer: None identified. This is an RIA + bank trust model, NOT a third-party-BD brokerage. BRAND vs ENTITY NOTE: unlike most bank programs in this dataset, here the brand DOES map to a real bank-owned registered entity — TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management. Clearing and custody: Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
 
-**3 of this bank's 13 named people sit in South Texas & the Mexico Border.**
+**4 of this bank's 15 named people sit in The Mexico Border.**
 
 **Bobby Farris** is listed as Chairman, Trust & Wealth Management; also described as a lead advisor in the Rio Grande Valley in Harlingen, TX. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
 
@@ -669,61 +1127,39 @@ Headquartered in Harlingen, TX (bank). CONTRADICTION FLAGGED: trb.bank and the b
 
 &nbsp;&nbsp;*Sources:* https://trb.bank/news/cody-drake-perez-wealth-management-advisor-trb/
 
----
+**Woodmir Gervais** is listed as Vice President, Wealth Management Advisor, TRB Trust & Wealth Management in Rio Grande Valley — EXACT OFFICE NOT PINNED. Harlingen and McAllen are the two candidates; the announcement ran through Texas Border Business (an RGV outlet) and TRB's own RGV-facing 'People You Know' series. Recorded as RGV, city not confirmed. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser (IAPD firm 309370), 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — confirmed as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here. 15+ years in financial services; corporate banking background; military service.
 
-## American Bank, N.A. — ACQUIRED BY PROSPERITY
+&nbsp;&nbsp;**Status: UNVERIFIED.** Current bank announcement page live on trb.bank plus two independent trade-press carries. No registration signal, and none is expected for an RIA-side wealth advisor.
 
-Headquartered in was Corpus Christi, TX (founded 1970). Program: American Bank Wealth Management — Private Banking, Investment Management, Trust & Fiduciary, Comprehensive Trust and Estate Services, Specialty Asset Management, Family Office Administration, Business Transition Advisory. Broker-dealer: not found — the presentation is bank trust / investment management and the pages surfaced describe non-bank investments without naming a BD. Clearing and custody: not confirmed.
-
-**1 of this bank's 1 named people sit in South Texas & the Mexico Border.**
-
-**Lauren Duke** is listed as Wealth Management team member in Corpus Christi, TX (presumed — not explicitly confirmed). No CRD was obtained, and none is guessed.
-
-&nbsp;&nbsp;**Status: LIKELY STALE — for a call.** Named on the bank's 'Meet our Wealth Advisors' page as having joined the wealth team in 2015. That page predates a merger that closed 1/1/2026 with integration in 9/2026. A bank page for an ACQUIRED bank mid-integration is not current-roster evidence. No registration signal was obtained.
-
-&nbsp;&nbsp;*Sources:* https://www.americanbank.com/wealth/resources/meet-our-wealth-advisors
+&nbsp;&nbsp;*Sources:* https://trb.bank/people-you-know/trb-welcomes-woodmir-gervais-as-wealth-management-advisor/ · https://texasborderbusiness.com/texas-regional-bank-welcomes-woodmir-gervais-as-wealth-management-advisor/ · https://bankersdigest.com/texas-regional-bank-welcomes-gervais-as-wealth-management-advisor/ · https://www.linkedin.com/in/woodmir-gervais-418086197/
 
 ---
 
-## First Community Bank (1st Community Bank)
+## Falcon International Bank
 
-Headquartered in Corpus Christi, TX (originally chartered Alice, TX, 1983). Program: Bank-branded investment services program as presented on fcbot.com/investments. The registered entity is Ameriprise, not the bank. Broker-dealer: Ameriprise Financial Services, LLC, delivered through AMERIPRISE FINANCIAL INSTITUTIONS GROUP — explicitly described as a channel of Ameriprise Financial Services, LLC. This is the likely legacy-IPI (Investment Professionals, Inc., San Antonio) relationship pattern and is the clearest example of it in the dataset. Clearing and custody: not confirmed. Ameriprise self-clears through American Enterprise Investment Services, but that was not confirmed for this program.
+Headquartered in Laredo, TX. Founded 1986. President/CEO Gilbert Narvaez, Jr.; Chairman Adolfo E. Gutierrez. Program: (1) FALCON TRUST DEPARTMENT — in-house bank fiduciary. The bank publishes a dedicated Trust page offering estate planning, administration of trusts, investment management and IRAs, including testamentary trusts under will and charitable foundation setup. (2) FALCONVEST FINANCIAL SERVICES — the brokerage arm, established OCTOBER 2002 under a third-party brokerage affiliate agreement among Falcon International Bank, AC Financial and LPL Financial. Broker-dealer: LPL Financial LLC for the brokerage arm, reached THROUGH AC Financial (San Antonio), which operates the FalconVest brand. This is a classic bank-brokerage TPM arrangement: the advisors are AC Financial / LPL people, NOT bank employees. The trust department has NO broker-dealer and needs none — it is bank fiduciary business. Clearing and custody: not confirmed.
 
-**1 of this bank's 1 named people sit in South Texas & the Mexico Border.**
+**1 of this bank's 3 named people sit in The Mexico Border.**
 
-**Mark Freeland** is listed as Financial Advisor in Corpus Christi, TX. No CRD was obtained, and none is guessed. Advisory through Ameriprise Financial Services, LLC. Office: 5406 Everhart Road, Corpus Christi, TX (First Community Bank branch). Licences and designations: FINRA Series 7, 63, 65; Texas life & health insurance; ABA commercial lending certification; B.A. Legal Studies, UT San Antonio.
+**Trevor Guzman** is listed as Senior Vice President — Director of Trust, Falcon International Bank in CONTESTED — FOR A CALL. The bank is headquartered in Laredo, but their profile location reads NEW BRAUNFELS, TX, which is 150+ miles off the border. Either they run the trust department from a non-Laredo post or the profile location is personal rather than office. Both recorded; unresolved. No CRD was obtained, and none is guessed. Advisory through none — bank fiduciary powers. *(spans The Mexico Border + San Antonio Metro & Hill Country)*
 
-&nbsp;&nbsp;**Status: ACTIVE.** They have a live individual advisor profile on ameripriseadvisors.com at two distinct live URLs — Ameriprise's own current roster, and an advisor page is pulled when a rep leaves. NOTE: a BrokerCheck title-heuristic confirmation was NOT obtained (session budget), so this is ACTIVE on firm-roster evidence rather than registration evidence.
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered fiduciary role).** Directors of trust are typically not securities-registered, so no CRD is expected and its absence is not a staleness flag. This is the named head of a trust department that was NOT IN THE DATASET AT ALL before pass 3.
 
-&nbsp;&nbsp;*Sources:* https://www.ameripriseadvisors.com/mark.freeland/profile/ · https://www.ameripriseadvisors.com/mark.freeland/ · https://www.fcbot.com/investments/wealth-management.html
-
----
-
-## International Bank of Commerce (IBC Bank) / International Bancshares Corp.
-
-Headquartered in Laredo, TX (bank founded 1966; 1200 San Bernardo Ave). Parent International Bancshares Corporation (NASDAQ: IBOC), ~$16.6B assets. Program: IBC Investment Services — MARKETING BRAND. IBC Bank and IBC Investment Services are explicitly NOT registered as a broker/dealer or investment advisor. The bank separately lists trust and employee-benefits divisions. Broker-dealer: LPL Financial — explicit disclosure: 'Securities and advisory services are offered through LPL Financial ... Registered representatives of LPL offer products and services using IBC Investment Services and may also be employees of IBC Bank.' Textbook LPL Institution Services dual-employee model. Clearing and custody: not confirmed.
-
-**1 of this bank's 1 named people sit in South Texas & the Mexico Border.**
-
-**Luis O. Gonzalez** is listed as LPL Financial Consultant, IBC Investment Services — covering the Laredo and Zapata area in Laredo, TX. No CRD was obtained, and none is guessed. 13-year anniversary with IBC Investment Services; recognised as one of the top-producing financial consultants at IBC Investment Services in 12 of the last 13 years.
-
-&nbsp;&nbsp;**Status: UNVERIFIED.** Named on IBC's own 'Financial Consultants' bio page, a current first-party bank source. No BrokerCheck title check was run on them, so this is roster evidence rather than registration evidence. THAT PAGE IS A MULTI-PERSON ROSTER and will carry more consultants than the single name the search rendered — it is the right page to open for the rest of the IBC roster.
-
-&nbsp;&nbsp;*Sources:* https://www.ibc.com/en-us/ibcis/Pages/IBCISExecutiveBio.aspx · https://www.ibc.com/en-us/ibcis/
+&nbsp;&nbsp;*Sources:* https://www.linkedin.com/in/trevor-guzman/ · https://www.falconbank.com/trust
 
 ---
 
 ## Lone Star National Bank
 
-Headquartered in McAllen, TX. 33 branches. Program: LSNB Investment Services — MARKETING BRAND. Lone Star National Bank and LSNB Investment Services are explicitly NOT registered broker/dealers. Broker-dealer: LPL Financial — 'securities and financial planning are offered through LPL Financial, a Registered Investment Advisor.'. Clearing and custody: not confirmed.
+Headquartered in McAllen, TX. 33 branches. Program: LSNB Investment Services — MARKETING BRAND. Lone Star National Bank and LSNB Investment Services are explicitly NOT registered broker/dealers. Broker-dealer: LPL Financial LLC — RE-CONFIRMED IN PASS 3, and the NUANCE MATTERS. The bank's Investment Services page carries a REFERRAL disclosure, not an employee-rep disclosure: 'Lone Star National Bank provides referrals to financial professionals of LPL Financial LLC pursuant to an agreement that allows LPL to pay the Financial Institution for these referrals. This creates an incentive for the Financial Institution to make these referrals, resulting in a conflict of interest. The Financial Institution is not a current client of LPL for advisory services.' A REFERRAL arrangement is a materially weaker tie than the branch-employee-rep model IBC runs on the same platform — under it there may be no LPL rep physically sitting in an LSNB branch at all. Establish that on the call before working this as a bank program. Clearing and custody: not confirmed.
 
-**1 of this bank's 1 named people sit in South Texas & the Mexico Border.**
+**1 of this bank's 1 named people sit in The Mexico Border.**
 
-**Rafael Munguia** is listed as Wealth Management Advisor in McAllen / Pharr area, TX. No CRD was obtained, and none is guessed. Email: not found — a masked lonestarnationalbank.com address appears on a data-broker page and is not usable. Licences and designations: CEPA; Series 63 and Series 65 REPORTED BY AN AGGREGATOR and UNCORROBORATED — do not repeat as fact. Prior Northwestern Mutual Wealth Management Company; business development at Mission Economic Development. Also owner/managing partner of Caribella Homes / Caribella Construction LLC — substantial outside business activity worth understanding before an approach.
+**Rafael Munguia** is listed as Wealth Management Advisor in McAllen, TX. CRD not found — AND DO NOT ATTACH ONE. No BrokerCheck title carrying their full name plus a firm was located. Email: not recorded — an aggregator shows only the @lonestarnationalbank.com pattern, never a full address. Do not construct one. Licences and designations: Series 63 and Series 65 per an adviser aggregator; designation CEPA(R) (Certified Exit Planning Advisor) — a business-owner-exit specialty, notable for a Rio Grande Valley commercial book. ~3 years in the industry per the aggregator; prior at Northwestern Mutual Wealth Management Company; also owner of Caribella Homes / Caribella Construction LLC since 2009.
 
-&nbsp;&nbsp;**Status: UNVERIFIED.** NO BrokerCheck record surfaced under this name, so registration cannot be confirmed. Sourcing is LinkedIn plus data-broker pages — not a bank page and not a regulator page. NAME COLLISION NOTED: a different Rafael Munguia exists on LinkedIn in Manteca, California. The collision is broken by employer and geography (the Texas one carries the CEPA designation and the Lone Star title), but it is flagged.
+&nbsp;&nbsp;**Status: UNRESOLVED — CONTRADICTION ON CURRENT EMPLOYER, FOR A CALL.** SOURCES DISAGREE ON WHETHER THEY ARE STILL THERE. Their LinkedIn headline reads present-tense 'Wealth Management Advisor at Lone Star National Bank'. A separate aggregator lists Lone Star National Bank in their PRIOR experience alongside Northwestern Mutual. Both recorded; not resolved. A third aggregator describes them as 'a financial advisor with LPL Financial based in McAllen, TX', which is consistent with the bank's LPL referral arrangement.
 
-&nbsp;&nbsp;*Sources:* https://www.linkedin.com/in/rafael-munguia-cepa%C2%AE%EF%B8%8F-4631b950/ · https://www.zoominfo.com/p/Rafael-Munguia/10651525877
+&nbsp;&nbsp;*Sources:* https://www.linkedin.com/in/rafael-munguia-cepa%C2%AE%EF%B8%8F-4631b950/ · https://www.zoominfo.com/p/Rafael-Munguia/10651525877 · https://theorg.com/org/lone-star-national-bank/offices/hq
 
 ---
 
@@ -731,7 +1167,7 @@ Headquartered in McAllen, TX. 33 branches. Program: LSNB Investment Services —
 
 Headquartered in McAllen, TX (founded 1985). 16 locations across the Rio Grande Valley. Program: Rio Bank Wealth Management & Trust Services. Broker-dealer: not found. The presentation is a bank trust department / portfolio management with no third-party BD disclosure surfaced. It is possible there is no retail brokerage arm at all — but that is unconfirmed either way. Clearing and custody: not confirmed.
 
-**1 of this bank's 2 named people sit in South Texas & the Mexico Border.**
+**1 of this bank's 2 named people sit in The Mexico Border.**
 
 **Timothy A. Sers** is listed as Senior Executive Vice President, Chief Trust & Wealth Management Officer in McAllen, TX. No CRD was obtained, and none is guessed. Office: 701 E. Expressway 83, McAllen, TX.
 
@@ -741,17 +1177,145 @@ Headquartered in McAllen, TX (founded 1985). 16 locations across the Rio Grande 
 
 ---
 
-# 4. Rest of Texas
+# 4. Coastal Bend & Golden Crescent (between them)
 
-*Everything else in Texas: Dallas-Fort Worth and the whole Metroplex, AUSTIN and Central Texas, El Paso, Lubbock, Amarillo and the Panhandle, Midland-Odessa and the Permian Basin, Abilene, San Angelo, Waco, Wichita Falls, and East Texas (Tyler, Longview, Henderson, Jacksonville).*
+*The region between Houston, San Antonio and the border — the Coastal Bend and the Golden Crescent. Corpus Christi, Victoria, Kingsville, Alice, Beeville, Goliad, Rockport, Port Aransas, Aransas Pass, Refugio, Sinton, Robstown, Port Lavaca, Bay City, Cuero, Gonzales, Yoakum, Karnes City, Floresville, Pleasanton, Three Rivers and George West.*
 
-**103 named people across 27 institutions in this region.**
+**15 named people across 4 institutions in this region.**
+
+## American Bank, N.A. — ACQUIRED BY PROSPERITY
+
+Headquartered in was Corpus Christi, TX (founded 1970). Program: American Bank Wealth Management — Private Banking, Investment Management, Trust & Fiduciary, Comprehensive Trust and Estate Services, Specialty Asset Management, Family Office Administration, Business Transition Advisory. Broker-dealer: not found — the presentation is bank trust / investment management and the pages surfaced describe non-bank investments without naming a BD. Clearing and custody: not confirmed.
+
+**9 of this bank's 9 named people sit in Coastal Bend & Golden Crescent (between them).**
+
+**Stephen C. Raffaele — ALSO PUBLISHED AS 'Steven C. Raffaele'** is listed as CEO, American Bank -> PROSPERITY BANK SOUTH TEXAS AND SAN ANTONIO AREA CHAIRMAN; Prosperity Bancshares director in Corpus Christi, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: ACTIVE (bank executive, non-wealth).** ACTIVE, and NOT a wealth contact — a bank executive, recorded because they are the door into what happens to this trust department. Confirmed by the January 2026 merger-completion release. *** NAME CONTRADICTION FLAGGED, NOT RESOLVED: *** American Bank's own page titles them 'STEVEN C. Raffaele' while Bankers Digest, the Texas Bankers Association and the merger releases use 'STEPHEN Raffaele'. Both recorded. Confirm the spelling before writing to them.
+
+&nbsp;&nbsp;*Sources:* https://americanbank.com/american-bank-names-stephen-c-raffaele-ceo · https://www.prnewswire.com/news-releases/prosperity-bancshares-inc-completes-merger-with-american-bank-holding-corporation-302651785.html · https://member.texasbankers.com/Magazine/magazine/Features/2021-06/21-06-Spotlight-Stephen-Raffaele.aspx
+
+**Ben Wallace** is listed as Chairman, American Bank -> Prosperity Bank South Texas Senior Chairman in Corpus Christi, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: ACTIVE (bank executive, non-wealth).** ACTIVE, non-wealth. Named in the merger-completion release. Recorded as org context and a door-opener.
+
+&nbsp;&nbsp;*Sources:* https://www.prnewswire.com/news-releases/prosperity-bancshares-inc-completes-merger-with-american-bank-holding-corporation-302651785.html
+
+**Patt Wallace** is listed as Founding-family member -> Prosperity Bancshares board of directors in Corpus Christi, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: ACTIVE (bank director, non-wealth).** ACTIVE, non-wealth. Named in the merger-completion release.
+
+&nbsp;&nbsp;*Sources:* https://www.prnewswire.com/news-releases/prosperity-bancshares-inc-completes-merger-with-american-bank-holding-corporation-302651785.html
+
+**Lauren Duke** is listed as Wealth Management team member, American Bank Wealth Management in Corpus Christi, TX. No CRD was obtained, and none is guessed. Licences and designations: not found — an accounting and finance background is stated but no letters are given. Joined the Wealth Management Team in 2015; 10+ years in corporate accounting and finance, 8 years in wealth management.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered role) — REVISED IN PASS 3 FROM 'LIKELY STALE'.** PASS 3 REVISES THE STALE READ. Bank trust and wealth staff are frequently not securities-registered, so no BrokerCheck signal is expected and its absence is not evidence of departure; they are named on a page that is still live. The merger integration risk is real but it is a FUTURE risk, not a past departure. CIVIC PROFILE, WHICH IS HOW THEY WERE FOUND AND IS ALSO HOW YOU REACH THEM: PRESIDENT of the Corpus Christi Estate Planning Council; Vice-President, La Retama Club; Trustee, Corpus Christi Public Library Foundation; board member, CHRISTUS Spohn Development Foundation. *** POSSIBLE MERGED IDENTITY — FLAGGED FOR A CALL: *** two search renderings described them differently (one attributed the Estate Planning Council DIRECTOR seat to them, another the PRESIDENT seat, and a third attributed 'joined 2015, 10+ yrs accounting, 8 yrs wealth' to an unnamed SECOND 2015 hire). There may be TWO 2015 hires here and they may have been merged into one row.
+
+&nbsp;&nbsp;*Sources:* https://www.americanbank.com/wealth/resources/meet-our-wealth-advisors · https://ccestateplanning.org/
+
+**Donette Stubblefield** is listed as Chief Banking Executive — Commercial and Wealth in Corpus Christi, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered executive role).** The EXECUTIVE ABOVE THE WEALTH LINE, not a producer. Sourced to trade-press coverage of the bank's San Antonio private banking team build-out. A chief banking executive carries no FINRA record and its absence is expected.
+
+&nbsp;&nbsp;*Sources:* https://bankersdigest.com/american-bank-adds-private-banking-team-to-san-antonio-market/
+
+**John Wessman** is listed as EVP, Consumer Banking and Marketing in Corpus Christi, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered executive role).** NON-WEALTH ROLE. Recorded ONLY to close off a false lead — they were surfaced during the wealth-head hunt and are EXPLICITLY NOT the wealth head.
+
+&nbsp;&nbsp;*Sources:* https://bankersdigest.com/
+
+**Richard F. Scanio** is listed as FORMER CEO (2017-2018); joined 1989, COO from 2007, president from 2009; latterly a director of American Bank Holding Corporation in Corpus Christi, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: LIKELY STALE.** LIKELY STALE AS AN OPERATING CONTACT. They were succeeded as CEO by Raffaele effective end-2018, and the holding company they directed has now been merged away. THEY ARE EXPLICITLY NOT THE WEALTH HEAD — they were checked and ruled out during the name hunt, which is the only reason they are in this file.
+
+&nbsp;&nbsp;*Sources:* https://www.americanbanker.com/news/american-bank-in-texas-names-wallace-chairman-scanio-ceo · https://membership.ibat.org/web/BankersDigest/Archive/2018/BD_2018_0709.pdf
+
+**[NAME NOT RENDERED] — THE PRIORITY TARGET, HEAD OF THE WEALTH TEAM** is listed as Head of the Wealth Team; Portfolio Manager, South Texas Wealth Team; sits on the bank's Investment Policy Committee; develops and implements the investment models in Corpus Christi, TX. No CRD was obtained, and none is guessed. Licences and designations: CPA, CTFA. 42+ years in fiduciary services and wealth management; joined American Bank in 2010.
+
+&nbsp;&nbsp;**Status: UNRESOLVED — IDENTITY, NOT EMPLOYMENT.** *** STATUS: UNRESOLVED ON IDENTITY, NOT ON EMPLOYMENT. *** The role is confirmed CURRENT by a live bank page. The person cannot be named from search. This is a RENDERING problem, not a staleness problem: the bio text and the name sit in separate DOM nodes on that page — a card heading holds the name, an expanded panel holds the bio — and only the bio node is being indexed as text. Eight query framings across three passes all returned the same page as the #1 result and reproduced the bio nearly verbatim while stripping the name. FINGERPRINT, so you recognise them the moment you see the page: joined American Bank in 2010 to head the Wealth Team; 42+ years of fiduciary services and wealth management experience; CERTIFIED PUBLIC ACCOUNTANT and CERTIFIED TRUST AND FINANCIAL ADVISOR (CTFA); born and raised in Corpus Christi; Richard King High School; Texas A&M University-Corpus Christi; boards of the South Texas Council of the Boy Scouts of America, the Texas State Aquarium and the Corpus Christi Symphony Orchestra. ANGLES ALREADY BURNED, DO NOT REPEAT: direct credential query; the high-school and TAMU-CC alumni framing; each of the three civic boards individually; Corpus Christi Estate Planning Council leadership; the Boy Scouts South Texas Council executive board; Bankers Digest; LinkedIn domain-restricted; people-aggregator framing; 'who is the head of' framing; the Prosperity merger leadership framing; and a colleague-adjacency framing anchored on Lauren Duke. *** RECOMMENDED ACTION — THIS IS A 30-SECOND MANUAL TASK, NOT ANOTHER SEARCH: *** open americanbank.com/wealth/resources/meet-our-wealth-advisors in a browser. The name is one click away. Failing that, the Corpus Christi Estate Planning Council member directory (ccestateplanning.org/members/directory) is gated but is exactly where a CPA/CTFA bank trust head in this city would be listed. *** TIME PRESSURE: the americanbank.com wealth pages come down at the SEPTEMBER 2026 Prosperity integration — that is now. Whoever grabs this should grab it this week. ***
+
+&nbsp;&nbsp;*Sources:* https://www.americanbank.com/wealth/resources/meet-our-wealth-advisors
+
+**[SECOND NAME NOT RENDERED] — SENIOR PORTFOLIO MANAGER** is listed as Senior Portfolio Manager; CHAIRS the bank's Investment Policy Committee; authors market commentary and economic outlooks; runs external manager research and due diligence in Corpus Christi, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNRESOLVED — NAME NOT RECOVERED.** A SECOND unnamed person on the same page, DISTINCT from the wealth head. Note the clean distinction that proves they are two people rather than one: the wealth head's bio says they SERVE ON the Investment Policy Committee, while this person CHAIRS it. Same DOM-stripping problem. Recorded so the roster depth is visible — that page carries at least four bios and only two names were recovered.
+
+&nbsp;&nbsp;*Sources:* https://www.americanbank.com/wealth/resources/meet-our-wealth-advisors
+
+---
+
+## Kleberg Bank, N.A. — Kleberg Wealth Management
+
+Headquartered in Kingsville, TX — 100 E. Kleberg Ave. Founded 1905 by Robert Justus Kleberg, general manager of the King Ranch. Program: KLEBERG WEALTH MANAGEMENT (its own site, klebergwealth.com) plus a distinct in-house PRIVATE BANKING team on the bank side. Broker-dealer: CETERA INVESTMENT SERVICES LLC (CRD 15340) — confirmed both by the program's own 'Kleberg Bank & Cetera History' page and by the BrokerCheck branch record. This is the classic bank/BD arrangement: A BANK-BRANDED MARKETING NAME SITTING ON CETERA'S BD. 'Kleberg Wealth Management' is a BRAND, not a registered entity. Clearing and custody: not confirmed. Cetera Investment Services commonly uses Pershing, but no disclosure was found for this program and the protocol forbids guessing a clearing firm. Note also that Cetera's model lets the advisor pick among BNY Pershing, NFS/Fidelity and Cetera's own arrangements — so this genuinely cannot be inferred.
+
+**4 of this bank's 4 named people sit in Coastal Bend & Golden Crescent (between them).**
+
+**Joseph Rene Vasquez** is listed as Financial Advisor, Vice President, Kleberg Wealth Management in Kingsville, TX. Legal name on record: JOSEPH RENE VASQUEZ. CRD 5004645. Advisory through not confirmed (Cetera Investment Advisers is the likely entity, but no disclosure was found). Office: 100 E Kleberg Ave, Kingsville, TX 78363 — a REGISTERED CETERA BRANCH ADDRESS taken from the BrokerCheck record. REJOINED Kleberg Bank in November 2022; focus on generational wealth planning, business-owner solutions, retirement and education funding. State registrations: TX approved 04 November 2022, CO 10 April 2023, OH 08 May 2024, NC 04 December 2024, FL 04 September 2025.
+
+&nbsp;&nbsp;**Status: ACTIVE.** *** THE STRONGEST VERIFIED HIT IN THE ENTIRE COASTAL BEND REGION. *** FOUR INDEPENDENT POINTS OF AGREEMENT: a BrokerCheck record exists; the firm named is Cetera Investment Services, which matches the bank's disclosed BD; the registered branch address matches the bank's HQ address exactly; and the Texas registration date (November 2022) matches the bank's stated rejoin date. The September 2025 Florida approval shows the record is being actively maintained. The CRD was read off the BrokerCheck report filename files.brokercheck.finra.org/individual/individual_5004645.pdf — not invented. COLLISION CHECK RUN AND PASSED: a 'Jose Juan Vasquez Jr' (CRD 7198955) and a 'Hugo Vasquez' (CRD 6931824) exist separately on BrokerCheck. Neither is this person; distinguished on middle name plus branch address.
+
+&nbsp;&nbsp;*Sources:* https://files.brokercheck.finra.org/individual/individual_5004645.pdf · https://www.klebergwealth.com/team/joseph-vasquez
+
+**Wilma Saenz-Grover** is listed as Vice President and Senior Private Banking Officer in Kingsville, TX — a native, and they travel the surrounding area to clients. No CRD was obtained, and none is guessed. 40+ YEARS AT KLEBERG BANK.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered role).** Private bankers are routinely unregistered; the absence of a CRD is expected here and is NOT a staleness flag. Named on a current bank page. Forty years in one Kingsville bank means they know every ranching family in Kleberg County.
+
+&nbsp;&nbsp;*Sources:* https://www.klebergbank.com/private-banking/private-banking.html
+
+**Heather Barker** is listed as Private Banking team, Kleberg Bank in Coastal Bend — lifelong resident. No CRD was obtained, and none is guessed. Seven years at Kleberg Bank; JOINED THE PRIVATE BANKING TEAM IN APRIL 2025.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered role).** Recent, current-page sourcing — an April 2025 move onto the private banking team is about as fresh as this dataset gets. Not stale.
+
+&nbsp;&nbsp;*Sources:* https://www.klebergbank.com/private-banking/private-banking.html
+
+**'Libby' — SURNAME NOT RENDERED. DO NOT GUESS IT.** is listed as Banking and finance executive, 25 years across private, business and retail banking AND BROKERAGE ACTIVITIES in Kingsville / Coastal Bend. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNRESOLVED — FIRST NAME ONLY.** First name only, no surname rendered — the SAME DOM-STRIPPING PROBLEM as the American Bank wealth head, on a different bank's page. WORTH CHASING: the explicit reference to BROKERAGE ACTIVITIES in a 25-year banking career makes this the one Kleberg private-banking name most likely to hold securities registrations. Same fix: open the page in a browser.
+
+&nbsp;&nbsp;*Sources:* https://www.klebergbank.com/private-banking/private-banking.html
+
+---
+
+## First Community Bank (1st Community Bank)
+
+Headquartered in Corpus Christi, TX (originally chartered Alice, TX, 1983). Program: Bank-branded investment services program as presented on fcbot.com/investments. The registered entity is Ameriprise, not the bank. Broker-dealer: Ameriprise Financial Services, LLC, delivered through AMERIPRISE FINANCIAL INSTITUTIONS GROUP — explicitly described as a channel of Ameriprise Financial Services, LLC. This is the likely legacy-IPI (Investment Professionals, Inc., San Antonio) relationship pattern and is the clearest example of it in the dataset. Clearing and custody: not confirmed. Ameriprise self-clears through American Enterprise Investment Services, but that was not confirmed for this program.
+
+**1 of this bank's 1 named people sit in Coastal Bend & Golden Crescent (between them).**
+
+**Mark Freeland** is listed as Financial Advisor, Ameriprise Financial Institutions Group at First Community Bank in Corpus Christi, TX. No CRD was obtained, and none is guessed. Advisory through Ameriprise Financial Services, LLC; clearing at Ameriprise self-clears through American Enterprise Investment Services; not separately confirmed for this program. Office: 5406 Everhart Road, Corpus Christi, TX (First Community Bank branch). Phone: not found — a branch number appeared in a directory result but it is the BRANCH line, not theirs, so it was not recorded. Licences and designations: FINRA Series 7, 63, 65; Texas life & health insurance; ABA commercial lending certification; B.A. Legal Studies, UT San Antonio. Former board member, Corpus Christi Council of the Navy League.
+
+&nbsp;&nbsp;**Status: ACTIVE.** They have a live individual advisor profile on ameripriseadvisors.com at two distinct live URLs — Ameriprise's own current roster, and an advisor page is pulled when a rep leaves. NOTE: a BrokerCheck title-heuristic confirmation was NOT obtained (session budget), so this is ACTIVE on firm-roster evidence rather than registration evidence. PASS 3 RE-CONFIRMED: a live, individually-branded Ameriprise advisor microsite plus concurrent naming on the bank's own program page — two independent current sources.
+
+&nbsp;&nbsp;*Sources:* https://www.ameripriseadvisors.com/mark.freeland/profile/ · https://www.ameripriseadvisors.com/mark.freeland/ · https://www.fcbot.com/investments/wealth-management.html
+
+---
+
+## TrustTexas Bank, SSB
+
+Headquartered in Cuero, TX — 121 E. Courthouse St. Broker-dealer: not found. Clearing and custody: not confirmed.
+
+**1 of this bank's 1 named people sit in Coastal Bend & Golden Crescent (between them).**
+
+**Jay Howard** is listed as President / Chief Executive Officer, TrustTexas Bank, SSB in Cuero, TX. No CRD was obtained, and none is guessed. Licences and designations: M.Jur., MBA.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered executive role).** The only name recoverable at this bank. They are the CEO, not a wealth contact — but at a bank this size the CEO is the right first call to establish whether trust powers exist at all.
+
+&nbsp;&nbsp;*Sources:* https://www.linkedin.com/in/jay-howard-m-jur-mba-b7a0b630/
+
+---
+
+# 5. Outside the territory  (outside the territory)
+
+*Everything outside the territory, retained but DE-PRIORITISED: Austin and Central Texas, Dallas-Fort Worth and the Metroplex, El Paso, Lubbock, Amarillo and the Panhandle, Midland-Odessa and the Permian Basin, Abilene, San Angelo, Waco, Wichita Falls, and East Texas (Tyler, Longview, Henderson, Jacksonville). Kept in the file because many of these banks also operate inside the territory, and because the platform and consolidation intelligence still applies.*
+
+**104 named people across 28 institutions in this region.**
 
 ## First Financial Bankshares, Inc. — First Financial Wealth Management
 
 Headquartered in Abilene, TX (FFIN, NASDAQ). Trust company at 400 Pine St, Abilene, TX 79601. Program: First Financial Wealth Management. HEADLINE CURRENCY FINDING: the company formerly known as First Financial Trust & Asset Management Company, N.A. was RENAMED to First Financial Wealth Management effective JULY 9, 2026. FFIN was explicit that this is a clarification, NOT a restructuring — team, services, locations and leadership unchanged. Every source older than July 2026, including much of FFIN's own live site which still carries /about-trust/ URLs, uses the old name. Broker-dealer: None found. This is a separately chartered NATIONAL TRUST COMPANY (N.A.) — a fiduciary, not a brokerage. Offering is investment management, retirement planning, trust and estate administration, mineral management, real property management and fiduciary services, continuously since 1927. No affiliation with LPL/Cetera/Osaic/RJFS was found, but the absence of a BD was not positively confirmed. Clearing and custody: not confirmed.
 
-**14 of this bank's 15 named people sit in Rest of Texas.**
+**14 of this bank's 15 named people sit in Outside the territory.**
 
 **Lon Biebighauser** is listed as President, First Financial Wealth Management (elected Nov 2024, effective Jan 1, 2025) in Abilene, TX. No CRD was obtained, and none is guessed. Advisory through First Financial Wealth Management (fka First Financial Trust & Asset Management Company, N.A.). Licences and designations: CTFA. 17 years with the trust company, rose from Assistant Vice President to Regional President of the West Region including Abilene; Texas A&M University.
 
@@ -843,7 +1407,7 @@ Headquartered in Abilene, TX (FFIN, NASDAQ). Trust company at 400 Pine St, Abile
 
 Headquartered in Dallas, TX. Program: Texas Capital Private Bank (umbrella brand). Client-facing advisory arm is Texas Capital Bank Private Wealth Advisors (PWA). Broker-dealer: TCBI Securities, Inc., trade name Texas Capital Securities (CRD 313304) — captive in-house BD, SEC/MSRB registered, member FINRA/SIPC. Clearing and custody: Pershing LLC (BNY) — CONFIRMED from TCBI Securities' own BrokerCheck firm report. The BrokerCheck firm report discloses that TCBI Securities introduces customers to other brokers, that customer accounts and securities are maintained by a third party, and specifically that Pershing maintains certain books and records for TCBI Securities — the standard formulation for a fully-disclosed introducing arrangement.
 
-**12 of this bank's 17 named people sit in Rest of Texas.**
+**12 of this bank's 19 named people sit in Outside the territory.**
 
 **Jay Clingman** is listed as Head of Private Banking & Family Office (Managing Director) in Dallas, TX. No CRD was obtained, and none is guessed. Advisory through Texas Capital Bank Wealth Management Services, Inc., trade name Texas Capital Bank Private Wealth Advisors (SEC IAPD firm 298422); clearing at Pershing LLC (BNY) — CONFIRMED from TCBI Securities' own BrokerCheck firm report.
 
@@ -923,7 +1487,7 @@ Headquartered in Dallas, TX. Program: Texas Capital Private Bank (umbrella brand
 
 Headquartered in Dallas, TX (Hilltop Holdings, NYSE: HTH). Program: HilltopSecurities Wealth Management / Private Client Group (employee advisors); Momentum Independent Network, Inc. (independent channel — RENAMED from 'HilltopSecurities Independent Network' effective Feb 1, 2021, ~200 wealth professionals in 29 states; anyone still saying HSIN is five years out of date); PlainsCapital Bank Private Bank / Wealth Management & Trust; Hilltop Securities Asset Management, LLC (RIA). Broker-dealer: Hilltop Securities Inc. (FINRA CRD 6220) — a real registered BD, SEC/FINRA registered, NYSE member. Momentum Independent Network, Inc. is a separate registered BD AND RIA, wholly owned by Hilltop Holdings. Clearing and custody: SELF-CLEARING — confirmed. HilltopSecurities also provides correspondent clearing and custody to other broker-dealers and RIAs nationally. A Hilltop/Momentum advisor's clearing firm IS Hilltop; do not go looking for a Pershing or NFS relationship.
 
-**9 of this bank's 9 named people sit in Rest of Texas.**
+**9 of this bank's 9 named people sit in Outside the territory.**
 
 **John R. Muschalek** is listed as Executive Managing Director, Head of Wealth Management, HilltopSecurities; also President, Momentum Independent Network in Dallas, TX. No CRD was obtained, and none is guessed. Clearing at Hilltop (self-clearing). 27-year Hilltop veteran; joined legacy First Southwest Company 1992; prior CFO, FinOp, head of correspondent clearing and securities lending; named head of Wealth Management Jan 2020; serves on FINRA Uniform Practice Code and Financial Responsibility Committees; past chair SIFMA Clearing Firms Committee.
 
@@ -985,7 +1549,7 @@ Headquartered in Dallas, TX (Hilltop Holdings, NYSE: HTH). Program: HilltopSecur
 
 Headquartered in Henderson, TX (chartered 1930). ~$4.3B assets, 39 branches, 19 counties. Trust AUM ~$1.2B. Program: VeraBank Wealth Management (trust) + brokerage marketed alongside 'CFG Financial Group' on verabank.com. Broker-dealer: Cetera Investment Services — 'Investment services are provided through Cetera Investment Services, conveniently located in VeraBank branches.' BRAND vs REGISTERED ENTITY FLAG: the bank's own brokerage page is titled 'Brokerage: CFG Financial Group Investments', so 'CFG Financial Group' is a SECOND brand layer sitting over Cetera Investment Services as the registered BD. Confirm on a call which name the reps actually do business as. Clearing and custody: not confirmed — DO NOT GUESS. Cetera programs variously use BNY Pershing, NFS/Fidelity, or Cetera's own self-clearing arm, and there is no evidence either way for VeraBank. This bank is the single clearest illustration of why broker-dealer and clearing firm must be separate columns.
 
-**6 of this bank's 6 named people sit in Rest of Texas.**
+**6 of this bank's 6 named people sit in Outside the territory.**
 
 **Shea Vestal** is listed as Vice President, Trust and Wealth Advisor in Henderson, TX (territory: Henderson, Mt. Enterprise, Kilgore, Tatum, Carthage). No CRD was obtained, and none is guessed. Office: 101 E Main St, Henderson, TX 75654. Phone: (903) 657-8521 ext. 5147 — PUBLISHED BY THE BANK. Email: svestal@verabank.com — PUBLISHED BY THE BANK. Joined VeraBank in 2010; promoted into the wealth management team, announced ~January 2025.
 
@@ -1029,7 +1593,7 @@ Headquartered in Henderson, TX (chartered 1930). ~$4.3B assets, 39 branches, 19 
 
 Headquartered in Tulsa, Oklahoma (BOK Financial Corporation, NASDAQ: BOKF). The Texas banking division operates under the BANK OF TEXAS brand. Program: Three coexisting brands: Bank of Texas Private Wealth (Texas-facing — private banking, trust, fiduciary, family office, investment management); BOK Financial Private Wealth (the RIA-side HNW brand); BOK Financial Advisors (retail/full-service investment brand). Broker-dealer: BOK Financial Securities, Inc. (CRD 17530) — member FINRA/SIPC and itself an SEC-registered investment adviser. An IN-HOUSE, affiliated BD, NOT a third-party BD. 'Bank of Texas' and 'BOK Financial Advisors' are marketing brands sitting on this entity. Clearing and custody: Pershing, LLC — CONFIRMED. BOKFS operates under a fully-disclosed clearing agreement with Pershing; Pershing holds customer funds and securities and all equity and option orders route to Pershing for execution.
 
-**5 of this bank's 5 named people sit in Rest of Texas.**
+**5 of this bank's 5 named people sit in Outside the territory.**
 
 **Nora Calderon Gil** is listed as Vice President, Private Wealth Advisor in Dallas, TX. Legal name on record: Nora Calderon Gil (public-facing 'Nora Calderon'). CRD 6469682. Advisory through BOK Financial Private Wealth, Inc. (CRD 106733, SEC file 801-51401). Also BOK Financial Asset Management, Inc. and Cavanal Hill Investment Management, Inc. — do not collapse these; clearing at Pershing, LLC — CONFIRMED. BOKFS operates under a fully-disclosed clearing agreement with Pershing; Pershing holds customer funds and securities and all equity and option orders route to Pershing for execution. Office: 5956 Sherry Lane, Suite 900, Dallas, TX 75225. Licences and designations: Series 65 and Series 66 passed; registered to give investment advice in Texas. Designations CFP / CRPC / AWMA appear in a RocketReach profile title — LOW confidence, unverified. VP Private Wealth Advisor, BOKF NA 05/2018-06/2025; VP Private Wealth Advisor, BOK Financial Securities 06/2025-present; registered with BOK Financial Private Wealth since 07/03/2025. Prior: Merrill Lynch Wealth Management, Monex Securities.
 
@@ -1067,7 +1631,7 @@ Headquartered in Tulsa, Oklahoma (BOK Financial Corporation, NASDAQ: BOKF). The 
 
 Headquartered in Waco, TX. Opened 14 May 1952; locally owned, same name and location since. Program: CB&T Wealth Management & Trust. Dedicated facility at 1711 Lake Success Drive, Waco, TX 76710, opened to coincide with the bank's 65th anniversary in 2017. Services: retirement planning, investment management, trust administration, estate settlement, personal trust and estate administration. Broker-dealer: NONE IDENTIFIED — this reads as an IN-HOUSE trust and investment management department, not a third-party brokerage program. No 'securities offered through' disclosure and no BD partner surfaced. The bank runs discretionary investment management itself and its own copy describes crafting portfolios for income, long-term growth or capital preservation with 'objective, unbiased recommendations'. Staff includes attorneys, CPAs and Chartered Financial Analysts. Lean in-house fiduciary. Clearing and custody: not confirmed.
 
-**5 of this bank's 5 named people sit in Rest of Texas.**
+**5 of this bank's 5 named people sit in Outside the territory.**
 
 **Jeffrey R. Cox** is listed as Executive Vice President & Trust Officer; also on the board in Waco, TX. No CRD was obtained, and none is guessed. Office: 1711 Lake Success Drive, Waco, TX 76710.
 
@@ -1105,7 +1669,7 @@ Headquartered in Waco, TX. Opened 14 May 1952; locally owned, same name and loca
 
 Headquartered in Dallas, TX (Texas charter). One of the largest independent banks in North Texas. Program: NDBT Trust | Wealth Management (styled 'Trust & Wealth Management'). Services: investment management, trusts, estate and trust administration, retirement services, employee benefit and retirement accounts, financial planning, portfolio analysis, objective-setting, allocation monitoring and periodic rebalancing, plus a client trust/wealth portal. Broker-dealer: NONE IDENTIFIED — an in-house bank trust department. No third-party BD and no 'securities offered through' disclosure surfaced. CORROBORATING SIGNAL: North Dallas Bank & Trust Co. FILES A 13F, which means it exercises investment discretion over $100M+ in 13(f) securities in its own name — consistent with an in-house discretionary manager rather than a brokerage program sitting on someone else's BD. Clearing and custody: not confirmed.
 
-**5 of this bank's 5 named people sit in Rest of Texas.**
+**5 of this bank's 5 named people sit in Outside the territory.**
 
 **Jerri Anderson** is listed as Executive Vice President and Director, NDBT Trust | Wealth Management group in Dallas, TX. No CRD was obtained, and none is guessed.
 
@@ -1143,7 +1707,7 @@ Headquartered in Dallas, TX (Texas charter). One of the largest independent bank
 
 Headquartered in Charlotte, NC. Program: Merrill Lynch Wealth Management (full-service FAs); Merrill Private Wealth Management (UHNW teams); Merrill Edge (self-directed); Bank of America Private Bank (the former U.S. Trust — bank, trust and fiduciary side). Broker-dealer: Merrill Lynch, Pierce, Fenner & Smith Incorporated (MLPF&S), CRD 7691 — dually registered BD and RIA. BofA Securities, Inc. is the SEPARATE institutional BD. Clearing and custody: SELF-CLEARING / CARRYING. The FINRA firm record answers yes to holding customer funds or securities and providing clearing services for other broker-dealers — it is a carrying firm, not an introducing firm. Merrill Lynch Professional Clearing Corp. is the affiliated institutional/prime-brokerage clearing entity.
 
-**4 of this bank's 6 named people sit in Rest of Texas.**
+**4 of this bank's 6 named people sit in Outside the territory.**
 
 **Jennifer Chandler** is listed as Managing Director; President, Bank of America Dallas (market president); Head of Philanthropic Solutions, Bank of America Private Bank. Legacy title in older sourcing: U.S. Trust / BofA Private Wealth Management market executive for Greater North Texas, Tulsa and Wichita in Dallas, TX. Legal name on record: Jennifer Leigh Chandler. No CRD was obtained, and none is guessed. Advisory through Bank of America, N.A. / MLPF&S; clearing at SELF-CLEARING / CARRYING. The FINRA firm record answers yes to holding customer funds or securities and providing clearing services for other broker-dealers — it is a carrying firm, not an introducing firm. Merrill Lynch Professional Clearing Corp. is the affiliated institutional/prime-brokerage clearing entity. Joined Bank of America 2001; became Dallas market president effective Jan 1, 2019, succeeding Richard Holt. BA government, UT Austin; MBA, University of Dallas. Leads ~200 philanthropic specialists nationally.
 
@@ -1175,7 +1739,7 @@ Headquartered in Charlotte, NC. Program: Merrill Lynch Wealth Management (full-s
 
 Headquartered in Tyler, TX (~$8.51B assets; program office 6019 S Broadway Ave, Tyler, TX 75703). Program: Southside Investment Services (brokerage) + Southside Bank Wealth Management & Trust (bank trust). 40+ years of wealth management; trust officers with 150+ years combined experience. Broker-dealer: Raymond James Financial Services, Inc. (CRD 6694) — CONFIRMED. 'Southside Investment Services' is the MARKETING BRAND; the program runs on the Raymond James Financial Institutions Division microsite. Clearing and custody: not confirmed. Raymond James self-clears as a matter of general firm structure, but that was not confirmed for this program.
 
-**4 of this bank's 4 named people sit in Rest of Texas.**
+**4 of this bank's 4 named people sit in Outside the territory.**
 
 **Joel Patrick Adams** is listed as Executive Vice President & Program Manager, Southside Investment Services in Tyler, TX. Legal name on record: Joel Patrick Adams. CRD 4197193. Advisory through Raymond James Financial Services Advisors, Inc. Office: 6019 S Broadway Ave, Tyler, TX 75703. Licences and designations: Series 63, Series 65; CEPA. ~25 years; began at Southside Bank in 1997; named a Top 100 Bank Financial Advisor by Bank Investment Consultant in 2018; UT Tyler (finance).
 
@@ -1207,7 +1771,7 @@ Headquartered in Tyler, TX (~$8.51B assets; program office 6019 S Broadway Ave, 
 
 Headquartered in San Angelo, TX. Trust department on the 2nd floor at 2201 Sherwood Way, San Angelo, TX. Department phone (325) 944-7528, fax (325) 949-0480. Program: Texas Bank Trust Department. Broker-dealer: none found — a bank trust department; no third-party BD surfaced. Clearing and custody: not confirmed.
 
-**4 of this bank's 4 named people sit in Rest of Texas.**
+**4 of this bank's 4 named people sit in Outside the territory.**
 
 **Joe Payne** is listed as Executive Vice President, Trust in San Angelo, TX. No CRD was obtained, and none is guessed. Office: 2201 Sherwood Way, 2nd floor, San Angelo, TX. Phone: (325) 944-7528 — DEPARTMENT line. Licences and designations: CTFA (ABA). HAS MANAGED THE TRUST DEPARTMENT SINCE 2001, when they moved back to San Angelo.
 
@@ -1239,7 +1803,7 @@ Headquartered in San Angelo, TX. Trust department on the 2nd floor at 2201 Sherw
 
 Headquartered in El Paso, TX. ~$2.7B assets. Program: WestStar Wealth Management / Fiduciary Services Division. Broker-dealer: not found — the bank markets the program as fee-only through its own Fiduciary Services Division, i.e. a bank trust department rather than a third-party BD brokerage. No BD disclosure line was captured. Do NOT read this as 'no BD'; it was not run to ground. Clearing and custody: not confirmed.
 
-**4 of this bank's 4 named people sit in Rest of Texas.**
+**4 of this bank's 4 named people sit in Outside the territory.**
 
 **Crystal Martin** is listed as Vice President / Trust Officer, Wealth Management Division in El Paso, TX. No CRD was obtained, and none is guessed. Phone: not found (bank main line 1-800-366-4578). ~10 years total, 7 at WestStar.
 
@@ -1271,7 +1835,7 @@ Headquartered in El Paso, TX. ~$2.7B assets. Program: WestStar Wealth Management
 
 Headquartered in 701 S. Taylor St., Amarillo, TX 79101. Bank CHARTER is now Centennial Bank, Conway, Arkansas. Program: Happy Trust Company (trust, fiduciary, portfolio management, special-asset management covering farms, ranches, oil/gas/wind/solar royalties and working interests); Happy Investment Services (retail brokerage/advisory, operating under four practice names — Panhandle Wealth, West Texas Wealth, Hill Country Wealth, Addison); GoldStar Trust Company (self-directed IRA / escrow custodian, Canyon TX, acquired 2004 as Colonial Trust Company). Broker-dealer: AMERIPRISE FINANCIAL SERVICES, LLC (CRD 6363) — RESOLVED IN PASS 2, previously recorded as CONTESTED. The contradiction between the Home BancShares 10-K (Ameriprise) and happybank.com (LPL Financial) is settled by a DATED PLATFORM-CHANGE ANNOUNCEMENT that the first pass had not found: an Ameriprise press release of 18 MAY 2023, 'Happy State Bank Joins the Ameriprise Financial Institutions Group through its Merger with Centennial Bank', which names the TEXAS programs specifically — Happy Investment Services and West Texas Wealth — at 20 advisors and $1.3B in client assets. CHRONOLOGY: (1) pre-2022 Happy State Bank is independent and its program runs on LPL FINANCIAL — proven by a GlobeNewswire release of 3 Sept 2020, 'LPL Financial Welcomes the Murphy Team to Happy Investment Services'; (2) April 2022 Home BancShares closes the acquisition and Happy becomes a division of Centennial Bank; (3) 18 May 2023 the wealth arm converts onto Ameriprise and the LPL relationship ends; (4) the FY2025 10-K describes only the Ameriprise contract. So the happybank.com LPL paragraph is an UN-UPDATED LEGACY PAGE, not a live second platform — accurate once, obsolete now. The 'Arkansas on Ameriprise, Texas on LPL' hypothesis was TESTED AND REJECTED: all four Ameriprise practice pages are Texas offices and no post-2023 LPL-registered Happy advisor exists in any source. NAME-COLLISION TRAP: a recent LPL release about 'Happier Wealth' is an UNRELATED firm and must not be read as a reversal. Prior BD: LPL Financial, through ~2022/23. Clearing and custody: not confirmed. Ameriprise clears through its affiliate American Enterprise Investment Services and LPL self-clears, so the answer depends on which BD is correct above. NO source stated the clearing arrangement for these accounts. Do not write in a clearing firm until the BD contradiction is settled.
 
-**3 of this bank's 5 named people sit in Rest of Texas.**
+**3 of this bank's 5 named people sit in Outside the territory.**
 
 **Dwaina L Six** is listed as Financial Advisor in Amarillo, TX. Legal name on record: Dwaina Lyn Six. CRD 6137304. Advisory through Ameriprise Financial Services, LLC. Office: 701 S Taylor St LB-120, Amarillo, TX 79101-2405. Phone: 806-342-2483 (practice main line, not a personal line). Email: HISPanhandleWealth@ampf.com (practice mailbox; personal address not found). Licences and designations: CFP.
 
@@ -1297,7 +1861,7 @@ Headquartered in 701 S. Taylor St., Amarillo, TX 79101. Bank CHARTER is now Cent
 
 Headquartered in Amarillo, TX (2201 Civic Circle, Amarillo, TX 79109; 1-806-677-7000). Founded 1899. Program: Herring Bank Wealth Management. Broker-dealer: not found. No BD disclosure was captured. The site's language ('our trust officers and support staff') reads like a bank trust department, but this is UNRESOLVED — do not assume. Clearing and custody: not confirmed.
 
-**3 of this bank's 3 named people sit in Rest of Texas.**
+**3 of this bank's 3 named people sit in Outside the territory.**
 
 **Jessica Clark** is listed as Vice President & Director of Wealth Management in Amarillo, TX. No CRD was obtained, and none is guessed. Office: presumed 2201 Civic Circle, Amarillo — NOT confirmed. Licences and designations: CTFA. Born Amarillo, raised in the Texas Panhandle; Panhandle HS 2005; A.A. Business Administration, Amarillo College; B.B.A. Finance, West Texas A&M; joined Herring Bank 2020; progressed Universal Banker to Trust Operations Manager to Trust Officer to their current role.
 
@@ -1323,7 +1887,7 @@ Headquartered in Amarillo, TX (2201 Civic Circle, Amarillo, TX 79109; 1-806-677-
 
 Headquartered in Houston, TX. Home region: 1. Houston Metro & Southeast Texas. Program: ProsperityPrivate — split into ProsperityPrivate Investments (brokerage/advisory) and ProsperityPrivate Advisors. Trust side is Prosperity Bank Wealth Management and Trust Services. Private Banking separately branded. Broker-dealer: Raymond James Financial Services, Inc. (CRD 6694) — THIRD-PARTY. 'ProsperityPrivate' is a marketing brand, not a registered entity. Prosperity's own disclosure states 'ProsperityPrivate Advisors and Prosperity Bank is not a registered broker/dealer and is independent of Raymond James Financial Services, Inc.' Relationship announced April 11, 2017. Clearing and custody: not confirmed. Raymond James self-clears through Raymond James & Associates, Inc. (CRD 705) as a matter of general firm structure and that is the expected answer, but NO Prosperity- or RJFS-specific document stating it was found. Per the no-guessing rule this is left unconfirmed.
 
-**3 of this bank's 10 named people sit in Rest of Texas.**
+**3 of this bank's 10 named people sit in Outside the territory.**
 
 **Channon Christopher Cain** is listed as Financial Advisor in Austin, TX. CRD 4711988. Advisory through Raymond James Financial Services Advisors, Inc. 20+ years serving professionals, business owners and families.
 
@@ -1349,9 +1913,9 @@ Headquartered in Houston, TX. Home region: 1. Houston Metro & Southeast Texas. P
 
 Headquartered in Birmingham, Alabama. Program: (1) REGIONS PRIVATE WEALTH MANAGEMENT — the HNW/UHNW bank channel, staffed by Wealth Advisors, Trust Advisors, Wealth Strategists, Portfolio Managers and Lending Advisors who are Regions Bank employees and are largely NOT securities-registered. (2) REGIONS INVESTMENT SOLUTIONS — the retail/branch brokerage channel. Broker-dealer: Retail channel (Regions Investment Solutions): CETERA INVESTMENT SERVICES LLC — VERIFIED, not assumed. Regions sold Morgan Keegan to Raymond James in April 2012 and re-entered securities via a Cetera arrangement; Cetera publicly announced a RENEWED relationship with Regions Bank and provides investment services for Regions in 16 states. PWM channel: fiduciary, trust and investment management delivered through the bank's own trust and investment management arms, NOT through Cetera. Clearing and custody: Retail channel: CETERA INVESTMENT SERVICES IS SELF-CLEARING — it became the first broker-dealer in the bank/institutional space to self-clear in 1991 and holds IRS custodial powers granted in 1993, custodying IRA assets for 140,000+ customers. Cetera ADDITIONALLY uses PERSHING LLC as third-party custodian for certain IRA types, and at enterprise level uses both NFS/Fidelity and Pershing. For the PWM channel specifically: not confirmed.
 
-**3 of this bank's 8 named people sit in Rest of Texas.**
+**3 of this bank's 8 named people sit in Outside the territory.**
 
-**Connie Rogers** is listed as Texas Regional Wealth Executive, Regions Private Wealth Management in Texas — SPECIFIC CITY NOT FOUND (role covers Dallas, Fort Worth, Austin, Houston, San Antonio, Tyler, Lufkin). No CRD was obtained, and none is guessed. Appointed 2024. *(spans Rest of Texas + Houston Metro & Southeast Texas + San Antonio Metro & Hill Country)*
+**Connie Rogers** is listed as Texas Regional Wealth Executive, Regions Private Wealth Management in Texas — SPECIFIC CITY NOT FOUND (role covers Dallas, Fort Worth, Austin, Houston, San Antonio, Tyler, Lufkin). No CRD was obtained, and none is guessed. Appointed 2024. *(spans Outside the territory + Houston Metro & Southeast Texas + San Antonio Metro & Hill Country)*
 
 &nbsp;&nbsp;**Status: ACTIVE.** Named in a 2024 Regions IR press release as Texas regional wealth executive, AND still named as the reporting manager in the February 2026 Kafi Slaughter release — a second, independent, seven-month-old confirmation. FOR A CALL: their base city is the one field that could not be pinned; Dallas is the likely default given the 'southern half of Texas' carve-out given to Slaughter, but that is an inference, not a source.
 
@@ -1375,7 +1939,7 @@ Headquartered in Birmingham, Alabama. Program: (1) REGIONS PRIVATE WEALTH MANAGE
 
 Headquartered in Charlotte, NC. Program: Truist Wealth (HNW) and Truist Premier (affluent tier, roughly $100K-$1M in deposits/AUM). Truist has said Premier advisor headcount should grow ~20% between 2025 and 2030, with Austin and Dallas named among the Sun Belt target markets. Broker-dealer: Truist Investment Services, Inc. (TIS), CRD 17499 — registered with the SEC and FINRA. Clearing and custody: National Financial Services LLC (NFS), a Fidelity company — CONFIRMED. TIS is a FULLY DISCLOSED INTRODUCING broker-dealer that clears through NFS, and custody of securities in customer accounts is maintained with NFS. Explicitly NOT Pershing. Note the contrast: Truist and PNC are INTRODUCING firms, while JPMorgan, Merrill and Wells are CARRYING firms. That is a real operational difference.
 
-**3 of this bank's 5 named people sit in Rest of Texas.**
+**3 of this bank's 5 named people sit in Outside the territory.**
 
 **Joe Levi** is listed as Regional Managing Director, North Texas — Truist Wealth (oversees Dallas, Fort Worth and the broader region) in Dallas, TX. No CRD was obtained, and none is guessed. Clearing at National Financial Services LLC (NFS), a Fidelity company — CONFIRMED. TIS is a FULLY DISCLOSED INTRODUCING broker-dealer that clears through NFS, and custody of securities in customer accounts is maintained with NFS. Explicitly NOT Pershing. 25+ years in wealth management; previously Managing Director and Senior Wealth Advisor for Truist Wealth in NASHVILLE — an internal transfer, not an outside hire.
 
@@ -1401,7 +1965,7 @@ Headquartered in Charlotte, NC. Program: Truist Wealth (HNW) and Truist Premier 
 
 Headquartered in Amarillo, TX. Program: TWO DISTINCT PROGRAMS — KEEP THEM SEPARATE. (1) ANB Trust & Investment Services, the bank's own trust department: personal trust and estate administration, investment management, Oil & Gas Property Management, Farm & Ranch Management, family charitable foundations. The bank markets explicitly that its trust officers are NOT commission-incentivised. (2) Amarillo National Bank Investment Services, a brokerage program. Broker-dealer: SPLIT BY PROGRAM, corrected in pass 2. The TRUST DEPARTMENT has no broker-dealer. The BROKERAGE program runs on RAYMOND JAMES FINANCIAL SERVICES, INC. (member FINRA/SIPC), with advisory through Raymond James Financial Services Advisors, Inc. — a Raymond James financial-institutions program. Clearing and custody: not confirmed.
 
-**2 of this bank's 2 named people sit in Rest of Texas.**
+**2 of this bank's 2 named people sit in Outside the territory.**
 
 **Johnny Crowley** is listed as Senior Vice President & Senior Trust Officer in Amarillo, TX. No CRD was obtained, and none is guessed. Licences and designations: CPA (licensed 1983), CFP (1989), CTFA. BBA Accounting, West Texas State University; became SVP & Senior Trust Officer January 2021.
 
@@ -1421,7 +1985,7 @@ Headquartered in Amarillo, TX. Program: TWO DISTINCT PROGRAMS — KEEP THEM SEPA
 
 Headquartered in Lubbock, TX. Program: City Bank Wealth Management — MARKETING BRAND. Broker-dealer: Raymond James Financial Services, Inc. (member FINRA/SIPC). Advisory through Raymond James Financial Services Advisors, Inc. CLEAN BRAND vs ENTITY DISCLOSURE: the bank states plainly that 'City Bank and City Bank Wealth Management are not registered broker/dealers and are independent of Raymond James Financial Services.'. Clearing and custody: not confirmed. Raymond James self-clears, but the bank disclosure did not state it — do not write it in as fact.
 
-**2 of this bank's 2 named people sit in Rest of Texas.**
+**2 of this bank's 2 named people sit in Outside the territory.**
 
 **Joseph Llanas** is listed as Financial Advisor in Lubbock, TX. CRD 5467096. Advisory through Raymond James Financial Services Advisors, Inc. Office: 5219 City Bank Parkway, Suite 120, Lubbock, TX 79407. Licences and designations: Series 66. 18 years in the industry; with City Bank Wealth Management / RJFS since 2013.
 
@@ -1441,7 +2005,7 @@ Headquartered in Lubbock, TX. Program: City Bank Wealth Management — MARKETING
 
 Headquartered in DALLAS, TEXAS. Comerica relocated its corporate headquarters from Detroit to Dallas in 2007, so despite the Michigan heritage this was a Texas-headquartered institution. Program: 'Comerica Financial Advisors, powered by Ameriprise Financial' (brand adopted at the Nov 2023 close). Comerica Asset Management (RIA) and Comerica Trust (state-chartered trust company) sit alongside. Broker-dealer: FIFTH THIRD'S OWN IN-HOUSE BROKER-DEALER — CORRECTED IN PASS 2. The Ameriprise arrangement is TERMINATED. The two Financial Planning headlines that looked contradictory are NOT a contradiction: they are three years apart and describe opposite ends of the same relationship. TIMELINE: (1) 2023 — Comerica selects Ameriprise; ~100 advisors and $18B affiliate ('Ameriprise secures $18B of client assets from Comerica Bank'). (2) 28 Oct 2025 — Fifth Third's application to acquire Comerica is filed with the Federal Reserve and trade press flags the Ameriprise relationship as at risk. (3) Feb 2026 — the acquisition closes. (4) POST-CLOSE — Comerica notified Ameriprise it would CEASE using it as investment services provider; 89 ADVISORS AND $18.5B LEFT AMERIPRISE by the end of Q3 and AMERIPRISE RECEIVED A $25 MILLION TERMINATION FEE ('Ameriprise to lose 89 advisors, $18.5B from Comerica deal'). SO: any Comerica row still showing broker-dealer = Ameriprise is WRONG. Comerica Securities, Inc. (CRD 17079) still exists as a legal entity but what business it retains is not confirmed. CAVEAT FOR A CALL: the legacy Ameriprise team page for 'Comerica Financial Advisors' (Dallas) was STILL LIVE at time of search. Treat it as a stale artifact of the terminated program, not as evidence that any Texas Comerica team remains on Ameriprise. Clearing and custody: not confirmed. Custody moved from Pershing LLC to American Enterprise Investment Services in Nov 2023, but with the Ameriprise relationship now terminated the current arrangement sits with Fifth Third and was NOT established.
 
-**2 of this bank's 4 named people sit in Rest of Texas.**
+**2 of this bank's 4 named people sit in Outside the territory.**
 
 **Janelle Walker** is listed as SVP and Wealth Regional Managing Director, North and Central Texas Region, Comerica Private Wealth Management in Texas — North and Central Texas region. No CRD was obtained, and none is guessed.
 
@@ -1461,7 +2025,7 @@ Headquartered in DALLAS, TEXAS. Comerica relocated its corporate headquarters fr
 
 Headquartered in Memphis, Tennessee. Program: First Horizon Wealth Management (umbrella); First Horizon Advisors (investment services brand); First Horizon Private Client / Private Banking. Broker-dealer: LPL FINANCIAL LLC — AND THIS IS A CHANGE THAT MATTERS. First Horizon Advisors, Inc. was ITSELF the registered BD and RIA (CRD/SEC firm number 17117, live on both BrokerCheck and IAPD). On 7 APRIL 2025 LPL announced an agreement to transition First Horizon Advisors' broker-dealer and investment advisory services onto LPL's INSTITUTION SERVICES platform — ~110 financial advisors and ~$16B in client assets across a 12-state footprint — and announced COMPLETION OF THE ONBOARDING ON 27 AUGUST 2025, with roughly $12B of brokerage and advisory assets moved. Current disclosure reads: 'First Horizon Advisors is a brand name used by certain employees of First Horizon Bank... offered through LPL Financial and/or its licensed affiliates... First Horizon Bank and First Horizon Advisors are not registered as broker-dealers or investment advisors.' SO: First Horizon Advisors is now a BRAND ON LPL, not the operating BD, and CRD 17117 is historical context rather than the current selling entity. Clearing and custody: LPL Financial self-clears. Advisors onboarded to LPL Institution Services clear through LPL. No separate third-party clearing arrangement was found or claimed.
 
-**2 of this bank's 3 named people sit in Rest of Texas.**
+**2 of this bank's 3 named people sit in Outside the territory.**
 
 **Haylee D. Edwards** is listed as Senior Vice President, Senior Relationship Manager — Private Banking in Dallas, TX. Legal name on record: Haylee Dallas Edwards — 'DALLAS' IS THEIR MIDDLE NAME, do not misread it as a city field. CRD 5973067. Advisory through LPL Financial; clearing at LPL self-clearing. Email: not found — a masked h***@firsthorizon.com pattern appears on a third-party aggregator and is not a source. In financial services since 2007; works with high-net-worth families as their personal CFO, including loans and deposits.
 
@@ -1481,7 +2045,7 @@ Headquartered in Memphis, Tennessee. Program: First Horizon Wealth Management (u
 
 Headquartered in New York, NY. Very large Texas operating footprint including the Plano/Dallas campuses. Program: J.P. Morgan Wealth Management (mass affluent / Chase branch and advisor channel); J.P. Morgan Private Bank (HNW/UHNW). South Region = 400+ professionals and $157B+ client assets. Texas-only advisor count: not found. Broker-dealer: J.P. Morgan Securities LLC (JPMS) — dually registered BD and RIA, member FINRA/SIPC. Firm CRD 79. Clearing and custody: SELF-CLEARING. JPMS acts as clearing broker and carries securities transactions for affiliates and unrelated correspondent broker-dealers. Certain custody services are provided by JPMorgan Chase Bank, N.A. Historical note: J.P. Morgan Clearing Corp. (CRD 28432) was the separately registered clearing affiliate and appears in older disclosure; whether it is still a live entity was not confirmed.
 
-**2 of this bank's 2 named people sit in Rest of Texas.**
+**2 of this bank's 2 named people sit in Outside the territory.**
 
 **Elaine Agather** is listed as Global Vice Chair, J.P. Morgan Private Bank; Chairman, Dallas Region, JPMorgan Chase & Co in Dallas, TX. No CRD was obtained, and none is guessed. Clearing at self-clearing (JPMS). Moved to Dallas 1984; rose to chairman/CEO of JPMorgan Chase's Dallas region. Long-tenured.
 
@@ -1501,7 +2065,7 @@ Headquartered in New York, NY. Very large Texas operating footprint including th
 
 Headquartered in Jacksonville, TX (office established 1900 as First National Bank). Program: AB Financial Services — this is the MARKETING BRAND. Broker-dealer: LPL Financial — confirmed by the standard disclosure: 'Securities and advisory services are offered through LPL Financial (LPL), a registered investment advisor and broker-dealer (member FINRA/SIPC). Registered representatives of LPL offer products and services using AB Financial Services, and may also be employees of Austin Bank.' A textbook LPL Financial Institution Services dual-employee arrangement. Clearing and custody: not confirmed. LPL self-clears as a matter of firm structure, but that was not independently confirmed for this program.
 
-**1 of this bank's 1 named people sit in Rest of Texas.**
+**1 of this bank's 1 named people sit in Outside the territory.**
 
 **Sherrie Lane Reynolds** is listed as Program Manager, AB Financial Services / Austin Bank (LPL Financial advisor program manager) in Tyler, TX. Legal name on record: Sherrie Lane Reynolds. CRD 2877462. Advisory through LPL Financial LLC (dually registered). Email: not found — a MASKED austinbank.com address appears on a data-broker page and is NOT usable or recorded. Licences and designations: Investment Adviser Representative. 25+ years; prior Divisional Manager at Financial Resources Group Investment Services.
 
@@ -1513,11 +2077,11 @@ Headquartered in Jacksonville, TX (office established 1900 as First National Ban
 
 ## Broadway Bank
 
-Headquartered in San Antonio, TX (wealth address 1177 N.E. Loop 410, San Antonio, TX 78209). Home region: 2. San Antonio Metro & Hill Country. Program: Broadway Bank Wealth Management (bank trust/fiduciary) PLUS Broadway Wealth Solutions, Inc. Service tiers: Insight Partner, Insight Advisor, Insight Digital. Specialty services include oil, gas and mineral management and real estate (farm & ranch, residential, commercial). Broker-dealer: NONE FOUND — this is a bank-trust plus affiliated-RIA model, not a broker-dealer model. RESOLVED IN PASS 2. Broadway Wealth Solutions, Inc. — an SEC-REGISTERED INVESTMENT ADVISER, firm ID 291753, SEC-registered since 2022, reported AUM ~$308M (third-party figure, approximate). A REAL REGISTERED ENTITY, not a marketing brand. Broadway does not appear in FINRA broker-dealer listings and no third-party BD arrangement (LPL/Cetera/Osaic/RJFS) surfaced anywhere. The bank's history page notes it was 'the city's first to offer on-site brokerage services' in 1983 and opened a Wealth Management Division in 1984 — historical, not evidence of a current BD. Marked Medium-High rather than High only because BD absence was established by non-appearance, and a blank is 'not found', not 'confirmed absent'. Clearing and custody: not confirmed.
+Headquartered in San Antonio, TX (wealth address 1177 N.E. Loop 410, San Antonio, TX 78209). Home region: 2. San Antonio Metro & Hill Country. Program: Broadway Bank Wealth Management (bank trust/fiduciary) PLUS Broadway Wealth Solutions, Inc. Service tiers: Insight Partner, Insight Advisor, Insight Digital. Specialty services include oil, gas and mineral management and real estate (farm & ranch, residential, commercial). Broker-dealer: NONE — PASS 3 ANSWERS THIS AS FAR AS THE CHANNEL ALLOWS. Broadway Wealth Solutions, Inc. (SEC 291753) describes itself as a REGISTERED INVESTMENT ADVISER only, with the standard RIA state-registration/exemption disclosure and NO 'securities offered through ... Member FINRA/SIPC' line anywhere on its own site or the bank's wealth pages. Targeted searching against FINRA's firms-we-regulate listings surfaced no Broadway entity. CONCLUSION: RIA-only, no affiliated broker-dealer. Confidence Medium-High; the residual doubt is only that FINRA's 'B' firm list could not be opened directly. Clearing and custody: not confirmed.
 
-**1 of this bank's 13 named people sit in Rest of Texas.**
+**1 of this bank's 13 named people sit in Outside the territory.**
 
-**Michael Bunting** is listed as formerly Broadway Bank — NOW AT BANK OF TEXAS in Austin, TX (was San Antonio). No CRD was obtained, and none is guessed. Licences and designations: CFA. *(spans Rest of Texas + San Antonio Metro & Hill Country)*
+**Michael Bunting** is listed as formerly Broadway Bank — NOW AT BANK OF TEXAS in Austin, TX (was San Antonio). No CRD was obtained, and none is guessed. Licences and designations: CFA. *(spans Outside the territory + San Antonio Metro & Hill Country)*
 
 &nbsp;&nbsp;**Status: LIKELY STALE AT BROADWAY — DEPARTED.** LinkedIn shows they have MOVED to Senior Private Wealth Advisor at BANK OF TEXAS, AUSTIN. Recorded here only so they are not mistakenly called at Broadway. They are a live lead at Bank of Texas instead.
 
@@ -1529,7 +2093,7 @@ Headquartered in San Antonio, TX (wealth address 1177 N.E. Loop 410, San Antonio
 
 Headquartered in San Antonio, TX. Home region: 2. San Antonio Metro & Hill Country. Program: Frost Wealth Advisors (bank division). Related entities: Frost Brokerage Services, Inc. (BD); Frost Investment Services, LLC (RIA); Frost Investment Advisors, LLC (asset manager). Private Banking is separately branded. Broker-dealer: Frost Brokerage Services, Inc. (CRD 17465) — captive in-house BD — member FINRA/SIPC, wholly owned by Frost Bank, formed in Texas 03/21/1986. An INTRODUCING broker-dealer. Not a marketing brand on a third-party BD. Clearing and custody: National Financial Services LLC (Fidelity) — CONFIRMED. Frost's own brokerage fee schedule and Reg BI disclosure state customer accounts are carried by NFS and that margin runs through NFS as clearing and custodial firm.
 
-**1 of this bank's 26 named people sit in Rest of Texas.**
+**1 of this bank's 31 named people sit in Outside the territory.**
 
 **Thomas Cagle, Jr.** is listed as Wealth Advisor in Dallas, TX (inferred from an initials-only aggregator listing — NOT confirmed). No CRD was obtained, and none is guessed. Advisory through Frost Investment Services, LLC; clearing at National Financial Services LLC (Fidelity) — CONFIRMED.
 
@@ -1539,11 +2103,25 @@ Headquartered in San Antonio, TX. Home region: 2. San Antonio Metro & Hill Count
 
 ---
 
+## Moody National Bank (d/b/a Moody Bank) — Wealth Management & Trust
+
+Headquartered in Galveston, TX — Main/Downtown Banking Center, 2302 Postoffice Street, Galveston, TX 77550. Nationally chartered, founded 1907. Privately owned, Moody family. Home region: 1. Houston Metro & Southeast Texas. Program: Moody Bank Wealth Management & Trust (WM&T). Department established 1927. Administers OVER $26 BILLION in assets and is described as THE LARGEST TRUST DEPARTMENT DOMICILED IN TEXAS — against a bank of only ~$1.7B in assets. Ranked #1 by the Houston Business Journal per the bank's own news post. Broker-dealer: NONE IDENTIFIED — this appears to be a PURE NATIONAL BANK TRUST DEPARTMENT. No 'securities offered through...' disclosure was found on any Moody page, no affiliated BD name surfaced, and no Moody wealth staffer produced a BrokerCheck title hit. Recorded as NO BROKER-DEALER FOUND, which is not the same as proven absent. Worth one confirming call. Clearing and custody: not confirmed.
+
+**1 of this bank's 6 named people sit in Outside the territory.**
+
+**Mary Mahlie** is listed as SVP, Wealth Advisor — Central Texas in Austin, TX. No CRD was obtained, and none is guessed. Office: Austin Shoal Creek Banking Center. Licences and designations: CWS, CRPC, AIM. CONTRADICTION: one rendering says 'over 35 years' advising high-net-worth clients, another says 'over 25 years'. Both recorded; for a call.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered role).** No BrokerCheck record surfaced under this name; CRPC and CWS are non-FINRA designations and do not imply registration. A profile showing Moody Bank exists. NOTE: they are the AUSTIN seat, outside your four focus territories, and are recorded for completeness.
+
+&nbsp;&nbsp;*Sources:* https://www.moodybank.com/our-team/mary-mahlie-cws-crpc-aim · https://www.linkedin.com/in/mary-mahlie-bab87a65/
+
+---
+
 ## Texas Bank and Trust Company
 
 Headquartered in 300 E. Whaley, Longview, TX 75601. CEO: Rogers Pope, Jr. Program: TBT Wealth Management. Broker-dealer: TBT SECURITIES, L.C. — CRD 31301. RESOLVED IN PASS 2; this closes the pass-1 'broker-dealer NOT FOUND'. This is an AFFILIATED, IN-HOUSE broker-dealer — NOT LPL, NOT Cetera, NOT Raymond James, NOT Osaic. That is precisely why the 'securities offered through <big BD>' disclosure pattern never matched in the first pass. Bank-owned BDs are rare in this dataset. BD address: 1800 W Loop 281, Suite 100, Longview, TX 75604-2516, with a second office in Tyler; roughly 39 years in business per BBB. Clearing and custody: not confirmed — AND THIS IS NOW THE HIGHEST-VALUE OPEN ITEM ON THIS BANK. A small in-house BD like TBT Securities almost certainly clears through a third party (Pershing, NFS, RBC, Hilltop or similar), but nothing was surfaced. Do not guess.
 
-**1 of this bank's 1 named people sit in Rest of Texas.**
+**1 of this bank's 1 named people sit in Outside the territory.**
 
 **Larry Quinn** is listed as President & Chief Financial Officer, TBT Securities, L.C in Longview, TX. No CRD was obtained, and none is guessed. Office: 1800 W Loop 281, Suite 100, Longview, TX 75604-2516.
 
@@ -1557,7 +2135,7 @@ Headquartered in 300 E. Whaley, Longview, TX 75601. CEO: Rogers Pope, Jr. Progra
 
 Headquartered in Pittsburgh, PA. Program: Three tiers: PNC Wealth Management (mass-affluent and affluent brokerage and managed accounts); PNC Private Bank (HNW); and PNC PRIVATE BANK HAWTHORN, the UHNW multi-family office — named 'Best Private Bank in the Southwest' (Global Finance, 2025) and 'Best private bank – client service' (With Intelligence PAM Awards 2026). The Southwest award is directly relevant here. Rebranded from PNC Investments on 6 October 2025. Broker-dealer: PNC Wealth Management LLC (formerly PNC Investments LLC), CRD 129052 — dually registered BD and RIA, member FINRA/SIPC, subsidiary of PNC Bank, N.A. Described as one of the largest bank broker-dealers in the US with more than $92 billion in client assets and approximately 800 financial advisors nationally. Texas share of that: not found. Clearing and custody: National Financial Services LLC (NFS) — CONFIRMED. NFS is the clearing broker for PNC's brokerage business and the agent engaged to provide custody and clearing. Sourced from PNC's own brokerage FAQ pages and the brokerage account customer agreement. Like Truist, PNC is an INTRODUCING firm on the NFS platform.
 
-**1 of this bank's 1 named people sit in Rest of Texas.**
+**1 of this bank's 3 named people sit in Outside the territory.**
 
 **Lori Ann Welborn** is listed as Financial Advisor, Senior Vice President in Dallas, TX. Legal name on record: Lori Ann Welborn, also appears as Lori Welborn. CRD 2344775. Advisory through PNC Wealth Management LLC (dually registered); clearing at National Financial Services LLC (firm-level). Office: 17218 Preston Road, Suite 1000, Dallas, TX 75252. Email: not found — a masked l***@pnc.com pattern appears on an aggregator and is not a source, so nothing is recorded. 28 years in the industry; 18 years in practice as an advisor; most recent 3 years at PNC.
 
@@ -1571,7 +2149,7 @@ Headquartered in Pittsburgh, PA. Program: Three tiers: PNC Wealth Management (ma
 
 Headquartered in San Francisco, CA (corporate); Wells Fargo Advisors is run out of St. Louis, MO. Large Texas footprint including a new Irving, TX campus. Program: Wells Fargo Advisors (employee channel); Wells Fargo Advisors Financial Network / FiNet (independent channel, existence not re-confirmed); Wells Fargo Private Bank (HNW, bank and trust side); First Clearing (correspondent clearing for third-party BDs and RIAs). Broker-dealer: Wells Fargo Clearing Services, LLC (WFCS) — this is the ACTUAL registered entity, dually registered BD and RIA. 'Wells Fargo Advisors' is a TRADE NAME of WFCS and 'First Clearing' is likewise a TRADE NAME of the SAME entity. In November 2016 Wells Fargo Advisors, LLC and First Clearing, LLC MERGED and the surviving entity was renamed Wells Fargo Clearing Services, LLC. Anyone writing 'Wells Fargo Advisors, LLC' is using a pre-2016 entity name. Clearing and custody: SELF-CLEARING. WFCS is the carrying/clearing broker-dealer. First Clearing is the trade name under which that SAME entity provides clearing and custody to unaffiliated broker-dealers and RIAs. The important refinement: First Clearing is NOT a separate company from Wells Fargo Advisors.
 
-**1 of this bank's 3 named people sit in Rest of Texas.**
+**1 of this bank's 3 named people sit in Outside the territory.**
 
 **Steve Christensen** is listed as Managing Director – Investment Officer, Christensen Wilson Private Wealth Management Group of Wells Fargo Advisors in Dallas, TX. No CRD was obtained, and none is guessed. Advisory through Wells Fargo Clearing Services, LLC; clearing at self-clearing (WFCS / First Clearing). With Wells Fargo Advisors since 1988 per their team page.
 
@@ -1581,17 +2159,17 @@ Headquartered in San Francisco, CA (corporate); Wells Fargo Advisors is run out 
 
 ---
 
-# Unassigned — statewide, multi-region or city not found
+# Unassigned — city not found or multi-region role  (outside the territory)
 
-*People and institutions whose office city could not be pinned down, or whose role spans several regions at once — statewide executives, regional managing directors and multi-market coverage roles. These are NOT force-assigned to a region, because guessing a city would be worse than leaving it blank. To work them, use the bank's own home region as the starting point: 18 of the 29 are Frost advisors whose IAPD records gave a CRD but no city, and six are Texas Regional Bank people who will sit in Harlingen, Houston, McAllen or San Antonio. One search each on a name plus a city would place most of them.*
+*People and institutions whose office city could not be pinned down, or whose role spans several regions at once. These are NOT force-assigned, because guessing a city would be worse than leaving it blank. To work them, start from the bank's own home region — most of the Frost entries here are advisors whose IAPD records gave a CRD but no city, and the Texas Regional Bank entries will sit in Harlingen, McAllen, Houston or San Antonio.*
 
-**29 named people across 5 institutions in this region.**
+**27 named people across 6 institutions in this region.**
 
 ## Cullen/Frost Bankers, Inc. — Frost Bank
 
 Headquartered in San Antonio, TX. Home region: 2. San Antonio Metro & Hill Country. Program: Frost Wealth Advisors (bank division). Related entities: Frost Brokerage Services, Inc. (BD); Frost Investment Services, LLC (RIA); Frost Investment Advisors, LLC (asset manager). Private Banking is separately branded. Broker-dealer: Frost Brokerage Services, Inc. (CRD 17465) — captive in-house BD — member FINRA/SIPC, wholly owned by Frost Bank, formed in Texas 03/21/1986. An INTRODUCING broker-dealer. Not a marketing brand on a third-party BD. Clearing and custody: National Financial Services LLC (Fidelity) — CONFIRMED. Frost's own brokerage fee schedule and Reg BI disclosure state customer accounts are carried by NFS and that margin runs through NFS as clearing and custodial firm.
 
-**18 of this bank's 26 named people sit in Unassigned — statewide, multi-region or city not found.**
+**18 of this bank's 31 named people sit in Unassigned — city not found or multi-region role.**
 
 **John Bryan Banke** is listed as Wealth Advisor in Texas (specific city not found). CRD 6202378. Advisory through Frost Investment Services, LLC; clearing at National Financial Services LLC (Fidelity) — CONFIRMED.
 
@@ -1703,55 +2281,11 @@ Headquartered in San Antonio, TX. Home region: 2. San Antonio Metro & Hill Count
 
 ---
 
-## Texas Regional Bank (TRB) — TRB Trust & Wealth Management
-
-Headquartered in Harlingen, TX (bank). CONTRADICTION FLAGGED: trb.bank and the bank's own releases say Harlingen; a third-party profile (altss.com) says McAllen; and the Trust & Wealth DIVISION is separately described as HOUSTON-headquartered. All three recorded — always qualify bank HQ vs division HQ. Home region: 3. South Texas & the Mexico Border. Program: TRB Trust & Wealth Management (rebranded). Boutique fiduciary division: investment management, estate and trust administration, financial planning, family office services, institutional services. Broker-dealer: None identified. This is an RIA + bank trust model, NOT a third-party-BD brokerage. BRAND vs ENTITY NOTE: unlike most bank programs in this dataset, here the brand DOES map to a real bank-owned registered entity — TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management. Clearing and custody: Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
-
-**6 of this bank's 13 named people sit in Unassigned — statewide, multi-region or city not found.**
-
-**Joshua R. Flores** is listed as Chief Fiduciary Officer. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here. Joined April 2024. Oversees all trust and estate accounts where TRB serves as fiduciary; a decade of experience in trust and estate litigation, including will contests, trust administration and guardianship proceedings.
-
-&nbsp;&nbsp;**Status: UNVERIFIED (non-registered fiduciary role).** Named in the April 2024 hiring release and in current descriptions of division leadership. A chief fiduciary officer is typically not securities-registered; per the protocol that is not a staleness flag.
-
-&nbsp;&nbsp;*Sources:* https://trb.bank/news/trust-wealth-management-division-grows-with-four-strategic-hires/
-
-**Hunter Layne** is listed as Senior Wealth Advisor. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
-
-&nbsp;&nbsp;**Status: UNVERIFIED.** Named on TRB's current trust & wealth team page or hiring releases. NOTE: no BrokerCheck title check was run for any TRB individual — the session search budget was exhausted. IARs of a bank-owned RIA may hold no FINRA CRD, so absence of a BrokerCheck record is not itself a staleness flag.
-
-&nbsp;&nbsp;*Sources:* https://trb.bank/news/trust-wealth-management-division-grows-with-four-strategic-hires/
-
-**Peyton Stamper** is listed as Client Advisor. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here. Joined April 2024.
-
-&nbsp;&nbsp;**Status: UNVERIFIED.** Named in the April 2024 hiring release, roughly 2.4 years old — under the 3-year staleness threshold, so not marked stale, but not independently re-confirmed either.
-
-&nbsp;&nbsp;*Sources:* https://trb.bank/news/trust-wealth-management-division-grows-with-four-strategic-hires/
-
-**Ricardo Garcia**. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
-
-&nbsp;&nbsp;**Status: UNVERIFIED.** Named on the TRB team page. HIGH COLLISION RISK: 'Ricardo Garcia' in the Rio Grande Valley is an extremely common name — do NOT attempt a BrokerCheck match on the name alone.
-
-&nbsp;&nbsp;*Sources:* https://trb.bank/wealth-management/trust-wealth-team/
-
-**Michael Baldermann**. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
-
-&nbsp;&nbsp;**Status: UNVERIFIED.** Named on TRB's current trust & wealth team page or hiring releases. NOTE: no BrokerCheck title check was run for any TRB individual — the session search budget was exhausted. IARs of a bank-owned RIA may hold no FINRA CRD, so absence of a BrokerCheck record is not itself a staleness flag.
-
-&nbsp;&nbsp;*Sources:* https://trb.bank/wealth-management/trust-wealth-team/
-
-**Ben Fedorko** is listed as President, TRB Trust and Wealth Management (per the bank team page) — SUPERSEDED, current role unknown. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
-
-&nbsp;&nbsp;**Status: UNRESOLVED — CONTRADICTION, FOR A CALL.** CONTRADICTION recorded, not silently resolved. TRB's own team and rebrand pages describe the division as 'led by President Ben Fedorko', while the 31 Aug 2026 release appoints TREY WILLERSON President of the SAME division. Two sources, same title, two people. The most likely reading is a succession the team page has not caught up with, but that was not confirmed. ASK ON THE CALL whether Fedorko moved up, moved out, or holds a parallel role.
-
-&nbsp;&nbsp;*Sources:* https://trb.bank/wealth-management/trust-wealth-team/ · https://www.prnewswire.com/news-releases/texas-regional-bank-appoints-trey-willerson-president-of-trb-trust--wealth-management-302865316.html
-
----
-
 ## Prosperity Bancshares, Inc. — Prosperity Bank
 
 Headquartered in Houston, TX. Home region: 1. Houston Metro & Southeast Texas. Program: ProsperityPrivate — split into ProsperityPrivate Investments (brokerage/advisory) and ProsperityPrivate Advisors. Trust side is Prosperity Bank Wealth Management and Trust Services. Private Banking separately branded. Broker-dealer: Raymond James Financial Services, Inc. (CRD 6694) — THIRD-PARTY. 'ProsperityPrivate' is a marketing brand, not a registered entity. Prosperity's own disclosure states 'ProsperityPrivate Advisors and Prosperity Bank is not a registered broker/dealer and is independent of Raymond James Financial Services, Inc.' Relationship announced April 11, 2017. Clearing and custody: not confirmed. Raymond James self-clears through Raymond James & Associates, Inc. (CRD 705) as a matter of general firm structure and that is the expected answer, but NO Prosperity- or RJFS-specific document stating it was found. Per the no-guessing rule this is left unconfirmed.
 
-**3 of this bank's 10 named people sit in Unassigned — statewide, multi-region or city not found.**
+**3 of this bank's 10 named people sit in Unassigned — city not found or multi-region role.**
 
 **Cathy Waller** is listed as SVP, Trust Operations in Texas (not found). No CRD was obtained, and none is guessed.
 
@@ -1773,11 +2307,51 @@ Headquartered in Houston, TX. Home region: 1. Houston Metro & Southeast Texas. P
 
 ---
 
+## International Bank of Commerce (IBC Bank) / International Bancshares Corp.
+
+Headquartered in Laredo, TX (bank founded 1966; 1200 San Bernardo Ave). Parent International Bancshares Corporation (NASDAQ: IBOC), ~$16.6B assets. Home region: 3. The Mexico Border. Program: IBC Investment Services — MARKETING BRAND. IBC Bank and IBC Investment Services are explicitly NOT registered as a broker/dealer or investment advisor. The bank separately lists trust and employee-benefits divisions. Broker-dealer: LPL Financial — explicit disclosure: 'Securities and advisory services are offered through LPL Financial ... Registered representatives of LPL offer products and services using IBC Investment Services and may also be employees of IBC Bank.' Textbook LPL Institution Services dual-employee model. Clearing and custody: not confirmed.
+
+**2 of this bank's 9 named people sit in Unassigned — city not found or multi-region role.**
+
+**Todd Lance** is listed as Financial Consultant, IBC Investment Services in Oklahoma (Tulsa area) — OUTSIDE THE TEXAS TERRITORY. No CRD was obtained, and none is guessed. Phone: (539) 313-9004.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Recorded only because they sit on the same IBC roster page. The 539 area code places them in IBC's Oklahoma footprint, not Texas. Do not work them as a Texas contact.
+
+&nbsp;&nbsp;*Sources:* https://www.ibcinvestments.com/Todd-Lance.e1129353.htm
+
+**Sergio Soto** is listed as Financial Consultant, IBC Investment Services. CRD UNRESOLVED — DO NOT ATTACH. See evidence. Specialises in high-net-worth and high-potential clientele; builds investment vehicles after comprehensive portfolio analysis.
+
+&nbsp;&nbsp;**Status: UNRESOLVED.** NAME COLLISION NOT BROKEN. A BrokerCheck title 'JOEY SERGIO SOTO - Broker at LPL FINANCIAL LLC' (CRD 3044449) exists and the firm matches IBC's BD, but the bank bio says 'Sergio Soto' with no 'Joey' and no city was confirmed on the BrokerCheck side. Middle-name-as-known-name is plausible but is NOT a full-name match, so CRD 3044449 is recorded as a LEAD ONLY and is not attached.
+
+&nbsp;&nbsp;*Sources:* https://www.ibcinvestments.com/Sergio-Soto.e1129363.htm
+
+---
+
+## Texas Regional Bank (TRB) — TRB Trust & Wealth Management
+
+Headquartered in Harlingen, TX (bank). CONTRADICTION FLAGGED: trb.bank and the bank's own releases say Harlingen; a third-party profile (altss.com) says McAllen; and the Trust & Wealth DIVISION is separately described as HOUSTON-headquartered. All three recorded — always qualify bank HQ vs division HQ. Home region: 3. The Mexico Border. Program: TRB Trust & Wealth Management (rebranded). Boutique fiduciary division: investment management, estate and trust administration, financial planning, family office services, institutional services. Broker-dealer: None identified. This is an RIA + bank trust model, NOT a third-party-BD brokerage. BRAND vs ENTITY NOTE: unlike most bank programs in this dataset, here the brand DOES map to a real bank-owned registered entity — TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management. Clearing and custody: Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
+
+**2 of this bank's 15 named people sit in Unassigned — city not found or multi-region role.**
+
+**Ricardo Garcia**. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Named on the TRB team page. HIGH COLLISION RISK: 'Ricardo Garcia' in the Rio Grande Valley is an extremely common name — do NOT attempt a BrokerCheck match on the name alone.
+
+&nbsp;&nbsp;*Sources:* https://trb.bank/wealth-management/trust-wealth-team/
+
+**Michael Baldermann**. No CRD was obtained, and none is guessed. Advisory through TRB Wealth Management, LLC — SEC-registered investment adviser, 100% owned by Texas Regional Bank, formed 15 April 2020, d/b/a TRB Trust and Wealth Management; clearing at Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (March 2025). Pershing is explicitly NOT a custodian here.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Named on TRB's current trust & wealth team page or hiring releases. NOTE: no BrokerCheck title check was run for any TRB individual — the session search budget was exhausted. IARs of a bank-owned RIA may hold no FINRA CRD, so absence of a BrokerCheck record is not itself a staleness flag.
+
+&nbsp;&nbsp;*Sources:* https://trb.bank/wealth-management/trust-wealth-team/
+
+---
+
 ## Comerica Incorporated — Comerica Wealth Management — NOW PART OF FIFTH THIRD
 
-Headquartered in DALLAS, TEXAS. Comerica relocated its corporate headquarters from Detroit to Dallas in 2007, so despite the Michigan heritage this was a Texas-headquartered institution. Home region: 4. Rest of Texas. Program: 'Comerica Financial Advisors, powered by Ameriprise Financial' (brand adopted at the Nov 2023 close). Comerica Asset Management (RIA) and Comerica Trust (state-chartered trust company) sit alongside. Broker-dealer: FIFTH THIRD'S OWN IN-HOUSE BROKER-DEALER — CORRECTED IN PASS 2. The Ameriprise arrangement is TERMINATED. The two Financial Planning headlines that looked contradictory are NOT a contradiction: they are three years apart and describe opposite ends of the same relationship. TIMELINE: (1) 2023 — Comerica selects Ameriprise; ~100 advisors and $18B affiliate ('Ameriprise secures $18B of client assets from Comerica Bank'). (2) 28 Oct 2025 — Fifth Third's application to acquire Comerica is filed with the Federal Reserve and trade press flags the Ameriprise relationship as at risk. (3) Feb 2026 — the acquisition closes. (4) POST-CLOSE — Comerica notified Ameriprise it would CEASE using it as investment services provider; 89 ADVISORS AND $18.5B LEFT AMERIPRISE by the end of Q3 and AMERIPRISE RECEIVED A $25 MILLION TERMINATION FEE ('Ameriprise to lose 89 advisors, $18.5B from Comerica deal'). SO: any Comerica row still showing broker-dealer = Ameriprise is WRONG. Comerica Securities, Inc. (CRD 17079) still exists as a legal entity but what business it retains is not confirmed. CAVEAT FOR A CALL: the legacy Ameriprise team page for 'Comerica Financial Advisors' (Dallas) was STILL LIVE at time of search. Treat it as a stale artifact of the terminated program, not as evidence that any Texas Comerica team remains on Ameriprise. Clearing and custody: not confirmed. Custody moved from Pershing LLC to American Enterprise Investment Services in Nov 2023, but with the Ameriprise relationship now terminated the current arrangement sits with Fifth Third and was NOT established.
+Headquartered in DALLAS, TEXAS. Comerica relocated its corporate headquarters from Detroit to Dallas in 2007, so despite the Michigan heritage this was a Texas-headquartered institution. Home region: 5. Outside the territory. Program: 'Comerica Financial Advisors, powered by Ameriprise Financial' (brand adopted at the Nov 2023 close). Comerica Asset Management (RIA) and Comerica Trust (state-chartered trust company) sit alongside. Broker-dealer: FIFTH THIRD'S OWN IN-HOUSE BROKER-DEALER — CORRECTED IN PASS 2. The Ameriprise arrangement is TERMINATED. The two Financial Planning headlines that looked contradictory are NOT a contradiction: they are three years apart and describe opposite ends of the same relationship. TIMELINE: (1) 2023 — Comerica selects Ameriprise; ~100 advisors and $18B affiliate ('Ameriprise secures $18B of client assets from Comerica Bank'). (2) 28 Oct 2025 — Fifth Third's application to acquire Comerica is filed with the Federal Reserve and trade press flags the Ameriprise relationship as at risk. (3) Feb 2026 — the acquisition closes. (4) POST-CLOSE — Comerica notified Ameriprise it would CEASE using it as investment services provider; 89 ADVISORS AND $18.5B LEFT AMERIPRISE by the end of Q3 and AMERIPRISE RECEIVED A $25 MILLION TERMINATION FEE ('Ameriprise to lose 89 advisors, $18.5B from Comerica deal'). SO: any Comerica row still showing broker-dealer = Ameriprise is WRONG. Comerica Securities, Inc. (CRD 17079) still exists as a legal entity but what business it retains is not confirmed. CAVEAT FOR A CALL: the legacy Ameriprise team page for 'Comerica Financial Advisors' (Dallas) was STILL LIVE at time of search. Treat it as a stale artifact of the terminated program, not as evidence that any Texas Comerica team remains on Ameriprise. Clearing and custody: not confirmed. Custody moved from Pershing LLC to American Enterprise Investment Services in Nov 2023, but with the Ameriprise relationship now terminated the current arrangement sits with Fifth Third and was NOT established.
 
-**1 of this bank's 4 named people sit in Unassigned — statewide, multi-region or city not found.**
+**1 of this bank's 4 named people sit in Unassigned — city not found or multi-region role.**
 
 **Winston Nelson** is listed as Comerica wealth author/contributor in Texas (specific city not found). No CRD was obtained, and none is guessed.
 
@@ -1789,9 +2363,9 @@ Headquartered in DALLAS, TEXAS. Comerica relocated its corporate headquarters fr
 
 ## First Horizon Bank (First Horizon Corporation)
 
-Headquartered in Memphis, Tennessee. Home region: 4. Rest of Texas. Program: First Horizon Wealth Management (umbrella); First Horizon Advisors (investment services brand); First Horizon Private Client / Private Banking. Broker-dealer: LPL FINANCIAL LLC — AND THIS IS A CHANGE THAT MATTERS. First Horizon Advisors, Inc. was ITSELF the registered BD and RIA (CRD/SEC firm number 17117, live on both BrokerCheck and IAPD). On 7 APRIL 2025 LPL announced an agreement to transition First Horizon Advisors' broker-dealer and investment advisory services onto LPL's INSTITUTION SERVICES platform — ~110 financial advisors and ~$16B in client assets across a 12-state footprint — and announced COMPLETION OF THE ONBOARDING ON 27 AUGUST 2025, with roughly $12B of brokerage and advisory assets moved. Current disclosure reads: 'First Horizon Advisors is a brand name used by certain employees of First Horizon Bank... offered through LPL Financial and/or its licensed affiliates... First Horizon Bank and First Horizon Advisors are not registered as broker-dealers or investment advisors.' SO: First Horizon Advisors is now a BRAND ON LPL, not the operating BD, and CRD 17117 is historical context rather than the current selling entity. Clearing and custody: LPL Financial self-clears. Advisors onboarded to LPL Institution Services clear through LPL. No separate third-party clearing arrangement was found or claimed.
+Headquartered in Memphis, Tennessee. Home region: 5. Outside the territory. Program: First Horizon Wealth Management (umbrella); First Horizon Advisors (investment services brand); First Horizon Private Client / Private Banking. Broker-dealer: LPL FINANCIAL LLC — AND THIS IS A CHANGE THAT MATTERS. First Horizon Advisors, Inc. was ITSELF the registered BD and RIA (CRD/SEC firm number 17117, live on both BrokerCheck and IAPD). On 7 APRIL 2025 LPL announced an agreement to transition First Horizon Advisors' broker-dealer and investment advisory services onto LPL's INSTITUTION SERVICES platform — ~110 financial advisors and ~$16B in client assets across a 12-state footprint — and announced COMPLETION OF THE ONBOARDING ON 27 AUGUST 2025, with roughly $12B of brokerage and advisory assets moved. Current disclosure reads: 'First Horizon Advisors is a brand name used by certain employees of First Horizon Bank... offered through LPL Financial and/or its licensed affiliates... First Horizon Bank and First Horizon Advisors are not registered as broker-dealers or investment advisors.' SO: First Horizon Advisors is now a BRAND ON LPL, not the operating BD, and CRD 17117 is historical context rather than the current selling entity. Clearing and custody: LPL Financial self-clears. Advisors onboarded to LPL Institution Services clear through LPL. No separate third-party clearing arrangement was found or claimed.
 
-**1 of this bank's 3 named people sit in Unassigned — statewide, multi-region or city not found.**
+**1 of this bank's 3 named people sit in Unassigned — city not found or multi-region role.**
 
 **Matt Phillips** is listed as Banker (First Horizon 'Bankers' directory) in NOT CONFIRMED — surfaced inside a Texas-scoped search but their bio page is not city-scoped in the URL. No CRD was obtained, and none is guessed.
 
@@ -1803,27 +2377,13 @@ Headquartered in Memphis, Tennessee. Home region: 4. Rest of Texas. Program: Fir
 
 # Institutions where a program was confirmed or recorded but no names surfaced
 
-**27 institutions.** Every entry is a blank meaning "not found", never "confirmed absent". Several are the highest-value targets in the project precisely because the program is real and the roster is missing.
+**33 institutions.** Every entry is a blank meaning "not found", never "confirmed absent". Several are the highest-value targets in the project precisely because the program is real and the roster is missing.
 
 ## 1. Houston Metro & Southeast Texas
 
-### Cadence Bank — ACQUIRED BY HUNTINGTON (incl. Linscomb Wealth, Houston)
-
-Headquartered in was Houston/Tupelo. Now part of The Huntington National Bank (Columbus, OH). Texas markets: Houston, Austin, The Woodlands and broader Texas (legacy Cadence footprint). Wealth offering: Yes — via Linscomb Wealth and the legacy Cadence wealth arm, both now under Huntington. Program: Linscomb Wealth (f/k/a Linscomb & Williams) — a Houston-headquartered Barron's Top-100 RIA, a Cadence subsidiary since 2012, rebranded January 2024. Texas offices: Houston, Austin, The Woodlands. Non-Texas: Birmingham, Huntsville, Atlanta. Broker-dealer: not confirmed post-merger. PLATFORM CONSEQUENCE: Huntington selected AMERIPRISE FINANCIAL SERVICES, LLC as its new retail investment program provider on 4 February 2026, moving Huntington Financial Advisors' retail brokerage, advisory and insurance onto the Ameriprise Financial Institutions Group. That changes the platform under every Huntington-owned Texas branch, including the former Cadence and Veritex footprints. Clearing and custody: not confirmed. If the Ameriprise/AFIG transition governs, clearing would be American Enterprise Investment Services — but that was NOT confirmed for these accounts and is not asserted. Also present in: Rest of Texas.
-
-> CONSOLIDATION CONFIRMED. The Huntington-Cadence deal (~$7.4B) CLOSED 2 FEBRUARY 2026, with brand conversion in Q2 2026 and CADENCE WEALTH MANAGEMENT MOVING ONTO HUNTINGTON ON 22 JUNE 2026. Any 'Cadence Bank wealth management' material is now stale. TOP OPEN QUESTION: Linscomb Wealth's CURRENT post-merger owner is UNCONFIRMED. DEPARTED — DO NOT LIST AS CURRENT: founders HAROLD WILLIAMS and GEORGE WILLIAMS left Linscomb and were sued by Cadence under the Defend Trade Secrets Act. Their departure year still needs pinning, but they are not there.
-
-> *** PASS 2 RESOLVED THE TOP OPEN QUESTION. LINSCOMB WEALTH'S OWNER TODAY IS THE HUNTINGTON NATIONAL BANK. *** Linscomb Wealth (1333 West Loop South, Suite 1500, Houston TX 77027) is a WHOLLY OWNED SUBSIDIARY of The Huntington National Bank, itself wholly owned by Huntington Bancshares Incorporated. Chain of title: Cadence bought Linscomb & Williams in 2012; it rebranded to Linscomb Wealth under Cadence; Huntington closed its merger with Cadence on 2 February 2026, carrying Linscomb across. CONFIRMED AGAINST THE FIRM'S OWN FORM ADV PART 2A BROCHURE, 2026 ANNUAL AMENDMENT (MARCH 2026) — a current primary document. The firm marks 55 years of operation (founded 1971) and describes itself as fee-only, HNW and family-office focused.
-
-> FOUNDER DEPARTURE YEAR PINNED: HAROLD WILLIAMS (who co-founded L&W with Dan Linscomb in 1971) and their brother GEORGE WILLIAMS resigned abruptly in APRIL 2023 after 50 years, to launch PRECEDENT WEALTH PARTNERS LLC. Cadence sued them under the federal Defend Trade Secrets Act, the Texas Uniform Trade Secrets Act and for breach of contractual and fiduciary obligations, alleging they resigned without proper notice to 'maximize chaos and confusion' and retained a proprietary file on 275 clients, with over $350 million in AUM allegedly lost to Precedent. The brothers DENY violating any restrictive covenant, arguing the covenants were unreasonable when signed. Litigation outcome: not found.
-
-*Sources:* https://ir.huntington.com/news-presentations/press-releases/detail/969/huntington-bank-selects-ameriprise-financial-as-its-new-retail-investment-program-provider · https://ir.ameriprise.com/news/news-details/2026/Huntington-Bank-Selects-Ameriprise-Financial-as-its-New-Retail-Investment-Program-Provider/default.aspx · https://linscombwealth.com/wp-content/uploads/2026/03/2026-03-LW-Form-ADV-Part-2A-Brochure_-2026-Annual-Amend-CLEAN.pdf · https://ir.huntington.com/news-presentations/press-releases/detail/967/huntington-bank-completes-merger-with-cadence-bank-expanding-presence-across-texas-and-the-south
-
----
-
 ### Stellar Bank (Allegiance Bank + CommunityBank of Texas) — ACQUIRED BY PROSPERITY
 
-Headquartered in was Houston, TX. 52 banking offices. Stellar Bancorp had >$11B assets at formation; $10.807B at 12/31/2025. Texas markets: Houston, Beaumont, East Texas, Dallas. Wealth offering: Could not verify — bucket (c). Broker-dealer: not found. Clearing and custody: not confirmed. Also present in: Rest of Texas.
+Headquartered in was Houston, TX. 52 banking offices. Stellar Bancorp had >$11B assets at formation; $10.807B at 12/31/2025. Texas markets: Houston, Beaumont, East Texas, Dallas. Wealth offering: Could not verify — bucket (c). Broker-dealer: not found. Clearing and custody: not confirmed. Also present in: Outside the territory.
 
 > NO LONGER INDEPENDENT — TWICE OVER. Allegiance Bank and CommunityBank of Texas, N.A. merged as equals in 2023 to form Stellar Bank. Prosperity Bancshares then completed its merger with Stellar Bancorp on 1 JULY 2026 (0.3803 Prosperity shares plus $11.36 cash per Stellar share). Stellar locations continue under the STELLAR BANK NAME UNTIL OPERATIONAL INTEGRATION SCHEDULED FOR MARCH 2027, so the brand is still live in market and will mislead anyone checking casually. WEALTH: searches returned the bank's commercial focus and NO wealth management or investment services information at all. Given the commercial-bank profile a retail wealth program may never have existed — but that is unconfirmed.
 
@@ -1855,7 +2415,7 @@ Headquartered in was Houston, TX. Founded 2004, national charter. ~$1.43B assets
 
 ### American Momentum Bank (the Midland-Odessa successor to Security Bank)
 
-Headquartered in College Station, TX. Texas markets: West Texas including Midland and Odessa, plus the College Station base. Wealth offering: Unclear — not researched as a wealth target. Broker-dealer: not found. Clearing and custody: not confirmed. Also present in: Rest of Texas.
+Headquartered in College Station, TX. Texas markets: West Texas including Midland and Odessa, plus the College Station base. Wealth offering: Unclear — not researched as a wealth target. Broker-dealer: not found. Clearing and custody: not confirmed. Also present in: Outside the territory.
 
 > RECORDED BECAUSE IT IS THE SUCCESSOR TO SECURITY BANK, which pass 1 carried as a contested three-market Midland/Odessa/San Antonio institution. American Momentum acquired Security Star Bancshares and its bank subsidiary effective 29 FEBRUARY 2020 — $922M in assets, 11 Texas locations, nine of them in West Texas — taking American Momentum to $2.6B total assets. LEADERSHIP THAT CARRIED OVER: James C. Thomas became West Texas CEO; Jarod C. Thomas, formerly Security Bank President & Chief Lending Officer, became West Texas President. WHETHER AMERICAN MOMENTUM RUNS A WEALTH OR TRUST PROGRAM WAS NOT RESEARCHED — bucket (c). Given that Midland-Odessa is the highest-value micro-market in Texas for mineral trust work, this is a worthwhile target for a further pass.
 
@@ -1865,7 +2425,7 @@ Headquartered in College Station, TX. Texas markets: West Texas including Midlan
 
 ### b1BANK (Business First Bank / Business First Bancshares, Nasdaq: BFST)
 
-Headquartered in Baton Rouge, Louisiana. Texas markets: DALLAS (7 locations — Uptown, Trinity Groves, North Dallas, Oakwood, Southern Dallas, Addison) and HOUSTON. Texas entry began as a Dallas loan production office and has become a real banking-centre footprint. Wealth offering: Yes. Program: Business First Wealth Solutions Group (also styled b1BANK Wealth Solutions / b1 Wealth Solutions Group). NOTE: the exact brand is 'Business First Wealth Solutions Group', not 'b1BANK Wealth Management'. Broker-dealer: *** CONTESTED / IN TRANSITION — RECORD BOTH, DO NOT PICK ONE. *** (1) The STANDING b1bank.com disclosure reads: 'b1BANK and Business First Wealth Solutions Group are not registered as a broker/dealer or investment advisor. Registered representatives of LPL offer products and services using Business First Wealth Solutions Group... Securities and advisory services are offered through LPL FINANCIAL (LPL), a registered investment advisor and broker/dealer.' (2) A RAYMOND JAMES PRESS RELEASE DATED 9 JULY 2026: 'Raymond James Welcomes $335 Million Wealth Program with b1BANK.' The b1 Wealth Solutions Group is described as a program manager, a financial advisor and one branch professional managing ~$335M; combined with an existing Raymond James program the total is three advisors and $600M+. READING: b1BANK appears to have moved the retail wealth program LPL to RAYMOND JAMES FID IN JULY 2026, and the b1bank.com disclosure language had not yet been updated at the time of research. VERIFY ON THE CALL which BD is on the paperwork today. Note this is the SAME move Trustmark made a year earlier. Clearing and custody: not confirmed. If the Raymond James move is complete, Raymond James self-clears; if the program is still on LPL, LPL self-clears. BECAUSE THE BROKER-DEALER ITSELF IS CONTESTED, NO CLEARING FIRM IS STATED. Also present in: Rest of Texas.
+Headquartered in Baton Rouge, Louisiana. Texas markets: DALLAS (7 locations — Uptown, Trinity Groves, North Dallas, Oakwood, Southern Dallas, Addison) and HOUSTON. Texas entry began as a Dallas loan production office and has become a real banking-centre footprint. Wealth offering: Yes. Program: Business First Wealth Solutions Group (also styled b1BANK Wealth Solutions / b1 Wealth Solutions Group). NOTE: the exact brand is 'Business First Wealth Solutions Group', not 'b1BANK Wealth Management'. Broker-dealer: *** CONTESTED / IN TRANSITION — RECORD BOTH, DO NOT PICK ONE. *** (1) The STANDING b1bank.com disclosure reads: 'b1BANK and Business First Wealth Solutions Group are not registered as a broker/dealer or investment advisor. Registered representatives of LPL offer products and services using Business First Wealth Solutions Group... Securities and advisory services are offered through LPL FINANCIAL (LPL), a registered investment advisor and broker/dealer.' (2) A RAYMOND JAMES PRESS RELEASE DATED 9 JULY 2026: 'Raymond James Welcomes $335 Million Wealth Program with b1BANK.' The b1 Wealth Solutions Group is described as a program manager, a financial advisor and one branch professional managing ~$335M; combined with an existing Raymond James program the total is three advisors and $600M+. READING: b1BANK appears to have moved the retail wealth program LPL to RAYMOND JAMES FID IN JULY 2026, and the b1bank.com disclosure language had not yet been updated at the time of research. VERIFY ON THE CALL which BD is on the paperwork today. Note this is the SAME move Trustmark made a year earlier. Clearing and custody: not confirmed. If the Raymond James move is complete, Raymond James self-clears; if the program is still on LPL, LPL self-clears. BECAUSE THE BROKER-DEALER ITSELF IS CONTESTED, NO CLEARING FIRM IS STATED. Also present in: Outside the territory.
 
 > *** NO TEXAS ADVISOR NAMES FOUND, AND THAT MAY BE THE ACTUAL ANSWER. *** The wealth program is small — three advisors total across the whole franchise per the July 2026 Raymond James release — and everything sourced points to LOUISIANA AND MISSISSIPPI, not Texas. Given a three-advisor program spanning LA/MS/TX, THE BASE CASE IS THAT b1BANK HAS NO TEXAS-RESIDENT WEALTH ADVISOR and that Texas clients are served from Baton Rouge or Ridgeland. Confirm on a call.
 
@@ -1877,41 +2437,121 @@ Headquartered in Baton Rouge, Louisiana. Texas markets: DALLAS (7 locations — 
 
 ---
 
+### Texas Citizens Bank, N.A. — ACQUIRED BY b1BANK, BRAND RETIRED
+
+Headquartered in was Pasadena, TX (Greater Houston) — 4949 Fairmont Pkwy. Texas markets: Greater Houston / Pasadena / Bay Area. Wealth offering: No wealth program found — bucket (b). A blank here means NOT FOUND, not confirmed absent. Program: none found. Broker-dealer: none found. Clearing and custody: n/a.
+
+> *** THE BRAND IS RETIRED — DO NOT CARRY THIS AS A TARGET. *** Business First Bancshares, Inc. (Ruston and Baton Rouge, LA; b1BANK) COMPLETED its acquisition of Texas Citizens Bancorp, Inc. and its subsidiary Texas Citizens Bank, N.A. effective 1 MARCH 2022. The locations now operate as b1BANK. Deal advisors: Piper Sandler for the Texas Citizens side, Stephens Inc. for Business First. ANY WEALTH FOLLOW-UP SHOULD BE DIRECTED AT b1BANK, WHICH HAS ITS OWN TAB IN THIS FILE.
+
+> Before the acquisition it was positioned as a business bank for owner-managed companies and consumers; no wealth, trust or investment page surfaced. High confidence on the consolidation, Medium on the absence of a wealth program.
+
+*Sources:* https://www.globenewswire.com/en/news-release/2022/03/01/2394089/0/en/Business-First-Bancshares-Inc-Completes-Acquisition-of-Texas-Citizens-Bancorp-Inc-Expands-Business-Banking-to-Houston-Market · https://www.b1bank.com/shareholder-info/press-releases/business-first-bancshares-inc-completes-acquisition-texas-citizens · https://bankersdigest.com/louisianas-business-first-bancshares-completes-acquisition-of-texas-citizens-bancorp-expands-in-houston-market/
+
+---
+
+### Wallis Bank
+
+Headquartered in Wallis / Houston, TX — Texas state-chartered, founded 1906. Texas markets: Houston, Dallas and San Antonio, plus Los Angeles CA and Atlanta GA. Wealth offering: No wealth program found — bucket (b). A blank here means NOT FOUND, not confirmed absent. Program: none found. Broker-dealer: none found. Clearing and custody: n/a. Also present in: San Antonio Metro & Hill Country, Outside the territory.
+
+> Searched and nothing found. The service set is deposits, commercial/CRE/SBA/personal/auto lending, treasury (remote deposit, positive pay) and international banking. No wealth management, trust or investment services page surfaced. NOT PROVEN ABSENT — one search pass.
+
+*Sources:* https://www.wallisbank.com/ · https://www.wallisbank.com/location/houston/ · https://www.dob.texas.gov/entity-search/entity-detail?bid=683&eid=1&bn=0
+
+---
+
+### Golden Bank, N.A.
+
+Headquartered in Chinatown, Houston, TX — founded 1985 as Texas First National Bank. Texas markets: Greater Houston (Bellaire Blvd, Harwin Dr, Sugar Land), Dallas-Fort Worth, and California. Wealth offering: No wealth program found — bucket (b). A blank here means NOT FOUND, not confirmed absent. Program: none found. Broker-dealer: none found. Clearing and custody: n/a. Also present in: Outside the territory.
+
+> Full-scope COMMERCIAL banking: deposits, commercial/construction/real estate/consumer/small business/mortgage lending, trade finance, online and mobile banking, cash management. No wealth, trust or investment line surfaced. Founded by Taiwanese immigrants; the first and one of the largest Asian-American banks based in Texas. NOT PROVEN ABSENT.
+
+*Sources:* https://www.goldenbank-na.com/about-us/our-company · https://www.goldenbank-na.com/about-us · https://en.wikipedia.org/wiki/Golden_Bank
+
+---
+
+### Southwestern National Bank
+
+Headquartered in Houston, TX — founded 3 November 1997. Texas markets: Greater Houston, with an Asian-American community focus. Wealth offering: No wealth program found — bucket (b). A blank here means NOT FOUND, not confirmed absent. Program: none found. Broker-dealer: none found. Clearing and custody: n/a.
+
+> Commercial banking: deposits, loans, trade finance, online banking, cash management. No wealth program surfaced. NOT PROVEN ABSENT.
+
+*Sources:* https://en.wikipedia.org/wiki/Southwestern_National_Bank
+
+---
+
+### Origin Bank (Houston operations)
+
+Headquartered in RUSTON, LOUISIANA — a subsidiary of Origin Bancorp, Inc. This is NOT a Texas-headquartered bank; Houston is a market, not the HQ. Texas markets: Houston (nine locations including the Upper Kirby Financial Center, 5324 Kirby Dr), Dallas-Fort Worth; ~41 banking centers across DFW, North Louisiana and Central Mississippi. Wealth offering: UNCLEAR — bucket (c). Origin states it serves 'high net worth individuals' among its client base, but no Houston wealth, trust or investment program page was located. Broker-dealer: not found. Clearing and custody: not confirmed. Also present in: Outside the territory.
+
+> *** NAME-COLLISION WARNING — THIS IS THE TRAP ON THIS NAME. *** An SEC IAPD firm record for 'ORIGIN WEALTH ADVISERS' (firm 171946) exists, BUT NO AFFILIATION WITH ORIGIN BANCORP OR ORIGIN BANK WAS CONFIRMED — one source describes it as an independent fee-only RIA and another as an Exempt Reporting Adviser not SEC-registered. There are also several unrelated 'Origin' advisers: Origin Investment Advisory LLC, Origin Credit Advisers, and a consumer fintech called Origin Financial. DO NOT ATTRIBUTE ORIGIN WEALTH ADVISERS TO ORIGIN BANK. Marked UNRESOLVED.
+
+> Independent as Origin Bancorp; entered Houston organically. No acquisition found.
+
+*Sources:* https://www.origin.bank/houston-campaign/ · https://www.origin.bank/en/locations/tx/upper-kirby-financial-center/ · https://www.sec.gov/Archives/edgar/data/1516912/000162828018004515/obnks1a1.htm · https://adviserinfo.sec.gov/firm/summary/171946
+
+---
+
 ## 2. San Antonio Metro & Hill Country
 
-### Texas Partners Bank (The Bank of San Antonio / The Bank of Austin / Texas Hill Country Bank)
+### Randolph-Brooks Federal Credit Union (RBFCU)
 
-Headquartered in 1900 NW Loop 410, Ste 200, San Antonio, TX 78213. Texas markets: San Antonio, Austin, Hill Country / greater Central Texas. Wealth offering: Yes — a previously uncovered institution and a genuine find. Program: TPB Wealth Advisors, LLC — a REGISTERED INVESTMENT ADVISER operating since 2009, a subsidiary of Texas Partners Bank, LLC. Third-party directory firm ID 150508 (MEDIUM confidence, from a URL slug — verify). Services: integrated financial planning, investment advisory, access to private pooled investment solutions; the ADV-derived strategy list includes long and short-term purchases, trading, short sales, margin and option writing. The bank side offers private banking, trust services and estate planning. Broker-dealer: none found — an RIA plus bank private-banking/trust model. Clearing and custody: not confirmed. Also present in: Rest of Texas.
+Headquartered in Live Oak, TX (San Antonio metro). Texas markets: San Antonio metro and statewide — 950,000+ members, 61 Texas branches. Wealth offering: Yes. Program: RBFCU member investment and financial planning program. Broker-dealer: AMERIPRISE FINANCIAL INSTITUTIONS GROUP (a channel of Ameriprise Financial Services, LLC). RBFCU signed with Ameriprise to provide member financial planning and TRANSITIONED ITS INVESTMENT PROGRAM FROM CUNA MUTUAL (CBSI) TO THE AMERIPRISE FINANCIAL INSTITUTIONS PLATFORM, COMPLETING BY THE END OF 2021. BRAND vs ENTITY: any 'RBFCU Investments'-style branding is a MARKETING BRAND SITTING ON AMERIPRISE'S BD, not a credit-union-owned broker-dealer. Clearing and custody: not confirmed. Ameriprise SELF-CLEARS, which is the strong presumption here, but it was not confirmed for this specific program — and per the hard rule a self-clearing BD is not written down as a third-party clearing firm.
 
-> CONSOLIDATION HISTORY: Texas Partners Bank ACQUIRED SAN ANTONIO CAPITAL & TRUST IN 2016 and launched TPB Wealth Advisors as a bank subsidiary on the back of it. The multiple bank brands — The Bank of San Antonio, The Bank of Austin, Texas Hill Country Bank — merged into the single Texas Partners Bank charter. BUCKET (a): program confirmed, ZERO NAMES CAPTURED. This is the clearest remaining gap in San Antonio and the best target for a further pass.
+> CREDIT UNION, NOT A BANK — included because at 950,000+ members and 61 Texas branches it is a material San Antonio wealth footprint that any territory plan has to account for.
 
-*Sources:* https://www.texaspartners.bank/ · https://www.texaspartners.bank/private/private-banking · https://www.texaspartners.bank/about/about/about-us · https://www.unbiased.com/advisor-firm/san-antonio/tpb-wealth-advisors-llc-150508 · https://www.dob.texas.gov/entity-search/entity-detail?bid=9383&eid=1&bn=0
+> NO ADVISORS NAMED. Bucket (a): program confirmed, advisor names not found. RBFCU does not publish its Ameriprise advisor roster.
 
----
-
-### Vantage Bank Texas
-
-Headquartered in San Antonio, TX. ~$4.5B total assets (2024). Family-owned, founded 1923. Texas markets: San Antonio and Texas. Wealth offering: Unclear — bucket (c), could not verify either way. Broker-dealer: not found. Clearing and custody: not confirmed.
-
-> Vantage surfaced as a San-Antonio-headquartered bank of relevant size, but NO trust department, wealth program, RIA or BD affiliation was confirmed. DO NOT record it as having no program — it was not researched to a conclusion.
-
-*Sources:* https://en.wikipedia.org/wiki/Vantage_Bank_Texas
+*Sources:* https://www.businesswire.com/news/home/20210609005082/en · https://www.cbinsights.com/company/randolph-brooks-federal-credit-union/people
 
 ---
 
-## 3. South Texas & the Mexico Border
+### Security Service Federal Credit Union (SSFCU)
 
-### Falcon International Bank
+Headquartered in San Antonio, TX. Texas markets: Texas, Colorado and Utah. Wealth offering: UNCLEAR — bucket (c), could not verify either way. EXPLICITLY NOT 'confirmed absent'. Broker-dealer: not found. Clearing and custody: not confirmed.
 
-Headquartered in Laredo, TX (founded 1986; acquired by the Gutierrez family 1995). ~$2B assets, ~400 employees, 18 branches. Texas markets: Laredo, Zapata, McAllen, Brownsville, San Antonio, Eagle Pass, Del Rio, Buda; Austin LPO; representative offices in Monterrey and Guadalajara, Mexico. Wealth offering: Unclear, leaning Yes — COULD NOT VERIFY EITHER WAY. Broker-dealer: not found. Clearing and custody: not confirmed. Also present in: San Antonio Metro & Hill Country, Rest of Texas.
+> No investment-services program, broker-dealer relationship or CUSO arrangement surfaced for SSFCU. That is a NOT-FOUND, not a confirmed absence.
 
-> BUCKET (c). The bank's service list includes TRUST SERVICES and retirement accounts, and third-party profiles describe a platform for cross-border wealth management — but NONE of that came from the bank's own site, and no trust or wealth page on falconbank.com was located. The cross-border wealth language may be describing the bank as an ACQUISITION TARGET rather than a live retail program. Leadership found is not wealth-specific and is UNVERIFIED, sourced to aggregators rather than the bank: Gilbert Narvaez, Jr. (President & CEO) and Adolfo E. Gutierrez (Chairman). Neither is a wealth contact and neither is written up as an advisor row. If Falcon has a program its shape is probably the cross-border niche IBC occupies. Laredo has exactly two banks of consequence and IBC is the other.
+> INDUSTRY CONTEXT WORTH ONE CALL, RECORDED AS AN UNVERIFIED HYPOTHESIS AND NOT AS FACT: the parent of CUSO FINANCIAL SERVICES was acquired by LPL FINANCIAL, and credit unions on that platform began moving to LPL as broker-dealer and clearing firm from 16 May 2025. IF SSFCU was ever a CFS shop, it is an LPL shop now. Nothing confirms SSFCU was ever on CFS — this is a hypothesis to test on the call, nothing more.
 
-*Sources:* https://www.falconbank.com/ · https://en.wikipedia.org/wiki/Falcon_International_Bank · https://www.dob.texas.gov/entity-search/entity-detail?bid=4080&eid=1&bn=0
+*Sources:* https://www.ssfcu.org/about-us · https://www.ssfcu.org/ · https://www.zoominfo.com/c/security-service-federal-credit-union/94601489 · https://investments-cfs.ufcu.org/transition
 
 ---
 
-## 4. Rest of Texas
+## 3. The Mexico Border
+
+### Texas National Bank (Mercedes / Edinburg)
+
+Headquartered in Mercedes, TX. Texas markets: Brownsville, Edinburg, Elsa, McAllen, Mercedes, Mission, San Juan, Weslaco. Wealth offering: UNCLEAR, LEANING NO — bucket (c), could not verify either way. Broker-dealer: not found. Clearing and custody: n/a.
+
+> The bank publishes a 'Meet Our Lenders' page and a branch network but NO trust department, wealth management or investment services page was found. The officers who surfaced are all COMMERCIAL LENDING and are recorded here for completeness only — THEY ARE LENDERS, NOT WEALTH CONTACTS: Thelma Garcia (SVP Commercial Banker, Edinburg, NMLS 500499); Edna Martinez (EVP Commercial Banker, Mercedes, NMLS 516575); Janie Marroquin (AVP Commercial Banker, Mercedes, NMLS 903202).
+
+*Sources:* https://texasnational.com/our-lenders · https://www.texasnational.com/ · https://texasnational.com/branch-locations/mercedes
+
+---
+
+## 4. Coastal Bend & Golden Crescent (between them)
+
+### Texas Champion Bank
+
+Headquartered in Corpus Christi, TX — 6124 S. Staples St. Founded 1912. ~$445M assets. Texas markets: 13 branches across South Texas. Wealth offering: No wealth program found — bucket (b). A blank here means NOT FOUND, not confirmed absent. Program: none found. Broker-dealer: none found. Clearing and custody: n/a.
+
+> Primary business focus is commercial lending. No trust, investment or wealth page surfaced. Independent. NOT PROVEN ABSENT.
+
+*Sources:* https://www.texaschampionbank.com/ · https://www.dob.texas.gov/entity-search/entity-detail?bid=235&eid=1&bn=0 · https://www.usbanklocations.com/texas-champion-bank.shtml
+
+---
+
+### Charter Bank (charterbankcc.com)
+
+Headquartered in Corpus Christi, TX — 10502 Leopard St, opened 1 September 1967. Texas markets: Corpus Christi. Wealth offering: No wealth program found — bucket (b). A blank here means NOT FOUND, not confirmed absent. Program: none found. Broker-dealer: none found. Clearing and custody: n/a.
+
+> THIN SOURCING — the bank's own site was not reachable through search results at all, so this is a weak not-found rather than a searched-and-empty result. Confidence Low.
+
+*Sources:* https://www.dob.texas.gov/entity-search/entity-detail?bid=588&eid=1&bn=0
+
+---
+
+## 5. Outside the territory
 
 ### Independent Bank Group, Inc. / Independent Financial — ACQUIRED BY SOUTHSTATE
 
@@ -2089,7 +2729,7 @@ Headquartered in was Dallas, TX (Texas state charter); holding company was Vista
 
 ---
 
-## Unassigned — statewide, multi-region or city not found
+## Unassigned — city not found or multi-region role
 
 ### STILL NOT RESEARCHED — remaining zero-search institutions (bucket c)
 
@@ -2145,18 +2785,19 @@ Headquartered in Ridgeland / Jackson, Mississippi. Texas markets: NONE IN TEXAS 
 
 | Region | Named people |
 |---|---|
-| 1. Houston Metro & Southeast Texas | 34 |
-| 2. San Antonio Metro & Hill Country | 39 |
-| 3. South Texas & the Mexico Border | 8 |
-| 4. Rest of Texas | 103 |
-| Unassigned — statewide, multi-region or city not found | 29 |
-| **Total** | **213** |
+| 1. Houston Metro & Southeast Texas | 67 |
+| 2. San Antonio Metro & Hill Country | 62 |
+| 3. The Mexico Border | 13 |
+| 4. Coastal Bend & Golden Crescent (between them) | 15 |
+| 5. Outside the territory | 104 |
+| Unassigned — city not found or multi-region role | 27 |
+| **Total** | **288** |
 
 | Status | People |
 |---|---|
-| ACTIVE | 81 |
-| UNVERIFIED | 106 |
-| LIKELY STALE | 10 |
-| UNRESOLVED | 16 |
+| ACTIVE | 105 |
+| UNVERIFIED | 149 |
+| LIKELY STALE | 8 |
+| UNRESOLVED | 26 |
 
-Across 64 institutions, of which 37 produced named people and 27 did not.
+Across 78 institutions, of which 45 produced named people and 33 did not.
