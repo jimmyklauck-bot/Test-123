@@ -2,7 +2,7 @@
 
 **Organised by region, scoped to the South Texas territory. Which banks have programs, and what platform each one runs on.**
 
-Compiled 6 September 2026; extended and corrected in a second pass the same day; then RE-SCOPED AND DEEPENED IN A THIRD PASS on 7 September 2026 against the four South Texas territories — Houston Metro & Southeast Texas, San Antonio Metro & Hill Country, the Mexico Border, and the Coastal Bend & Golden Crescent between them. Austin and Dallas were dropped from the research target per instruction; rows already captured there are retained and filed under 'Outside the territory' rather than deleted. Research channel: web search only. Read the Verification Ceiling first — it is the single most important thing to know before using any row.
+Compiled 6 September 2026; extended and corrected in a second pass the same day; RE-SCOPED AND DEEPENED IN A THIRD PASS on 7 September 2026 against the four South Texas territories — Houston Metro & Southeast Texas, San Antonio Metro & Hill Country, the Mexico Border, and the Coastal Bend & Golden Crescent between them — then GAP-CLOSED IN A FOURTH PASS against the pass-3 follow-up list. Austin and Dallas were dropped from the research target per instruction; rows already captured there are retained and filed under 'Outside the territory' rather than deleted. Research channel: web search only. Read the Verification Ceiling first — it is the single most important thing to know before using any row.
 
 Companion files: `texas-bank-advisors-by-bank.md` (the advisor roster in prose, also by region) and `texas-bank-advisors.xlsx` (a filterable Master List with a Region column, one tab per region, a Platform & Clearing reference, and one tab per bank ordered by region). All three come from one dataset, so a correction in one appears in all three.
 
@@ -40,16 +40,16 @@ region is noted on each row. An individual appears once, under the region of the
 
 | Region | In territory | Banks present | Named people |
 |---|---|---|---|
-| 1. Houston Metro & Southeast Texas | **FOCUS** | 44 | 67 |
-| 2. San Antonio Metro & Hill Country | **FOCUS** | 29 | 62 |
-| 3. The Mexico Border | **FOCUS** | 11 | 13 |
-| 4. Coastal Bend & Golden Crescent (between them) | **FOCUS** | 10 | 15 |
-| 5. Outside the territory | out of territory | 59 | 104 |
-| Unassigned — city not found or multi-region role | — | 2 | 27 |
-| **The four focus regions** | | | **157 people** |
-| **Whole file** | | **78 institutions** | **288 people** |
+| 1. Houston Metro & Southeast Texas | **FOCUS** | 45 | 73 |
+| 2. San Antonio Metro & Hill Country | **FOCUS** | 31 | 62 |
+| 3. The Mexico Border | **FOCUS** | 14 | 18 |
+| 4. Coastal Bend & Golden Crescent (between them) | **FOCUS** | 11 | 15 |
+| 5. Outside the territory | out of territory | 62 | 104 |
+| Unassigned — city not found or multi-region role | — | 2 | 29 |
+| **The four focus regions** | | | **168 people** |
+| **Whole file** | | **83 institutions** | **301 people** |
 
-The four focus regions hold **157 of the 288 named people** in the file. Region 5 is retained rather than deleted because many of those banks also operate inside the territory, and because the platform and consolidation intelligence applies statewide.
+The four focus regions hold **168 of the 301 named people** in the file. Region 5 is retained rather than deleted because many of those banks also operate inside the territory, and because the platform and consolidation intelligence applies statewide.
 
 ## 1. VERIFICATION CEILING — READ THIS FIRST
 
@@ -79,6 +79,22 @@ STATUS REVERSALS: Lauren Duke (American Bank) went LIKELY STALE -> UNVERIFIED �
 
 NEWLY RESOLVED IDENTIFIERS: Bryan Tad Adkison, Frost, CRD 2759268. Edwin Blaine Decker, Woodforest, CRD 7638880. Joseph Rene Vasquez, Kleberg, CRD 5004645. Rebecca Lynn Hensley, Amegy, CRD 3235871. Luis Orlando Gonzalez, IBC, CRD 5230574. Ismael Eradio Reyes Retana, IBC, CRD 3250007. Carlos Rafael Benavides Jr, IBC, CRD 5425251. Jennifer Dunn KEY, Moody, surname resolved. Ronald Folwell and Forest Busby Jr., Woodforest, surnames resolved to full names.
 
+## 1c. WHAT PASS 4 CHANGED — INCLUDING ONE THING PASS 3 GOT WRONG
+
+Pass 4 worked the ranked follow-up list from pass 3. It overturned one pass-3 conclusion, opened four more institutions, added nine names to the largest Houston roster, and closed one hunt for good.
+
+*** THE CORRECTION: PASS 3 SAID THE EAGLE PASS / DEL RIO / UVALDE CORRIDOR WAS EFFECTIVELY EMPTY. IT IS NOT. *** Two bank wealth operations were found there. THE BANK & TRUST, a Del Rio institution founded in 1910 and held by Westex Bancorp, runs WESTEX INVESTMENT SERVICES on Raymond James with investment offices in Del Rio, Uvalde, BOERNE and San Angelo. FIRST STATE BANK OF UVALDE runs a real trust department — farm and ranch trusts, independent executor services, self-directed IRAs — headed by a named SVP and Trust Officer.
+
+HOW THE MISS HAPPENED, BECAUSE THE MECHANISM MATTERS MORE THAN THE MISS. Pass 3 excluded a bank called 'The Bank & Trust' from the Hill Country sweep as an out-of-territory Hill COUNTY (Hillsboro) institution. That finding was correct about thebankandtrust.bank. But TWO DIFFERENT TEXAS BANKS TRADE AS 'THE BANK & TRUST', and excluding one on the name caused the other — with offices in Del Rio, Uvalde, Boerne and Kerrville — to be missed entirely. A name-collision check that clears one institution does not clear the name.
+
+IT ALSO SOFTENS THE HILL COUNTRY FINDING. Pass 3 recorded that no independent Boerne or Kerrville bank with its own trust or investment operation could be identified. The Bank & Trust has offices in both towns and an investment office in Boerne.
+
+LINSCOMB WEALTH went from 8 named to 15, including the CHIEF INVESTMENT OFFICER (Ryan Patterson, CFA, CFP) whose title pass 3 could not capture, and both advisors staffing the new THE WOODLANDS office. A headcount contradiction is now on the record: one source says 52 financial advisors, another says 24 advisory representatives and $5.2B AUM. Do not quote either without naming the source.
+
+THE AMERICAN BANK WEALTH HEAD HUNT IS CLOSED. Twelve query framings across three passes, one consistent failure mode: the search index reproduces the bio verbatim and strips the name every time. No further search budget should go near it. The adjacency map is now good enough to identify them on sight, and the name sits on two pages that are each one click away.
+
+STELLAR BANK moved out of 'could not verify either way' — it runs retail brokerage plus trust and wealth management — and its Prosperity integration date is now known: MARCH 2027.
+
 ## 2. HOW TO READ A BLANK
 
 A blank or 'not found' means NOT FOUND. It NEVER means 'confirmed absent'. Three buckets are tracked separately and labelled on each bank tab:
@@ -105,16 +121,6 @@ CONFIRMED clearing relationships: Frost to NFS; Texas Capital to Pershing; BOK F
 
 *** BROKER-DEALER IS THE LEAST DURABLE FIELD IN THIS DATASET. *** Among the out-of-state banks alone, THREE of six changed broker-dealer inside eighteen months: First Horizon moved to LPL (Aug 2025), Trustmark moved to Raymond James (2025), and b1BANK appears to have moved to Raymond James (Jul 2026). Meanwhile Raymond James FID is systematically pulling Gulf South bank programs OFF LPL while First Horizon went the other direction. Verify the BD on every call rather than trusting the file.
 
-## 4. BRAND vs REGISTERED ENTITY
-
-Most Texas community-bank wealth names are MARKETING BRANDS sitting on somebody else's broker-dealer, and the bank publishes a disclosure saying so. 'AB Financial Services' is LPL. 'IBC Investment Services' is LPL. 'LSNB Investment Services' is LPL. 'Southside Investment Services' is Raymond James. 'City Bank Wealth Management' and 'Lubbock National Bank Investment Services' are Raymond James. 'ProsperityPrivate' is Raymond James. 'Woodforest Wealth' is Raymond James. 'Third Coast Advisors' and 'ANBTX Wealth Management' are Ameriprise.
-
-OTHERS ARE GENUINE REGISTERED ENTITIES, and the second pass found several more: Frost Brokerage Services; TCBI Securities; BOK Financial Securities; Hilltop Securities; TRB Wealth Management, LLC; TBT SECURITIES, L.C. (CRD 31301, the bank-owned BD of Texas Bank and Trust); BROADWAY WEALTH SOLUTIONS, INC. (SEC RIA 291753); 1900 WEALTH MANAGEMENT, LLC (SEC RIA 175346, wholly owned by Jefferson Bank); and TPB WEALTH ADVISORS, LLC (Texas Partners Bank).
-
-A THIRD MODEL EXISTS AND IS COMMON IN TEXAS: no broker-dealer anywhere in the structure, just bank fiduciary powers. North Dallas Bank & Trust is the clearest case — it FILES A 13F, evidencing investment discretion over $100M+ in its own name. Community Bank & Trust Waco, Texas Bank San Angelo, American National Bank & Trust Wichita Falls, Herring, WestStar and Rio Bank all read the same way.
-
-One bank still carries a SECOND brand layer that is unresolved: VeraBank markets 'CFG Financial Group' over Cetera Investment Services.
-
 ## The banks, region by region
 
 A bank is listed under every region where it operates. `Home` is the region of its headquarters. `People` counts named individuals whose own office city falls in THAT region.
@@ -123,12 +129,12 @@ A bank is listed under every region where it operates. `Home` is the region of i
 
 *Houston and its metro, out to College Station and Bryan in the north-west, Beaumont and Port Arthur in the east, and down the coast to Lake Jackson and Angleton. Also The Woodlands, Kingwood, Humble, Sugar Land, Katy, Pearland, Conroe, Galveston, Texas City, Baytown, Wharton and El Campo.*
 
-**44 institutions, 67 named people in this region.**
+**45 institutions, 73 named people in this region.**
 
 | Bank | Home | People here | Offering | Program | Broker-dealer | Clearing & custody | Confidence |
 |---|---|---|---|---|---|---|---|
+| **Cadence Bank — ACQUIRED BY HUNTINGTON (incl. Linscomb Wealth, Houston)** | HOME | 14 | Yes — via Linscomb Wealth and the legacy Caden … | Linscomb Wealth (f/k/a Linscomb & Williams) — a Houston-headquartered Barron's Top-100 RIA, a Cadence subsidiary since 2012, rebranded January 2024. Texas offices: Housto … | not confirmed post-merger. PLATFORM CONSEQUENCE: Huntington selected AMERIPRISE FINANCIAL SERVICES, LLC as its new retail investment program provider on 4 February 2026, moving Huntington Fi … | not confirmed. If the Ameriprise/AFIG transition governs, clearing would be American Enterprise Investment Services — but that was NOT confirmed for t … | High on the consolidation timeline; Low on the current platform and ownership of … |
 | **Texas Regional Bank (TRB) — TRB Trust & Wealth Management** | The Mexico Border | 9 | Yes — substantial, >$4 billion in assets under … | TRB Trust & Wealth Management (rebranded). Boutique fiduciary division: investment management, estate and trust administration, financial planning, family office services … | None identified. This is an RIA + bank trust model, NOT a third-party-BD brokerage. BRAND vs ENTITY NOTE: unlike most bank programs in this dataset, here the brand DOES map to a real bank-ow … | Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (M … | High on program, entity and custody; Medium on the leadership sequence; Low on r … |
-| **Cadence Bank — ACQUIRED BY HUNTINGTON (incl. Linscomb Wealth, Houston)** | HOME | 8 | Yes — via Linscomb Wealth and the legacy Caden … | Linscomb Wealth (f/k/a Linscomb & Williams) — a Houston-headquartered Barron's Top-100 RIA, a Cadence subsidiary since 2012, rebranded January 2024. Texas offices: Housto … | not confirmed post-merger. PLATFORM CONSEQUENCE: Huntington selected AMERIPRISE FINANCIAL SERVICES, LLC as its new retail investment program provider on 4 February 2026, moving Huntington Fi … | not confirmed. If the Ameriprise/AFIG transition governs, clearing would be American Enterprise Investment Services — but that was NOT confirmed for t … | High on the consolidation timeline; Low on the current platform and ownership of … |
 | **Amegy Bank (a division of Zions Bancorporation, N.A.)** | HOME | 7 | Yes | Amegy Wealth Advisors (retail brokerage/advisory brand) + Amegy Private Banking + Fiduciary and Trust Services | *** LPL FINANCIAL LLC — AND 'AMEGY WEALTH ADVISORS' IS A MARKETING BRAND SITTING ON LPL, NOT A REGISTERED ENTITY. *** Amegy's own disclosure reads: 'Registered representatives of LPL offer p … | LPL Financial self-clears. Not separately re-confirmed from an Amegy/LPL document, so treat the SPECIFIC Amegy arrangement as not confirmed. | High on the LPL relationship and the Zions Wealth trust rail; Medium on the stat … |
 | **Moody National Bank (d/b/a Moody Bank) — Wealth Management & Trust** | HOME | 5 | Yes — AND THIS IS THE LARGEST BANK TRUST OPERA … | Moody Bank Wealth Management & Trust (WM&T). Department established 1927. Administers OVER $26 BILLION in assets and is described as THE LARGEST TRUST DEPARTMENT DOMICILE … | NONE IDENTIFIED — this appears to be a PURE NATIONAL BANK TRUST DEPARTMENT. No 'securities offered through...' disclosure was found on any Moody page, no affiliated BD name surfaced, and no  … | not confirmed | High on the program's existence and scale; Medium on the BD absence and on the e … |
 | **Regions Bank (Regions Financial Corporation)** | Outside the territory | 5 | Yes — TWO DISTINCT CHANNELS, do not conflate t … | (1) REGIONS PRIVATE WEALTH MANAGEMENT — the HNW/UHNW bank channel, staffed by Wealth Advisors, Trust Advisors, Wealth Strategists, Portfolio Managers and Lending Advisors … | Retail channel (Regions Investment Solutions): CETERA INVESTMENT SERVICES LLC — VERIFIED, not assumed. Regions sold Morgan Keegan to Raymond James in April 2012 and re-entered securities via … | Retail channel: CETERA INVESTMENT SERVICES IS SELF-CLEARING — it became the first broker-dealer in the bank/institutional space to self-clear in 1991  … | High on metros, program structure and BD; Medium on clearing for the PWM channel … |
@@ -164,9 +170,10 @@ A bank is listed under every region where it operates. `Home` is the region of i
 | **Origin Bank (Houston operations)** | HOME | 0 | UNCLEAR — bucket (c). Origin states it serves  … | not found | not found | not confirmed | Low |
 | **Pioneer Bank, SSB** | Outside the territory | 0 | No program found — bucket (b) | not found | not found — none found | not confirmed | Medium that no BANK program exists — one search only |
 | **Post Oak Bank, N.A. — DEFUNCT. Remove from any target list.** | HOME | 0 | Moot — the charter is gone | n/a | n/a | n/a | High on the acquisitions and on the collision warning |
+| **River Oaks Trust Company / The Bank of River Oaks (Houston)** | HOME | 0 | UNCLEAR — bucket (c). Two related-sounding Hou … | not found | not found | not confirmed | Low |
 | **Southside Bancshares, Inc. — Southside Bank** | Outside the territory | 0 | Yes | Southside Investment Services (brokerage) + Southside Bank Wealth Management & Trust (bank trust). 40+ years of wealth management; trust officers with 150+ years combined … | Raymond James Financial Services, Inc. (CRD 6694) — CONFIRMED. 'Southside Investment Services' is the MARKETING BRAND; the program runs on the Raymond James Financial Institutions Division m … | not confirmed. Raymond James self-clears as a matter of general firm structure, but that was not confirmed for this program. | High on program and BD; Medium on roster completeness |
 | **Southwestern National Bank** | HOME | 0 | No wealth program found — bucket (b). A blank  … | none found | none found | n/a | Medium |
-| **Stellar Bank (Allegiance Bank + CommunityBank of Texas) — ACQUIRED BY PROSPERITY** | HOME | 0 | Could not verify — bucket (c) | not found | not found | not confirmed | High on the deals; Low/none on any wealth offering |
+| **Stellar Bank (Allegiance Bank + CommunityBank of Texas) — ACQUIRED BY PROSPERITY** | HOME | 0 | YES — PASS 4 MOVES THIS OUT OF BUCKET (c). Ste … | Not separately branded in any source reached — presented as part of Stellar Bank's service set | not found | not confirmed | Medium on the program; nil on the roster |
 | **Texas Citizens Bank, N.A. — ACQUIRED BY b1BANK, BRAND RETIRED** | HOME | 0 | No wealth program found — bucket (b). A blank  … | none found | none found | n/a | High on the consolidation; Medium on the absence of a wealth program |
 | **VeraBank** | Outside the territory | 0 | Yes — both a bank trust department and a retai … | VeraBank Wealth Management (trust) + brokerage marketed alongside 'CFG Financial Group' on verabank.com | Cetera Investment Services — 'Investment services are provided through Cetera Investment Services, conveniently located in VeraBank branches.' BRAND vs REGISTERED ENTITY FLAG: the bank's own … | not confirmed — DO NOT GUESS. Cetera programs variously use BNY Pershing, NFS/Fidelity, or Cetera's own self-clearing arm, and there is no evidence ei … | High on program; Medium-High on BD; Low on the brand/entity relationship |
 | **Veritex Holdings, Inc. / Veritex Community Bank — ACQUIRED BY HUNTINGTON** | Outside the territory | 0 | No / Unclear — leaning No | not found | not found | not confirmed | High on the consolidation; Low on wealth |
@@ -176,7 +183,7 @@ A bank is listed under every region where it operates. `Home` is the region of i
 
 *San Antonio and the surrounding Hill Country — New Braunfels, Boerne, Seguin, Fredericksburg, Kerrville, Bandera, Schertz and Canyon Lake.*
 
-**29 institutions, 62 named people in this region.**
+**31 institutions, 62 named people in this region.**
 
 | Bank | Home | People here | Offering | Program | Broker-dealer | Clearing & custody | Confidence |
 |---|---|---|---|---|---|---|---|
@@ -205,8 +212,10 @@ A bank is listed under every region where it operates. `Home` is the region of i
 | **Security Bank (Midland/Odessa) — DEFUNCT SINCE 2020. The Midland-Odessa entity i …** | Outside the territory | 0 | No — the charter no longer exists | not found | not found | not confirmed | High — resolved against a state regulator's own register |
 | **Security Service Federal Credit Union (SSFCU)** | HOME | 0 | UNCLEAR — bucket (c), could not verify either  … | not found | not found | not confirmed | Low |
 | **Texas Regional Bank (TRB) — TRB Trust & Wealth Management** | The Mexico Border | 0 | Yes — substantial, >$4 billion in assets under … | TRB Trust & Wealth Management (rebranded). Boutique fiduciary division: investment management, estate and trust administration, financial planning, family office services … | None identified. This is an RIA + bank trust model, NOT a third-party-BD brokerage. BRAND vs ENTITY NOTE: unlike most bank programs in this dataset, here the brand DOES map to a real bank-ow … | Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (M … | High on program, entity and custody; Medium on the leadership sequence; Low on r … |
+| **The Bank & Trust (Del Rio) — Westex Investment Services** | The Mexico Border | 0 | Yes — a bank trust and investment operation wi … | WESTEX INVESTMENT SERVICES, a DIVISION of The Bank & Trust (westexinvestments.com). Financial planning, retirement planning, investments and wealth management. Investment … | Raymond James Financial Services, Inc. (RJFS). The bank's own language: 'The financial advisors at Westex Investment Services, a division of The Bank & Trust, offer financial products, servi … | Raymond James & Associates self-clears (RJ&A). Not separately confirmed for this program. | High on the bank, the program and the Raymond James relationship; Low on the ros … |
 | **The PNC Financial Services Group — PNC Wealth Management (formerly PNC Investmen …** | Outside the territory | 0 | Yes firmwide — Texas-specific unconfirmed | Three tiers: PNC Wealth Management (mass-affluent and affluent brokerage and managed accounts); PNC Private Bank (HNW); and PNC PRIVATE BANK HAWTHORN, the UHNW multi-fami … | PNC Wealth Management LLC (formerly PNC Investments LLC), CRD 129052 — dually registered BD and RIA, member FINRA/SIPC, subsidiary of PNC Bank, N.A. Described as one of the largest bank brok … | National Financial Services LLC (NFS) — CONFIRMED. NFS is the clearing broker for PNC's brokerage business and the agent engaged to provide custody an … | High on Texas footprint and BD; Medium on named Texas advisors, which remain thi … |
 | **Third Coast Bank, SSB (Third Coast Bancshares, NASDAQ: TCBX)** | Houston Metro & Southe | 0 | Yes | Third Coast Advisors | Ameriprise Financial Services, LLC. The program launched in SEPTEMBER 2021 as a bank investment program 'in partnership with Ameriprise Financial'. Third Coast Advisors is a BRAND on the Ame … | not confirmed — Ameriprise self-clears via American Enterprise Investment Services, but no source states it for this program. | High on program existence and the Ameriprise relationship; Medium on it still be … |
+| **TrustTexas Bank, SSB** | Coastal Bend & Golden  | 0 | UNCLEAR, LEANING YES — and this is deliberatel … | not found | not found | not confirmed | Low |
 | **Wallis Bank** | Houston Metro & Southe | 0 | No wealth program found — bucket (b). A blank  … | none found | none found | n/a | Medium |
 | **Wells Fargo & Company — Wells Fargo Advisors + Wells Fargo Private Bank** | Outside the territory | 0 | Yes | Wells Fargo Advisors (employee channel); Wells Fargo Advisors Financial Network / FiNet (independent channel, existence not re-confirmed); Wells Fargo Private Bank (HNW,  … | Wells Fargo Clearing Services, LLC (WFCS) — this is the ACTUAL registered entity, dually registered BD and RIA. 'Wells Fargo Advisors' is a TRADE NAME of WFCS and 'First Clearing' is likewis … | SELF-CLEARING. WFCS is the carrying/clearing broker-dealer. First Clearing is the trade name under which that SAME entity provides clearing and custod … | High on entity and clearing structure; LOW on Texas leadership — no Texas wealth … |
 
@@ -214,27 +223,30 @@ A bank is listed under every region where it operates. `Home` is the region of i
 
 *The Mexico border — Laredo and Zapata, the Rio Grande Valley (McAllen, Edinburg, Pharr, Mission, Harlingen, Brownsville, Weslaco, Rio Grande City), Eagle Pass, Del Rio, Uvalde and Carrizo Springs.*
 
-**11 institutions, 13 named people in this region.**
+**14 institutions, 18 named people in this region.**
 
 | Bank | Home | People here | Offering | Program | Broker-dealer | Clearing & custody | Confidence |
 |---|---|---|---|---|---|---|---|
 | **International Bank of Commerce (IBC Bank) / International Bancshares Corp.** | HOME | 6 | Yes | IBC Investment Services — MARKETING BRAND. IBC Bank and IBC Investment Services are explicitly NOT registered as a broker/dealer or investment advisor. The bank separatel … | LPL Financial — explicit disclosure: 'Securities and advisory services are offered through LPL Financial ... Registered representatives of LPL offer products and services using IBC Investmen … | not confirmed | High on program and BD |
+| **First State Bank of Uvalde** | HOME | 4 | Yes — a genuine bank trust department, and it  … | First State Bank of Uvalde TRUST DEPARTMENT. The services the bank's own trust page lists are: trust accounts, INDEPENDENT EXECUTOR services, SELF-DIRECTED IRAs, FARM AND … | None found. This reads as bank fiduciary powers, not a brokerage program. No 'securities offered through...' disclosure and no third-party BD surfaced. Not proven absent. | not confirmed | High on the trust department; Medium on the roster |
 | **Texas Regional Bank (TRB) — TRB Trust & Wealth Management** | HOME | 4 | Yes — substantial, >$4 billion in assets under … | TRB Trust & Wealth Management (rebranded). Boutique fiduciary division: investment management, estate and trust administration, financial planning, family office services … | None identified. This is an RIA + bank trust model, NOT a third-party-BD brokerage. BRAND vs ENTITY NOTE: unlike most bank programs in this dataset, here the brand DOES map to a real bank-ow … | Charles Schwab Advisor Services and Fidelity Brokerage Services LLC — CONFIRMED as qualified custodians in the firm's own Form ADV Part 2A brochure (M … | High on program, entity and custody; Medium on the leadership sequence; Low on r … |
 | **Falcon International Bank** | HOME | 1 | Yes — TWO DISTINCT ARMS, and PASS 3 SETTLED BO … | (1) FALCON TRUST DEPARTMENT — in-house bank fiduciary. The bank publishes a dedicated Trust page offering estate planning, administration of trusts, investment management … | LPL Financial LLC for the brokerage arm, reached THROUGH AC Financial (San Antonio), which operates the FalconVest brand. This is a classic bank-brokerage TPM arrangement: the advisors are A … | not confirmed | High on existence and platform; Low on Falcon-side names |
 | **Lone Star National Bank** | HOME | 1 | Yes — a genuine two-track offering, unusual fo … | LSNB Investment Services — MARKETING BRAND. Lone Star National Bank and LSNB Investment Services are explicitly NOT registered broker/dealers. | LPL Financial LLC — RE-CONFIRMED IN PASS 3, and the NUANCE MATTERS. The bank's Investment Services page carries a REFERRAL disclosure, not an employee-rep disclosure: 'Lone Star National Ban … | not confirmed | High on the platform; Low on the roster |
 | **Rio Bank** | HOME | 1 | Yes — professional portfolio managers building … | Rio Bank Wealth Management & Trust Services | not found. The presentation is a bank trust department / portfolio management with no third-party BD disclosure surfaced. It is possible there is no retail brokerage arm at all — but that is … | not confirmed | Medium-High on the program; Low on platform |
+| **The Bank & Trust (Del Rio) — Westex Investment Services** | HOME | 1 | Yes — a bank trust and investment operation wi … | WESTEX INVESTMENT SERVICES, a DIVISION of The Bank & Trust (westexinvestments.com). Financial planning, retirement planning, investments and wealth management. Investment … | Raymond James Financial Services, Inc. (RJFS). The bank's own language: 'The financial advisors at Westex Investment Services, a division of The Bank & Trust, offer financial products, servi … | Raymond James & Associates self-clears (RJ&A). Not separately confirmed for this program. | High on the bank, the program and the Raymond James relationship; Low on the ros … |
 | **Cullen/Frost Bankers, Inc. — Frost Bank** | San Antonio Metro & Hi | 0 | Yes | Frost Wealth Advisors (bank division). Related entities: Frost Brokerage Services, Inc. (BD); Frost Investment Services, LLC (RIA); Frost Investment Advisors, LLC (asset  … | Frost Brokerage Services, Inc. (CRD 17465) — captive in-house BD — member FINRA/SIPC, wholly owned by Frost Bank, formed in Texas 03/21/1986. An INTRODUCING broker-dealer. Not a marketing br … | National Financial Services LLC (Fidelity) — CONFIRMED. Frost's own brokerage fee schedule and Reg BI disclosure state customer accounts are carried b … | High — program, BD and clearing all confirmed from primary Frost disclosure docu … |
 | **Hilltop Holdings Inc. — PlainsCapital Bank / HilltopSecurities / Momentum Indepe …** | Outside the territory | 0 | Yes | HilltopSecurities Wealth Management / Private Client Group (employee advisors); Momentum Independent Network, Inc. (independent channel — RENAMED from 'HilltopSecurities  … | Hilltop Securities Inc. (FINRA CRD 6220) — a real registered BD, SEC/FINRA registered, NYSE member. Momentum Independent Network, Inc. is a separate registered BD AND RIA, wholly owned by Hi … | SELF-CLEARING — confirmed. HilltopSecurities also provides correspondent clearing and custody to other broker-dealers and RIAs nationally. A Hilltop/M … | High on entity, BD and clearing. Roster currency CORRECTED in pass 2 — the five  … |
 | **Texas Bank (a DBA of Texas State Bank), San Angelo** | Outside the territory | 0 | Yes | Texas Bank Trust Department | none found — a bank trust department; no third-party BD surfaced | not confirmed | High |
 | **Texas National Bank (Mercedes / Edinburg)** | HOME | 0 | UNCLEAR, LEANING NO — bucket (c), could not ve … | not found | not found | n/a | Low |
 | **The PNC Financial Services Group — PNC Wealth Management (formerly PNC Investmen …** | Outside the territory | 0 | Yes firmwide — Texas-specific unconfirmed | Three tiers: PNC Wealth Management (mass-affluent and affluent brokerage and managed accounts); PNC Private Bank (HNW); and PNC PRIVATE BANK HAWTHORN, the UHNW multi-fami … | PNC Wealth Management LLC (formerly PNC Investments LLC), CRD 129052 — dually registered BD and RIA, member FINRA/SIPC, subsidiary of PNC Bank, N.A. Described as one of the largest bank brok … | National Financial Services LLC (NFS) — CONFIRMED. NFS is the clearing broker for PNC's brokerage business and the agent engaged to provide custody an … | High on Texas footprint and BD; Medium on named Texas advisors, which remain thi … |
 | **Vantage Bank Texas** | San Antonio Metro & Hi | 0 | Yes — PASS 3 MOVED THIS OUT OF BUCKET (c). Van … | No distinct brand found — presented simply as Vantage Bank wealth management / private banking | None found. No RIA and no broker-dealer is disclosed anywhere reachable. Do not assert one. | not confirmed | Medium — the program is confirmed off the bank's own site, but ZERO named wealth … |
+| **Zapata National Bank — BEING ACQUIRED BY TEXAS NATIONAL BANK** | HOME | 0 | No wealth program found — bucket (b), and a bl … | none found | none found | n/a | Medium |
 
 ### 4. Coastal Bend & Golden Crescent (between them)
 
 *The region between Houston, San Antonio and the border — the Coastal Bend and the Golden Crescent. Corpus Christi, Victoria, Kingsville, Alice, Beeville, Goliad, Rockport, Port Aransas, Aransas Pass, Refugio, Sinton, Robstown, Port Lavaca, Bay City, Cuero, Gonzales, Yoakum, Karnes City, Floresville, Pleasanton, Three Rivers and George West.*
 
-**10 institutions, 15 named people in this region.**
+**11 institutions, 15 named people in this region.**
 
 | Bank | Home | People here | Offering | Program | Broker-dealer | Clearing & custody | Confidence |
 |---|---|---|---|---|---|---|---|
@@ -242,6 +254,7 @@ A bank is listed under every region where it operates. `Home` is the region of i
 | **Kleberg Bank, N.A. — Kleberg Wealth Management** | HOME | 4 | Yes | KLEBERG WEALTH MANAGEMENT (its own site, klebergwealth.com) plus a distinct in-house PRIVATE BANKING team on the bank side | CETERA INVESTMENT SERVICES LLC (CRD 15340) — confirmed both by the program's own 'Kleberg Bank & Cetera History' page and by the BrokerCheck branch record. This is the classic bank/BD arrang … | not confirmed. Cetera Investment Services commonly uses Pershing, but no disclosure was found for this program and the protocol forbids guessing a cle … | High |
 | **First Community Bank (1st Community Bank)** | HOME | 1 | Yes | Bank-branded investment services program as presented on fcbot.com/investments. The registered entity is Ameriprise, not the bank. | Ameriprise Financial Services, LLC, delivered through AMERIPRISE FINANCIAL INSTITUTIONS GROUP — explicitly described as a channel of Ameriprise Financial Services, LLC. This is the likely le … | not confirmed. Ameriprise self-clears through American Enterprise Investment Services, but that was not confirmed for this program. | High on program and BD; Medium on independence |
 | **TrustTexas Bank, SSB** | HOME | 1 | UNCLEAR, LEANING YES — and this is deliberatel … | not found | not found | not confirmed | Low |
+| **Alice State Bank & Trust Co.** | HOME | 0 | UNCLEAR — bucket (c). THE NAME CARRIES 'TRUST' … | not found | not found | not confirmed | Low |
 | **Charter Bank (charterbankcc.com)** | HOME | 0 | No wealth program found — bucket (b). A blank  … | none found | none found | n/a | Low |
 | **Cullen/Frost Bankers, Inc. — Frost Bank** | San Antonio Metro & Hi | 0 | Yes | Frost Wealth Advisors (bank division). Related entities: Frost Brokerage Services, Inc. (BD); Frost Investment Services, LLC (RIA); Frost Investment Advisors, LLC (asset  … | Frost Brokerage Services, Inc. (CRD 17465) — captive in-house BD — member FINRA/SIPC, wholly owned by Frost Bank, formed in Texas 03/21/1986. An INTRODUCING broker-dealer. Not a marketing br … | National Financial Services LLC (Fidelity) — CONFIRMED. Frost's own brokerage fee schedule and Reg BI disclosure state customer accounts are carried b … | High — program, BD and clearing all confirmed from primary Frost disclosure docu … |
 | **Hilltop Holdings Inc. — PlainsCapital Bank / HilltopSecurities / Momentum Indepe …** | Outside the territory | 0 | Yes | HilltopSecurities Wealth Management / Private Client Group (employee advisors); Momentum Independent Network, Inc. (independent channel — RENAMED from 'HilltopSecurities  … | Hilltop Securities Inc. (FINRA CRD 6220) — a real registered BD, SEC/FINRA registered, NYSE member. Momentum Independent Network, Inc. is a separate registered BD AND RIA, wholly owned by Hi … | SELF-CLEARING — confirmed. HilltopSecurities also provides correspondent clearing and custody to other broker-dealers and RIAs nationally. A Hilltop/M … | High on entity, BD and clearing. Roster currency CORRECTED in pass 2 — the five  … |
@@ -253,7 +266,7 @@ A bank is listed under every region where it operates. `Home` is the region of i
 
 *Everything outside the territory, retained but DE-PRIORITISED: Austin and Central Texas, Dallas-Fort Worth and the Metroplex, El Paso, Lubbock, Amarillo and the Panhandle, Midland-Odessa and the Permian Basin, Abilene, San Angelo, Waco, Wichita Falls, and East Texas (Tyler, Longview, Henderson, Jacksonville). Kept in the file because many of these banks also operate inside the territory, and because the platform and consolidation intelligence still applies.*
 
-**59 institutions, 104 named people in this region.**
+**62 institutions, 104 named people in this region.**
 
 | Bank | Home | People here | Offering | Program | Broker-dealer | Clearing & custody | Confidence |
 |---|---|---|---|---|---|---|---|
@@ -294,6 +307,7 @@ A bank is listed under every region where it operates. `Home` is the region of i
 | **Cadence Bank — ACQUIRED BY HUNTINGTON (incl. Linscomb Wealth, Houston)** | Houston Metro & Southe | 0 | Yes — via Linscomb Wealth and the legacy Caden … | Linscomb Wealth (f/k/a Linscomb & Williams) — a Houston-headquartered Barron's Top-100 RIA, a Cadence subsidiary since 2012, rebranded January 2024. Texas offices: Housto … | not confirmed post-merger. PLATFORM CONSEQUENCE: Huntington selected AMERIPRISE FINANCIAL SERVICES, LLC as its new retail investment program provider on 4 February 2026, moving Huntington Fi … | not confirmed. If the Ameriprise/AFIG transition governs, clearing would be American Enterprise Investment Services — but that was NOT confirmed for t … | High on the consolidation timeline; Low on the current platform and ownership of … |
 | **Central National Bank, Waco — UNRESOLVED NAME COLLISION** | HOME | 0 | Unclear — DO NOT RECORD AS CONFIRMED. Bucket ( … | Possibly 'Central National Bank Wealth Management' — a LinkedIn company page (cnbwealthmanagement) exists, but WHICH CHARTER OWNS IT is unestablished. | not found. Infinex, Investment Centers of America and Cetera were each tested explicitly and none was confirmed. | not confirmed | Low — for a call, not for a list |
 | **Community National Bank (Midland)** | HOME | 0 | Yes — the bank lists wealth management alongsi … | not found | not found | not confirmed | Medium on the offering (listed as a service line but no dedicated wealth page wa … |
+| **First State Bank of Uvalde** | The Mexico Border | 0 | Yes — a genuine bank trust department, and it  … | First State Bank of Uvalde TRUST DEPARTMENT. The services the bank's own trust page lists are: trust accounts, INDEPENDENT EXECUTOR services, SELF-DIRECTED IRAs, FARM AND … | None found. This reads as bank fiduciary powers, not a brokerage program. No 'securities offered through...' disclosure and no third-party BD surfaced. Not proven absent. | not confirmed | High on the trust department; Medium on the roster |
 | **FirstCapital Bank of Texas — ACQUIRED BY PROSPERITY, DO NOT PROSPECT AS INDEPEND …** | HOME | 0 | Was Yes — estate settlement, investment manage … | not found | not found | not confirmed | High on the merger; Low on platform disposition |
 | **Golden Bank, N.A.** | Houston Metro & Southe | 0 | No wealth program found — bucket (b). A blank  … | none found | none found | n/a | Medium |
 | **Guaranty Bank & Trust, N.A. — ACQUIRED BY GLACIER** | HOME | 0 | Yes (pre-close) — the bank marketed Wealth Man … | not found | not found | not confirmed | High on the deal; Low on the wealth platform |
@@ -306,12 +320,14 @@ A bank is listed under every region where it operates. `Home` is the region of i
 | **Pioneer Bank, SSB** | HOME | 0 | No program found — bucket (b) | not found | not found — none found | not confirmed | Medium that no BANK program exists — one search only |
 | **R Bank** | HOME | 0 | No program found — bucket (b) | not found | not found — none found | not confirmed | Medium |
 | **Security Bank (Midland/Odessa) — DEFUNCT SINCE 2020. The Midland-Odessa entity i …** | HOME | 0 | No — the charter no longer exists | not found | not found | not confirmed | High — resolved against a state regulator's own register |
-| **Stellar Bank (Allegiance Bank + CommunityBank of Texas) — ACQUIRED BY PROSPERITY** | Houston Metro & Southe | 0 | Could not verify — bucket (c) | not found | not found | not confirmed | High on the deals; Low/none on any wealth offering |
+| **Stellar Bank (Allegiance Bank + CommunityBank of Texas) — ACQUIRED BY PROSPERITY** | Houston Metro & Southe | 0 | YES — PASS 4 MOVES THIS OUT OF BUCKET (c). Ste … | Not separately branded in any source reached — presented as part of Stellar Bank's service set | not found | not confirmed | Medium on the program; nil on the roster |
 | **Texas Partners Bank (The Bank of San Antonio / The Bank of Austin / Texas Hill C …** | San Antonio Metro & Hi | 0 | Yes — confirmed | TPB Wealth Advisors, LLC (SEC-registered investment adviser) + bank-side Private Banking | NONE FOUND. No FINRA broker-dealer is named for Texas Partners Bank or TPB Wealth Advisors in any source reached. Bucket (c) — could not verify either way — but the absence across the RIA's  … | not confirmed | High on the program, the entity lineage and firm number 150508; Medium on indivi … |
 | **Texas Security Bank** | HOME | 0 | No — bucket (b), no wealth program found | none found | not found | not confirmed | Medium — absence of evidence across two targeted searches, which is 'not found', … |
 | **TFNB — Your Bank for Life (The First National Bank of McGregor)** | HOME | 0 | Unclear, leaning Yes on trust — bucket (c) | None branded. Directory sourcing states TFNB offers 'a full range of business and consumer loan/deposit products and services, TRUST SERVICES' and that it is an SBA prefe … | not found | not confirmed | Low-Medium |
+| **The Bank & Trust (Del Rio) — Westex Investment Services** | The Mexico Border | 0 | Yes — a bank trust and investment operation wi … | WESTEX INVESTMENT SERVICES, a DIVISION of The Bank & Trust (westexinvestments.com). Financial planning, retirement planning, investments and wealth management. Investment … | Raymond James Financial Services, Inc. (RJFS). The bank's own language: 'The financial advisors at Westex Investment Services, a division of The Bank & Trust, offer financial products, servi … | Raymond James & Associates self-clears (RJ&A). Not separately confirmed for this program. | High on the bank, the program and the Raymond James relationship; Low on the ros … |
 | **Third Coast Bank, SSB (Third Coast Bancshares, NASDAQ: TCBX)** | Houston Metro & Southe | 0 | Yes | Third Coast Advisors | Ameriprise Financial Services, LLC. The program launched in SEPTEMBER 2021 as a bank investment program 'in partnership with Ameriprise Financial'. Third Coast Advisors is a BRAND on the Ame … | not confirmed — Ameriprise self-clears via American Enterprise Investment Services, but no source states it for this program. | High on program existence and the Ameriprise relationship; Medium on it still be … |
 | **Trustmark National Bank (Trustmark Corporation)** | Houston Metro & Southe | 0 | Yes | Trustmark Wealth Management (bank/trust side, including Private Banking as a division); TRUSTMARK FINANCIAL SERVICES (the investment/brokerage program brand) | RAYMOND JAMES FINANCIAL SERVICES, INC. through Raymond James' FINANCIAL INSTITUTIONS DIVISION, marketed as Trustmark Financial Services, with advisory through Raymond James Financial Service … | Raymond James self-clears — Raymond James & Associates provides clearing for Raymond James Financial Services. No third-party clearing arrangement fou … | High on the BD change, Houston footprint and addresses; High on clearing |
+| **TrustTexas Bank, SSB** | Coastal Bend & Golden  | 0 | UNCLEAR, LEANING YES — and this is deliberatel … | not found | not found | not confirmed | Low |
 | **Vantage Bank Texas** | San Antonio Metro & Hi | 0 | Yes — PASS 3 MOVED THIS OUT OF BUCKET (c). Van … | No distinct brand found — presented simply as Vantage Bank wealth management / private banking | None found. No RIA and no broker-dealer is disclosed anywhere reachable. Do not assert one. | not confirmed | Medium — the program is confirmed off the bank's own site, but ZERO named wealth … |
 | **Veritex Holdings, Inc. / Veritex Community Bank — ACQUIRED BY HUNTINGTON** | HOME | 0 | No / Unclear — leaning No | not found | not found | not confirmed | High on the consolidation; Low on wealth |
 | **Vista Bank — ACQUIRED BY NATIONAL BANK HOLDINGS, CLOSED 7 JAN 2026** | HOME | 0 | Unclear — bucket (c) | None identified. Vista's own pages reference 'investments' only in the general banking-services sense (cash management, liquidity planning, investment strategies at the c … | not found | not confirmed | High on the acquisition and its timing; Low on whether a wealth arm existed pre- … |
@@ -321,7 +337,7 @@ A bank is listed under every region where it operates. `Home` is the region of i
 
 *People and institutions whose office city could not be pinned down, or whose role spans several regions at once. These are NOT force-assigned, because guessing a city would be worse than leaving it blank. To work them, start from the bank's own home region — most of the Frost entries here are advisors whose IAPD records gave a CRD but no city, and the Texas Regional Bank entries will sit in Harlingen, McAllen, Houston or San Antonio.*
 
-**2 institutions, 27 named people in this region.**
+**2 institutions, 29 named people in this region.**
 
 | Bank | Home | People here | Offering | Program | Broker-dealer | Clearing & custody | Confidence |
 |---|---|---|---|---|---|---|---|
@@ -364,6 +380,8 @@ Broker-dealer and clearing firm are different things and are never merged in thi
 | **TPB Wealth Advisors — BANK-OWNED RIA, NO BD FOUND** | TPB Wealth Advisors, LLC — SEC/IARD firm 150508. A REAL registered entity owned by Texas Partners Bank, not a brand on someone else's platform. | not confirmed | One continuous RIA under three names, which is why earlier passes could not find it: 'The Bank of San Antonio Wealth Advisors, LLC' -> 'Aspireon Wealth Advisors, LLC' (March 2020) -> 'TPB Wealth Advisors, LLC'. Operating since 2009; became a bank subsidiary in 2016 via the acquisition of San Antonio Capital & Trust. NO BROKER-DEALER IS NAMED ANYWHERE — the absence across its own disclosure pages leans RIA-only, but that is a lean, not a finding. Serves San Antonio, Austin and the Hill Country under three bank brands. |
 | **Ameriprise Financial Institutions Group — RBFCU (Live Oak / San Antonio)** | Ameriprise Financial Services, LLC. Any 'RBFCU Investments' branding is a marketing brand on Ameriprise's BD, not a credit-union-owned BD. | Ameriprise SELF-CLEARS. Not separately confirmed for this program — and a self-clearing BD is never written into the clearing column as a third party. | RBFCU moved its investment program FROM CUNA MUTUAL (CBSI) TO AMERIPRISE, completing by the end of 2021. At 950,000+ members and 61 Texas branches this is a material San Antonio wealth footprint. No advisors are published. THIS IS THE FOURTH TEXAS INSTITUTION IN THIS TABLE ON AMERIPRISE'S BANK CHANNEL, alongside Third Coast, First Community Bank and Happy State Bank — Ameriprise's institutional channel is quietly one of the biggest platforms in your territory. |
 | **Raymond James — WOODFOREST NATIONAL BANK RUNS TWO CHANNELS AT ONCE** | Raymond James Financial Services, Inc. (RJFS, independent channel) AND Raymond James FID / corporate RIA — two different registrations at one bank. | SELF-CLEARING (Raymond James & Associates). | A STRUCTURAL FINDING WORTH KNOWING BEFORE YOU WALK IN: WOODFOREST WEALTH STRATEGIES (woodforestwealth.com) is RJFS INDEPENDENT — its own disclosure says 'Raymond James is not affiliated with Woodforest National Bank or Woodforest Wealth Strategies'. WOODFOREST ADVISORS (raymondjames.com/woodforestadvisors) is RJ FID CORPORATE RIA with the advisor sitting AT the bank, 1330 Lake Robbins Dr Ste 150, The Woodlands. Wentzler, Decker and Busby sit on the first; Ronald Folwell sits on the second, having arrived August 2024 with ~$197 million from United Capital. Do not treat them as one team. |
+| **Raymond James Financial Services — THE BANK & TRUST (Del Rio) via WESTEX INVESTM …** | Raymond James Financial Services, Inc. 'Westex Investment Services' is a DIVISION OF THE BANK & TRUST operating on RJFS — a bank division on a third-p … | SELF-CLEARING (Raymond James & Associates). Not separately confirmed for this program. | NEW IN PASS 4, AND IT PUTS RAYMOND JAMES ON THE WESTERN BORDER. Four investment offices — San Angelo, Del Rio, Uvalde and Boerne — attached to a 1910 Del Rio bank held by Westex Bancorp. Note the structural difference from the other bank programs in this table: Westex is described as a DIVISION OF THE BANK, which sits between IBC's branch-employee-rep model and Lone Star National's arm's-length referral arrangement. RAYMOND JAMES NOW APPEARS IN THIS FILE AT: Woodforest (two separate channels), Trustmark, Southside, City Bank, Lubbock National, Prosperity, Amarillo National and now The Bank & Trust. It is the most widely used bank platform in the dataset after LPL. |
+| **First State Bank of Uvalde — IN-HOUSE BANK TRUST, NO BD FOUND** | First State Bank of Uvalde itself (bank fiduciary powers). No separate registered entity and no third-party broker-dealer surfaced. | n/a — a bank trust department does not clear; assets sit in fiduciary accounts at the bank | The third pure bank-trust model on the border, alongside Rio Bank and Falcon's trust arm. Distinctive service line: FARM AND RANCH TRUSTS, plus independent executor services and self-directed IRAs. The bank runs a trust-specific mobile app built on a third-party wealth platform, which indicates real trust accounting infrastructure rather than a nameplate department. |
 
 **Sources for the platform table**
 
@@ -397,6 +415,8 @@ Broker-dealer and clearing firm are different things and are never merged in thi
 - TPB Wealth Advisors — BANK-OWNED RIA, NO BD FOUND: https://adviserinfo.sec.gov/firm/summary/150508 ; https://reports.adviserinfo.sec.gov/crs/crs_150508.pdf ; https://predictiveops.com/advisers/150508
 - Ameriprise Financial Institutions Group — RBFCU (Live Oak / San Antonio): https://www.businesswire.com/news/home/20210609005082/en
 - Raymond James — WOODFOREST NATIONAL BANK RUNS TWO CHANNELS AT ONCE: https://www.woodforestwealth.com/our-team ; https://www.raymondjames.com/woodforestadvisors/about-us ; https://www.raymondjames.com/advisor-opportunities/press-releases/2024/08/27/raymond-james-fid-welcomes-advisor-managing-$197-million-to-woodforest-national-bank
+- Raymond James Financial Services — THE BANK & TRUST (Del Rio) via WESTEX INVESTMENT SERVICES: https://www.westexinvestments.com/ ; https://www.westexinvestments.com/del-rio ; https://www.westexinvestments.com/boerne
+- First State Bank of Uvalde — IN-HOUSE BANK TRUST, NO BD FOUND: https://www.fsbuvalde.bank/personal-banking/trust-services ; https://play.google.com/store/apps/details?id=com.fis.wealth.fsbu.trust
 
 ## Texas consolidation register
 
@@ -586,16 +606,30 @@ A trap worth stating on its own: **Prosperity runs acquired brands in-market lon
 - **Wealth implication:** PASS 3 RE-STATES THIS BECAUSE THE CLOCK IS THE POINT. Prosperity has NOT published what happens to American Bank's trust and wealth team, which added in June 2001 and runs as the 'South Texas Wealth Team'. The americanbank.com wealth pages were still live and separately branded during this research and COME DOWN AT INTEGRATION. Anything you want off those pages — including the unnamed wealth head — should be taken now. Stephen/Steven Raffaele became Prosperity's South Texas and San Antonio Area Chairman; Ben Wallace became South Texas Senior Chairman; Patt Wallace and Raffaele joined the Prosperity board.
 - **Sources:** https://www.prnewswire.com/news-releases/prosperity-bancshares-inc-completes-merger-with-american-bank-holding-corporation-302651785.html ; https://www.americanbank.com/wealth/resources/meet-our-wealth-advisors
 
+### Zapata National Bank (Zapata)
+
+- **Event:** Being acquired by TEXAS NATIONAL BANK (Mercedes / Edinburg)
+- **Status:** ANNOUNCED MAY 2026; completion not confirmed in the sources reached
+- **Wealth implication:** Takes McAllen-area Texas National Bank into STARR AND ZAPATA COUNTIES. Neither bank has a confirmed wealth program, so the wealth implication is prospective rather than actual — but a border bank actively acquiring is where trust capability tends to appear. Close Zapata National as a standalone target and work Texas National Bank.
+- **Sources:** https://texasnational.com/tnb-blog/texas-national-bank-to-acquire-zapata-national-bank ; https://www.rgvbusinessjournal.com/news/17/05/2026/texas-national-bank-is-buying-a-small-bank-along-the-u-s-mexico-border/
+
+### Stellar Bank (Houston) — INTEGRATION DATE NOW PUBLISHED
+
+- **Event:** Merged into Prosperity Bancshares
+- **Status:** STELLAR BANK CLOSED 1 JULY 2026; OPERATIONAL INTEGRATION MARCH 2027
+- **Wealth implication:** The date matters for timing. Stellar locations keep the Stellar name until MARCH 2027, so a Stellar-branded retail brokerage and trust-and-wealth operation still exists as a distinct thing to call for roughly six more months. After that it is Prosperity, whose wealth head is A. Dean Theiss.
+- **Sources:** https://www.dob.texas.gov/entity-search/entity-detail?bid=9431&eid=1&bn=25 ; https://www.businesswire.com/news/home/20260422864794/en/Prosperity-Bancshares-and-Stellar-Bancorp-Announce-Receipt-of-Regulatory-Approvals-for-Prosperitys-Pending-Acquisition-of-Stellar
+
 ## The three buckets, kept separate
 
 A blank means not found. It never means confirmed absent.
 
-### Programs confirmed WITH named people (45 institutions)
+### Programs confirmed WITH named people (47 institutions)
 
 **1. Houston Metro & Southeast Texas**
 
 - **Prosperity Bancshares, Inc. — Prosperity Bank** — 10 named people.
-- **Cadence Bank — ACQUIRED BY HUNTINGTON (incl. Linscomb Wealth, Houston)** — 8 named people.
+- **Cadence Bank — ACQUIRED BY HUNTINGTON (incl. Linscomb Wealth, Houston)** — 15 named people.
 - **Woodforest National Bank** — 4 named people.
 - **Third Coast Bank, SSB (Third Coast Bancshares, NASDAQ: TCBX)** — 5 named people.
 - **Trustmark National Bank (Trustmark Corporation)** — 5 named people.
@@ -617,6 +651,8 @@ A blank means not found. It never means confirmed absent.
 - **Lone Star National Bank** — 1 named person.
 - **Rio Bank** — 2 named people.
 - **Falcon International Bank** — 3 named people.
+- **The Bank & Trust (Del Rio) — Westex Investment Services** — 2 named people.
+- **First State Bank of Uvalde** — 4 named people.
 
 **4. Coastal Bend & Golden Crescent (between them)**
 
@@ -652,11 +688,12 @@ A blank means not found. It never means confirmed absent.
 - **Regions Bank (Regions Financial Corporation)** — 8 named people.
 - **First Horizon Bank (First Horizon Corporation)** — 3 named people.
 
-### (a) Program confirmed, NO advisor names found (7 institutions)
+### (a) Program confirmed, NO advisor names found (8 institutions)
 
 These programs are real and verified; the rosters were not retrieved. This is where the next pass pays best.
 
 - **Guaranty Bank & Trust, N.A. — ACQUIRED BY GLACIER** *(Outside the territory)* — NO LONGER INDEPENDENT. Glacier Bancorp, Inc. (Montana) completed the acquisition of Guaranty Bancshares, Inc. on 1 OCTOBER 2025 — preliminary value ~$560.0M, 11,375,648 Glacier shares issued. It now operates as 'Guaranty Bank & Trust, Division of Glacier Bank'. This was Glacier's entry into Texas and its 27th bank acquisition since 2000. Whether the wealth platform moved, survived, or was folded into a Glacier program is NOT FOUND.
+- **Stellar Bank (Allegiance Bank + CommunityBank of Texas) — ACQUIRED BY PROSPERITY** *(Houston Metro & Southeast Texas)* — NO LONGER INDEPENDENT — TWICE OVER. Allegiance Bank and CommunityBank of Texas, N.A. merged as equals in 2023 to form Stellar Bank. Prosperity Bancshares then completed its merger with Stellar Bancorp on 1 JULY 2026 (0.3803 Prosperity shares plus $11.36 cash per Stellar share). Stellar locations continue under the STELLAR BANK NAME UNTIL OPERATIONAL INTEGRATION SCHEDULED FOR MARCH 2027, so the brand is still live in market and will mislead anyone checking  …
 - **Lubbock National Bank** *(Outside the territory)* — Bucket (a): program confirmed, no names sourced — the team roster page was not reachable within budget. NOTABLE CLUSTER: City Bank and Lubbock National Bank BOTH run Raymond James Financial Institutions Division programs in the same city. Registered branch office: 50th Street Branch, 4811 50th Street, Lubbock, TX 79414, (806) 761-4160 / (806) 607-4277. *** PASS 2 CONTRADICTION — FLAG FOR A CALL. *** Wikipedia's Amarillo National Bank article states that AN …
 - **Community National Bank (Midland)** *(Outside the territory)* — NAME COLLISION — FLAGGED, DO NOT MERGE. This bank is NOT the same institution as COMMUNITY NATIONAL BANK & TRUST OF TEXAS, HQ CORSICANA, TX, which runs a trust and investment department managing $255M+ and granting $635K+/yr to nonprofits, with a Mineral Wells branch. Two different Texas banks with confusingly similar names. THE $255M TRUST DEPARTMENT BELONGS TO THE CORSICANA BANK, NOT THE MIDLAND ONE. Corsicana is also outside this territory. Disambiguati …
 - **American National Bank of Texas (ANBTX)** *(Outside the territory)* — Independent; no acquisition found; a 150-year-old bank. BUCKET (a): program and BD are nailed down but NO ADVISOR NAMES WERE FOUND. The bank runs a 'Connect with ANBTX Financial Advisors' page and a targeted search of it returned no individual names. Six advisors were on the platform as of 2022. Because the roster page exists and is fetch-blocked, THIS IS THE HIGHEST-YIELD, LOWEST-EFFORT GAP from this pass — the Richardson wealth office and the advisor pag …
@@ -664,7 +701,7 @@ These programs are real and verified; the rosters were not retrieved. This is wh
 - **b1BANK (Business First Bank / Business First Bancshares, Nasdaq: BFST)** *(Houston Metro & Southeast Texas)* — *** NO TEXAS ADVISOR NAMES FOUND, AND THAT MAY BE THE ACTUAL ANSWER. *** The wealth program is small — three advisors total across the whole franchise per the July 2026 Raymond James release — and everything sourced points to LOUISIANA AND MISSISSIPPI, not Texas. Given a three-advisor program spanning LA/MS/TX, THE BASE CASE IS THAT b1BANK HAS NO TEXAS-RESIDENT WEALTH ADVISOR and that Texas clients are served from Baton Rouge or Ridgeland. Confirm on a cal …
 - **Randolph-Brooks Federal Credit Union (RBFCU)** *(San Antonio Metro & Hill Country)* — CREDIT UNION, NOT A BANK — included because at 950,000+ members and 61 Texas branches it is a material San Antonio wealth footprint that any territory plan has to account for. NO ADVISORS NAMED. Bucket (a): program confirmed, advisor names not found. RBFCU does not publish its Ameriprise advisor roster.
 
-### (b) No wealth program found (13 institutions)
+### (b) No wealth program found (14 institutions)
 
 - **Veritex Holdings, Inc. / Veritex Community Bank — ACQUIRED BY HUNTINGTON** *(Outside the territory)* — CONSOLIDATION CONFIRMED, HIGH CONFIDENCE. Huntington Bancshares COMPLETED its acquisition of Veritex Holdings on OCTOBER 20, 2025 — under a year ago. Veritex Community Bank merged into The Huntington National Bank. The TEXAS DEPARTMENT OF BANKING entity record carries a closed date of 10/20/2025, which is about as clean a confirmation as exists. All-stock, ~$1.9 billion. Customer conversion to Huntington systems was planned for Q1 2026. C. Malcolm Holland  …
 - **Inwood National Bank** *(Outside the territory)* — BUCKET (b): NO WEALTH PROGRAM FOUND. Two independent search angles (site-navigation level and LinkedIn-personnel level) surfaced NO trust department, wealth division, investment services brand, or any employee with a trust/wealth/advisor title. Site navigation resolves to Personal Banking, Personal Checking/Savings/CDs, Other Personal Services, Business Banking and Treasury Services — there is no wealth node. The bank self-describes as focused on wholesale …
@@ -679,11 +716,11 @@ These programs are real and verified; the rosters were not retrieved. This is wh
 - **Southwestern National Bank** *(Houston Metro & Southeast Texas)* — Commercial banking: deposits, loans, trade finance, online banking, cash management. No wealth program surfaced. NOT PROVEN ABSENT.
 - **Texas Champion Bank** *(Coastal Bend & Golden Crescent (between them))* — Primary business focus is commercial lending. No trust, investment or wealth page surfaced. Independent. NOT PROVEN ABSENT.
 - **Charter Bank (charterbankcc.com)** *(Coastal Bend & Golden Crescent (between them))* — THIN SOURCING — the bank's own site was not reachable through search results at all, so this is a weak not-found rather than a searched-and-empty result. Confidence Low.
+- **Zapata National Bank — BEING ACQUIRED BY TEXAS NATIONAL BANK** *(The Mexico Border)* — Recorded because pass 3 listed Zapata National Bank as a border institution never reached. It has now been reached and the answer is: a full-service independent community bank offering commercial, real estate and personal banking, with NO trust or investment line surfacing, AND IT IS BEING ACQUIRED. Texas National Bank (Mercedes/Edinburg) is buying it to expand into Starr and Zapata counties. CLOSE THIS AS A STANDALONE TARGET and work it through Texas Nati …
 
-### (c) Could not verify either way (11 entries)
+### (c) Could not verify either way (12 entries)
 
 - **Independent Bank Group, Inc. / Independent Financial — ACQUIRED BY SOUTHSTATE** *(Outside the territory)* — CONSOLIDATION CONFIRMED, HIGH CONFIDENCE. SouthState Corporation COMPLETED its acquisition of Independent Bank Group on JANUARY 1, 2025. Independent Bank merged into SouthState Bank, N.A. Deal ~$2 billion all-stock, taking SouthState to roughly $65 billion in assets and 47th largest bank in the US,  …
-- **Stellar Bank (Allegiance Bank + CommunityBank of Texas) — ACQUIRED BY PROSPERITY** *(Houston Metro & Southeast Texas)* — NO LONGER INDEPENDENT — TWICE OVER. Allegiance Bank and CommunityBank of Texas, N.A. merged as equals in 2023 to form Stellar Bank. Prosperity Bancshares then completed its merger with Stellar Bancorp on 1 JULY 2026 (0.3803 Prosperity shares plus $11.36 cash per Stellar share). Stellar locations con …
 - **STILL NOT RESEARCHED — remaining zero-search institutions (bucket c)** *(Unassigned — city not found or multi-region role)* — This register SHRANK SUBSTANTIALLY in pass 2. Of the institutions that had received zero searches, the following have now been researched and have their own tabs: Woodforest, Vista, Third Coast, Texas Security Bank, Regions, Trustmark, BankPlus, b1BANK, First Horizon, North Dallas Bank & Trust, Amer …
 - **Central National Bank, Waco — UNRESOLVED NAME COLLISION** *(Outside the territory)* — *** THE COLLISION, STATED PLAINLY. *** Every search that returned wealth or trust language for 'Central National Bank' resolved it to the domain CENTRALNATIONAL.COM, and one result set describes that institution as serving 'the Midwest'. That is consistent with Central National Bank of Junction City …
 - **TFNB — Your Bank for Life (The First National Bank of McGregor)** *(Outside the territory)* — Trust services are asserted by a chamber/IBAT directory rather than by a dedicated bank page. Worth one phone call; do NOT list as a confirmed wealth program yet. Independent; no acquisition found. WACO COVERAGE NOTE: Extraco Banks, a Waco-headquartered bank of meaningful size, was NEVER REACHED and …
@@ -693,6 +730,18 @@ These programs are real and verified; the rosters were not retrieved. This is wh
 - **Security Service Federal Credit Union (SSFCU)** *(San Antonio Metro & Hill Country)* — No investment-services program, broker-dealer relationship or CUSO arrangement surfaced for SSFCU. That is a NOT-FOUND, not a confirmed absence. INDUSTRY CONTEXT WORTH ONE CALL, RECORDED AS AN UNVERIFIED HYPOTHESIS AND NOT AS FACT: the parent of CUSO FINANCIAL SERVICES was acquired by LPL FINANCIAL, …
 - **Texas National Bank (Mercedes / Edinburg)** *(The Mexico Border)* — The bank publishes a 'Meet Our Lenders' page and a branch network but NO trust department, wealth management or investment services page was found. The officers who surfaced are all COMMERCIAL LENDING and are recorded here for completeness only — THEY ARE LENDERS, NOT WEALTH CONTACTS: Thelma Garcia  …
 - **Origin Bank (Houston operations)** *(Houston Metro & Southeast Texas)* — *** NAME-COLLISION WARNING — THIS IS THE TRAP ON THIS NAME. *** An SEC IAPD firm record for 'ORIGIN WEALTH ADVISERS' (firm 171946) exists, BUT NO AFFILIATION WITH ORIGIN BANCORP OR ORIGIN BANK WAS CONFIRMED — one source describes it as an independent fee-only RIA and another as an Exempt Reporting A …
+- **Alice State Bank & Trust Co.** *(Coastal Bend & Golden Crescent (between them))* — NEW LEAD FROM PASS 4, AND DELIBERATELY NOT UPGRADED. A 120-year-old bank in Alice with 'Trust' in its legal name is exactly the profile this territory predicts — Jim Wells County ranch and mineral money — but a trust department name in a charter is NOT a trust department. No trust page, no wealth pa …
+- **River Oaks Trust Company / The Bank of River Oaks (Houston)** *(Houston Metro & Southeast Texas)* — PASS 3 FLAGGED RIVER OAKS TRUST COMPANY AS A GENUINE GAP AND PASS 4 CONFIRMS IT IS STILL ONE. A Houston-domiciled STATE TRUST COMPANY — not a bank — sitting in the wealthiest ZIP codes in the city, with no officers, no assets and no program detail recoverable. THE BANK OF RIVER OAKS is a separate Te …
+
+## 4. BRAND vs REGISTERED ENTITY
+
+Most Texas community-bank wealth names are MARKETING BRANDS sitting on somebody else's broker-dealer, and the bank publishes a disclosure saying so. 'AB Financial Services' is LPL. 'IBC Investment Services' is LPL. 'LSNB Investment Services' is LPL. 'Southside Investment Services' is Raymond James. 'City Bank Wealth Management' and 'Lubbock National Bank Investment Services' are Raymond James. 'ProsperityPrivate' is Raymond James. 'Woodforest Wealth' is Raymond James. 'Third Coast Advisors' and 'ANBTX Wealth Management' are Ameriprise.
+
+OTHERS ARE GENUINE REGISTERED ENTITIES, and the second pass found several more: Frost Brokerage Services; TCBI Securities; BOK Financial Securities; Hilltop Securities; TRB Wealth Management, LLC; TBT SECURITIES, L.C. (CRD 31301, the bank-owned BD of Texas Bank and Trust); BROADWAY WEALTH SOLUTIONS, INC. (SEC RIA 291753); 1900 WEALTH MANAGEMENT, LLC (SEC RIA 175346, wholly owned by Jefferson Bank); and TPB WEALTH ADVISORS, LLC (Texas Partners Bank).
+
+A THIRD MODEL EXISTS AND IS COMMON IN TEXAS: no broker-dealer anywhere in the structure, just bank fiduciary powers. North Dallas Bank & Trust is the clearest case — it FILES A 13F, evidencing investment discretion over $100M+ in its own name. Community Bank & Trust Waco, Texas Bank San Angelo, American National Bank & Trust Wichita Falls, Herring, WestStar and Rio Bank all read the same way.
+
+One bank still carries a SECOND brand layer that is unresolved: VeraBank markets 'CFG Financial Group' over Cetera Investment Services.
 
 ## 5. CONTESTED AND UNRESOLVED ITEMS — recorded, deliberately not resolved
 
@@ -732,35 +781,37 @@ OUT-OF-STATE DISCIPLINE HELD: Robert Hendrix (Trustmark trust officer, no Texas 
 
 ## 7. WHAT TO DO FIRST — RE-RANKED FOR THE SOUTH TEXAS TERRITORY AFTER PASS 3
 
-This list is re-ranked from pass 2. Several of the old top items are now DONE — IBC went from one name to nine, Texas Partners Bank from zero to thirteen, Woodforest from four partials to four full names. What remains is ordered by yield per unit of effort INSIDE your four territories. Items outside the territory are pushed to the bottom and marked.
+Re-ranked again after pass 4. Items pass 4 closed or downgraded have been removed; items it opened have been added.
 
-1. AMERICAN BANK'S UNNAMED WEALTH HEAD (Corpus Christi) — AND THIS ONE HAS A DEADLINE. Ten query framings across three passes have failed because the name and the bio sit in different DOM nodes and only the bio indexes. OPEN americanbank.com/wealth/resources/meet-our-wealth-advisors IN A BROWSER; it is a 30-second job. The wealth pages come down at the SEPTEMBER 2026 Prosperity integration, which is now. The fingerprint is on the row: joined 2010 to head the Wealth Team, CPA AND CTFA, 42+ years, Portfolio Manager of the South Texas Wealth Team, Richard King High School and Texas A&M-Corpus Christi, boards of the South Texas Council BSA, the Texas State Aquarium and the Corpus Christi Symphony Orchestra. There is a SECOND unnamed person on the same page, the senior portfolio manager who CHAIRS the Investment Policy Committee.
+1. THE AMERICAN BANK WEALTH HEAD — UNCHANGED AT NUMBER ONE, BUT STOP SEARCHING FOR IT. Twelve framings have failed. It is now a two-minute browser task with a deadline: americanbank.com/wealth/resources/meet-our-wealth-advisors (comes down at the September 2026 Prosperity integration) or texasstateaquarium.org/visit/about/leadership/ (the full trustee list below the officers, no deadline). Fingerprint on the row; there is a SECOND unnamed senior portfolio manager on the same bank page.
 
-2. LINSCOMB WEALTH'S OTHER ~44 ADVISORS (Houston) — the single largest roster gap in the dataset. 52 advisors, 8 named. The /our-team/ index is a JS-rendered grid that search snippets do not expand. One fetch-capable pass closes it and it is the densest concentration of advisors in your Houston territory.
+2. THE FOUR WESTEX INVESTMENT SERVICES OFFICE PAGES — westexinvestments.com/del-rio, /uvalde, /boerne, /san-angelo. Brand new, first-party, four offices, and only two advisors named so far. THIS IS THE HIGHEST-YIELD NEW TARGET IN THE FILE and it covers three towns that had nothing in them a day ago.
 
-3. THE PHONE CALLS THAT BEAT ANY SEARCH. These four programs are confirmed, staffed and effectively nameless, and no amount of further searching will change that: PNC HOUSTON, 2200 Post Oak Blvd — call 713-966-2383. BOK FINANCIAL / BANK OF TEXAS HOUSTON, 3009 Post Oak Ste 1300 — private banking 713-357-2256, fiduciary 713-357-2257, investments 713-260-5637. LONE STAR NATIONAL BANK's McAllen trust seat — trust 956-574-7344, investments 956-655-1722. VANTAGE BANK's two San Antonio officers whose titles and direct lines rendered but whose names did not — 210-408-5732 and 210-408-5728.
+3. LINSCOMB WEALTH'S REMAINING ADVISORS — 15 named now. Against the 24-representative figure that is most of the firm; against the 52-advisor figure it is under a third. Settle the headcount first, then decide whether this is still a big gap. The /our-team/ JS grid remains the blocker.
 
-4. BROADWAY BANK'S OIL-AND-GAS/MINERAL AND REAL-ESTATE SPECIALISTS (San Antonio) — the most interesting unnamed bench in Texas. Broadway publishes the existence of these specialist seats on every wealth team and never publishes the people. Ask Christian Escamilla directly; he owns the unit and the bench is small.
+4. THE PHONE CALLS THAT BEAT ANY SEARCH, NOW WITH MORE NUMBERS. PNC Houston 713-966-2383. BOK/Bank of Texas Houston 713-357-2256 (private banking), 713-357-2257 (fiduciary), 713-260-5637 (investments). Lone Star National McAllen trust 956-574-7344, investments 956-655-1722. JEFFERSON BANK trust and wealth 210-736-7600. TRUSTTEXAS BANK 361-275-2345. Vantage San Antonio 210-408-5732 and 210-408-5728.
 
-5. THE THREE MISSING IBC BIOS. ibcinvestments.com bio IDs e1129354, e1129358 and e1129362 were never surfaced, so at least three more consultants exist on that site. IBC also has CONFIRMED OPEN SEATS in McAllen and, covering Eagle Pass, in Laredo. AND NOTE THE GENERALISABLE LESSON: the roster was on the LPL-hosted advisor site, not the bank's own site. Try that move on every bank-brand-on-a-third-party-BD in this file.
+5. BROADWAY BANK'S MINERAL AND REAL-ESTATE SPECIALISTS — four failed search angles across two passes. ASK CHRISTIAN ESCAMILLA. Broadway is also advertising an open Wealth Advisor / Trust Officer III seat in San Antonio, so the bench is moving.
 
-6. JEFFERSON BANK'S TRUST ADVISORS #7 AND BEYOND (San Antonio) — jeffersonbank.com/wealth/trust-services/trust-advisors and jeffersonbank.com/locations/trust-wealth-management. Both first-party, both exist, neither yields names to search. The highest-yield remaining scrape targets in San Antonio.
+6. FIRST STATE BANK OF UVALDE'S DIRECTORS AND OFFICERS PAGE — two trust names captured, and the bank publishes both a leadership page and a directors-and-officers page. Cheap, first-party, and it covers a town that had zero coverage before pass 4.
 
-7. TRUSTTEXAS BANK (Cuero) — the best unexplored lead in the Golden Crescent, and the profile fits: a Cuero-headquartered savings bank on DeWitt County ranch, royalty and Eagle Ford mineral money. Deserves a dedicated pass. Only the CEO could be named.
+7. THE THREE MISSING IBC BIOS — ibcinvestments.com IDs e1129354, e1129358 and e1129362, plus confirmed open seats in McAllen and Laredo/Eagle Pass.
 
-8. THE EAGLE PASS / DEL RIO / UVALDE CORRIDOR — effectively EMPTY. One name in the entire dataset (Virgilio Rodriguez, IBC, Eagle Pass) and nothing at all in Del Rio or Uvalde. Also unreached on the border: PlainsCapital's RGV offices, Rio Financial Services, Zapata National Bank, Border Capital Bank.
+8. JEFFERSON BANK'S TRUST ADVISORS 7+ — two failed passes at the page. Use the phone number above instead.
 
-9. TRUSTMARK'S 18 RAYMOND JAMES-REGISTERED ADVISORS — a $2.7B program with no browsable roster index; the individual bio pages only open if you already know the name.
+9. REGIONS' HOUSTON FINANCIAL-ADVISOR DIRECTORY — regions.com/directory/financial-advisor/tx/houston, a different population from the wealth advisors already captured.
 
-10. REGIONS' HOUSTON FINANCIAL-ADVISOR DIRECTORY — regions.com/directory/financial-advisor/tx/houston. A different population from the wealth advisors already captured, and a cheap pull.
+10. RIVER OAKS TRUST COMPANY (Houston) — still a genuine gap: a state trust company in the wealthiest part of Houston with nothing recoverable. Watch the name-collision field around it.
 
-11. KLEBERG'S 'LIBBY' — first name only, and the bio explicitly mentions BROKERAGE ACTIVITIES in a 25-year banking career, which makes them the Kleberg private banker most likely to hold registrations. Same one-page fix.
+11. AMEGY'S ZIONS WEALTH TRUST OFFICERS — the LPL brokerage rail has seven names and the bank fiduciary rail has none at all.
 
-12. RIVER OAKS TRUST COMPANY (Houston) and STELLAR BANK's wealth program — both surfaced as live entities and neither was researched.
+12. KLEBERG'S 'LIBBY' — first name only, and the bio mentions brokerage activities. One page open.
 
-13. THE COASTAL BEND SMALL TOWNS — Beeville, Gonzales, Yoakum, Goliad, Karnes City, Floresville, Pleasanton, Alice, Sinton, Robstown, Three Rivers, George West, Bay City. One coarse sweep found nothing, which settles nothing. Each needs its own named-bank query.
+13. TRUSTTEXAS BANK — DOWNGRADED. Two dedicated attempts found no trust department. One call to 361-275-2345 settles it either way.
 
-OUTSIDE THE TERRITORY, KEPT ONLY FOR COMPLETENESS: American National Bank & Trust Wichita Falls (nine fiduciary titles, no names); American National Bank of Texas in Terrell (six Ameriprise advisors, no names); advisors.hilltopsecurities.com; Southside's non-East-Texas team pages; TBT Securities' clearing firm; VeraBank's Cetera-side reps; and the b1BANK broker-dealer and Central National Bank Waco charter contradictions.
+14. THE COASTAL BEND SMALL TOWNS — still one coarse sweep. ALICE STATE BANK & TRUST CO. (Alice, since 1905) is a new named lead in this group, with 'Trust' in its charter name and nothing else established.
+
+OUTSIDE THE TERRITORY, KEPT ONLY FOR COMPLETENESS: American National Bank & Trust Wichita Falls; American National Bank of Texas in Terrell; advisors.hilltopsecurities.com; Southside's non-East-Texas team pages; TBT Securities' clearing firm; VeraBank's Cetera-side reps; and the b1BANK broker-dealer and Central National Bank Waco charter contradictions.
 
 ## 8. THE FOUR TERRITORIES — WHERE EACH ONE ACTUALLY STANDS
 
@@ -781,6 +832,18 @@ STOPPED BECAUSE OF THE TOOLING, NOT THE EFFORT — these are the five places whe
 STOPPED BECAUSE THE ANSWER IS A PHONE CALL: PNC Houston, BOK/Bank of Texas Houston, Broadway's mineral and real-estate specialists, Lone Star National's McAllen trust seat, Vantage's entire wealth bench, and the two San Antonio Vantage officers whose direct lines are recorded but whose names never rendered — (210) 408-5732 and (210) 408-5728.
 
 NOT REACHED AT ALL, HONESTLY LABELLED: PlainsCapital's RGV offices, Rio Financial Services, Zapata National Bank, Del Rio and Uvalde institutions generally, Border Capital Bank, River Oaks Trust Company (Houston, a state trust company and a genuine gap), Stellar Bank's wealth program, and b1BANK's wealth program in its Houston market.
+
+## 10. WHERE PASS 4 STOPPED
+
+CLOSED FOR GOOD: the American Bank wealth head, after twelve framings. It is a browser task now, not a search task.
+
+STILL FAILING AFTER REPEATED ATTEMPTS, AND THE REPETITION IS THE FINDING: Broadway's specialists (four angles), Jefferson's trust advisors 7+ (two), TrustTexas's trust department (two), Vantage's wealth staff (three), Trustmark's Raymond James reps (two). Each of these is a first-party page that exists and will not render through search. They are phone calls or browser tasks, and listing them again as search targets would be dishonest.
+
+PROBABLY AT ITS CEILING RATHER THAN INCOMPLETE: Amegy, where two independently framed enumerations returned the same seven names.
+
+NOT REACHED IN PASS 4: PlainsCapital's RGV offices, Rio Financial Services, Border Capital Bank, b1BANK's Houston wealth program, the Kleberg 'Libby' surname, and each Coastal Bend small town individually. Brackettville and Sonora are now known to have a bank presence through The Bank & Trust but were not researched separately.
+
+A NOTE ON WHAT THE PASS-4 CORRECTION IMPLIES FOR THE REST OF THE FILE. One bank was missed because a same-named institution elsewhere in Texas was correctly excluded. That failure mode is not unique to this name, and every 'no bank with a trust department was identified in [town]' line in this file should be read with it in mind. Those lines are not proven negatives; they are the absence of a positive, and at least one of them has now been shown to be wrong.
 
 ## Per-bank sources, by region
 
@@ -803,6 +866,7 @@ NOT REACHED AT ALL, HONESTLY LABELLED: PlainsCapital's RGV offices, Rio Financia
 - **Golden Bank, N.A.** — https://www.goldenbank-na.com/about-us/our-company ; https://www.goldenbank-na.com/about-us ; https://en.wikipedia.org/wiki/Golden_Bank
 - **Southwestern National Bank** — https://en.wikipedia.org/wiki/Southwestern_National_Bank
 - **Origin Bank (Houston operations)** — https://www.origin.bank/houston-campaign/ ; https://www.origin.bank/en/locations/tx/upper-kirby-financial-center/ ; https://www.sec.gov/Archives/edgar/data/1516912/000162828018004515/obnks1a1.htm ; https://adviserinfo.sec.gov/firm/summary/171946
+- **River Oaks Trust Company / The Bank of River Oaks (Houston)** — https://www.dob.texas.gov/entity-search/entity-detail?bid=426&eid=1&bn=0 ; https://www.dob.texas.gov/entity-search/entity-detail?bid=9005&eid=1&bn=0
 
 ### 2. San Antonio Metro & Hill Country
 
@@ -822,6 +886,9 @@ NOT REACHED AT ALL, HONESTLY LABELLED: PlainsCapital's RGV offices, Rio Financia
 - **Rio Bank** — https://www.rio.bank/trust-services ; https://www.rio.bank/ ; https://www.rio.bank/locations/corporate-banking-center-mcallen-tx
 - **Falcon International Bank** — https://www.falconbank.com/trust ; https://www.falconbank.com/investment-planning-services ; https://www.falconbank.com/financial-planning-services ; https://www.myacinvestments.com/falconvest-financial-services ; https://www.myacinvestments.com/p/our-strategic-partners-affiliates ; https://www.falconbank.com/about-us ; https://en.wikipedia.org/wiki/Falcon_International_Bank ; https://www.dob.texas.gov/entity-search/entity-detail?bid=4080&eid=1&bn=0
 - **Texas National Bank (Mercedes / Edinburg)** — https://texasnational.com/our-lenders ; https://www.texasnational.com/ ; https://texasnational.com/branch-locations/mercedes
+- **The Bank & Trust (Del Rio) — Westex Investment Services** — https://www.westexinvestments.com/ ; https://www.westexinvestments.com/del-rio ; https://www.westexinvestments.com/uvalde ; https://www.westexinvestments.com/boerne ; https://www.westexinvestments.com/san-angelo ; https://www.westexinvestments.com/services ; https://www.dob.texas.gov/entity-search/entity-detail?bid=207&eid=1&bn=0 ; https://business.exploredelrio.com/member-directory/Details/the-bank-trust-2764953 ; https://business.kerrvillechamber.biz/list/member/the-bank-and-trust-10801 ; https://business.boerne.org/list/member/westex-investment-services-5993 ; https://www.vvchc.org/del-rio-bank--trust-narrative.html
+- **First State Bank of Uvalde** — https://www.fsbuvalde.bank/personal-banking/trust-services ; https://www.fsbuvalde.bank/ ; https://www.fsbuvalde.bank/about-us/fsbleadership ; https://www.fsbuvalde.com/Directors-Officers.aspx ; https://www.uvaldeleadernews.com/articles/first-state-bank-promotes-four-to-lead-departments/ ; https://play.google.com/store/apps/details?id=com.fis.wealth.fsbu.trust ; https://chamber.uvalde.org/list/member/first-state-bank-of-uvalde-91
+- **Zapata National Bank — BEING ACQUIRED BY TEXAS NATIONAL BANK** — https://www.zapatanationalbank.com/ ; https://texasnational.com/tnb-blog/texas-national-bank-to-acquire-zapata-national-bank ; https://www.rgvbusinessjournal.com/news/17/05/2026/texas-national-bank-is-buying-a-small-bank-along-the-u-s-mexico-border/
 
 ### 4. Coastal Bend & Golden Crescent (between them)
 
@@ -831,6 +898,7 @@ NOT REACHED AT ALL, HONESTLY LABELLED: PlainsCapital's RGV offices, Rio Financia
 - **TrustTexas Bank, SSB** — https://www.trusttexas.bank/locations/ ; https://www.dob.texas.gov/entity-search/entity-detail?bid=740&eid=1&bn=0 ; https://banks.data.fdic.gov/bankfind-suite/bankfind/details/28515
 - **Texas Champion Bank** — https://www.texaschampionbank.com/ ; https://www.dob.texas.gov/entity-search/entity-detail?bid=235&eid=1&bn=0 ; https://www.usbanklocations.com/texas-champion-bank.shtml
 - **Charter Bank (charterbankcc.com)** — https://www.dob.texas.gov/entity-search/entity-detail?bid=588&eid=1&bn=0
+- **Alice State Bank & Trust Co.** — https://www.dob.texas.gov/entity-search/entity-detail?bid=2494&eid=1&bn=0
 
 ### 5. Outside the territory
 

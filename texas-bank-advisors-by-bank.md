@@ -1,6 +1,6 @@
 # South Texas Bank Advisors — Roster in Prose, by Region
 
-Compiled 6 September 2026; extended and corrected in a second pass the same day; then RE-SCOPED AND DEEPENED IN A THIRD PASS on 7 September 2026 against the four South Texas territories — Houston Metro & Southeast Texas, San Antonio Metro & Hill Country, the Mexico Border, and the Coastal Bend & Golden Crescent between them. Austin and Dallas were dropped from the research target per instruction; rows already captured there are retained and filed under 'Outside the territory' rather than deleted. Research channel: web search only. Read the Verification Ceiling first — it is the single most important thing to know before using any row.
+Compiled 6 September 2026; extended and corrected in a second pass the same day; RE-SCOPED AND DEEPENED IN A THIRD PASS on 7 September 2026 against the four South Texas territories — Houston Metro & Southeast Texas, San Antonio Metro & Hill Country, the Mexico Border, and the Coastal Bend & Golden Crescent between them — then GAP-CLOSED IN A FOURTH PASS against the pass-3 follow-up list. Austin and Dallas were dropped from the research target per instruction; rows already captured there are retained and filed under 'Outside the territory' rather than deleted. Research channel: web search only. Read the Verification Ceiling first — it is the single most important thing to know before using any row.
 
 Companion files: `texas-banks-wealth-management.md` (which banks have programs and what platform each runs on, also by region) and `texas-bank-advisors.xlsx` (a filterable Master List with a Region column, one tab per region, and one tab per bank). All three come from one dataset, so a correction in one appears in all three.
 
@@ -55,7 +55,99 @@ A second research pass proved this matters in both directions: five people carri
 
 *Houston and its metro, out to College Station and Bryan in the north-west, Beaumont and Port Arthur in the east, and down the coast to Lake Jackson and Angleton. Also The Woodlands, Kingwood, Humble, Sugar Land, Katy, Pearland, Conroe, Galveston, Texas City, Baytown, Wharton and El Campo.*
 
-**67 named people across 17 institutions in this region.**
+**73 named people across 17 institutions in this region.**
+
+## Cadence Bank — ACQUIRED BY HUNTINGTON (incl. Linscomb Wealth, Houston)
+
+Headquartered in was Houston/Tupelo. Now part of The Huntington National Bank (Columbus, OH). Program: Linscomb Wealth (f/k/a Linscomb & Williams) — a Houston-headquartered Barron's Top-100 RIA, a Cadence subsidiary since 2012, rebranded January 2024. Texas offices: Houston, Austin, The Woodlands. Non-Texas: Birmingham, Huntsville, Atlanta. Broker-dealer: not confirmed post-merger. PLATFORM CONSEQUENCE: Huntington selected AMERIPRISE FINANCIAL SERVICES, LLC as its new retail investment program provider on 4 February 2026, moving Huntington Financial Advisors' retail brokerage, advisory and insurance onto the Ameriprise Financial Institutions Group. That changes the platform under every Huntington-owned Texas branch, including the former Cadence and Veritex footprints. Clearing and custody: not confirmed. If the Ameriprise/AFIG transition governs, clearing would be American Enterprise Investment Services — but that was NOT confirmed for these accounts and is not asserted.
+
+**14 of this bank's 15 named people sit in Houston Metro & Southeast Texas.**
+
+**Phillip Hamman** is listed as President & Chief Executive Officer, Linscomb Wealth, Inc in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CFA, CPWA(R), CFP(R) — CORRECTED IN PASS 4; pass 3 recorded only CFA and CFP. Joined Linscomb over a decade ago. B.S. Personal Financial Planning, Texas Tech University. Significant experience with high-net-worth and ultra-high-net-worth individuals and families.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere. PASS 4: designations corrected to CFA, CPWA(R), CFP(R) off their own professional profile.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/phillip-hamman/ · https://linscombwealth.com/our-team/
+
+**G. Walter Christopherson** is listed as Chairman, Linscomb Wealth, Inc in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: JD, CFP(R).
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/our-team/ · https://www.bbb.org/us/tx/houston/profile/investment-management/linscomb-wealth-inc-0915-41167
+
+**Neal Wadley** is listed as Managing Director, Senior Wealth Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CFP(R), CIMA(R). 20+ years; generational wealth, complex planning, family office services.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/neal-wadley/
+
+**Heidi Davis** is listed as Managing Director, Senior Wealth Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CPA/PFS, CFP(R). Tax-focused comprehensive planning Began their career at ExxonMobil.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/heidi-davis/
+
+**Jessica Banitt** is listed as Managing Director, Senior Wealth Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CFP(R), CPA. 10+ years with high-net-worth clients.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/jessica-banitt/
+
+**Lauren Rich** is listed as Regional Director, Senior Wealth Advisor in Houston, TX — BUT THE TITLE IS 'REGIONAL DIRECTOR' AND THE REGION IS NOT STATED. This could be one of the non-Houston offices. Verify before working as Houston. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CFP(R). BBA Finance, UT Austin; FPA member.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/lauren-rich/
+
+**Troy Taylor** is listed as Senior Wealth Advisor, Team Lead in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: MBA (Cornell).
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/troy-taylor/
+
+**Carolyn Galfione** is listed as Senior Wealth Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: B.A. Accounting, UT Austin; MBA Finance, Rice.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/carolyn-galfione/
+
+**Nick Ibanez** is listed as Senior Wealth Advisor and Team Lead — THE WOODLANDS OFFICE in The Woodlands, TX — CONFIRMED, not inferred. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1800 Hughes Landing Blvd, Suite 175, The Woodlands, TX. Licences and designations: CFP(R). 16 years in the industry, 11 of them at Linscomb. Previously managed the firm's FIXED INCOME DESK and served on the Investment Committee; a voting member of Linscomb's Wealth Management Committee.
+
+&nbsp;&nbsp;**Status: ACTIVE.** ONE OF ONLY TWO LINSCOMB PEOPLE WITH A CONFIRMED, NON-INFERRED OFFICE. Named in the firm's own press release opening The Woodlands office and staffing it, carried independently by two trade outlets. A voting seat on the Wealth Management Committee and a past run at the fixed income desk make this the most product-relevant Linscomb name captured so far.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/nick-ibanez/ · https://www.prnewswire.com/news-releases/linscomb-wealth-deepens-houston-area-reach-with-new-office-in-the-woodlands-302516150.html · https://www.citybiz.co/article/724033/linscomb-wealth-expands-houston-presence-with-the-woodlands-office/
+
+**Matt Britton** is listed as Wealth Advisor — THE WOODLANDS OFFICE in The Woodlands, TX — CONFIRMED, not inferred. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1800 Hughes Landing Blvd, Suite 175, The Woodlands, TX.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Named in the firm's own press release as the second advisor staffing the new Woodlands office alongside Nick Ibanez. Office confirmed; no bio detail, no designations and no CRD recovered.
+
+&nbsp;&nbsp;*Sources:* https://www.prnewswire.com/news-releases/linscomb-wealth-deepens-houston-area-reach-with-new-office-in-the-woodlands-302516150.html
+
+**Ryan Patterson** is listed as CHIEF INVESTMENT OFFICER, Linscomb Wealth — leads the firm's investment and trading departments in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CFA, CFP(R). B.B.A. Finance, Texas State University; member of the CFA Institute.
+
+&nbsp;&nbsp;**Status: ACTIVE.** *** TITLE RESOLVED IN PASS 4. *** Pass 3 confirmed this bio slug existed but captured NO TITLE, so no row was written. They are the CHIEF INVESTMENT OFFICER and run investment and trading. For a Pacer book this is the most important single name at Linscomb — the 52-advisor headcount does not pick funds, this seat does.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/ryan-patterson/ · https://linscombwealth.com/our-team/
+
+**Abby Barnett Steininger** is listed as Associate Wealth Advisor in Houston, TX. CRD not recorded as a fact. A third-party advisor directory carries the URL slug 6947559 for them, which is the shape of an IARD/CRD number, but it is a DIRECTORY URL FRAGMENT and it could not be checked against IAPD. LEAD ONLY — do not present it as their CRD. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). 9+ years in personalised financial planning.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Live bio page on linscombwealth.com, plus an independent directory listing them as an Investment Adviser Representative at Linscomb Wealth, Inc. in Houston. Two current sources agree on firm and city.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/abby-barnett-steininger/ · https://advisorfinder.com/app/directory/advisors/abby-barnett-steininger-6947559
+
+**Daniel Thornton** is listed as Chief Operations Officer — NOT AN ADVISOR in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Joined the firm June 2021 as director of operations; promoted to chief operations officer in October 2023. Oversees the Wealth Services Group including Operations and Information Technology. Member of the Senior Leadership Team and chairman of the Wealth Services and Systems Working Group.
+
+&nbsp;&nbsp;**Status: ACTIVE.** OPERATIONS, NOT ADVICE — recorded so they are not mistaken for a producer. Named in a dated firm press release announcing the promotion, which is a first-party current source.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/daniel-thornton/ · https://www.prnewswire.com/news-releases/linscomb--williams-announces-updates-to-the-expanding-wealth-management-team-301959093.html
+
+**Hernaldo Rivera Jr.** is listed as Director of Business Development — NOT AN ADVISOR in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Took the director of business development role in the October 2023 team announcement, focused on client development initiatives.
+
+&nbsp;&nbsp;**Status: ACTIVE.** BUSINESS DEVELOPMENT, NOT ADVICE. Recorded because a director of business development at a 50-advisor RIA is a useful door, not because they are an advisor.
+
+&nbsp;&nbsp;*Sources:* https://www.prnewswire.com/news-releases/linscomb--williams-announces-updates-to-the-expanding-wealth-management-team-301959093.html
+
+---
 
 ## Texas Regional Bank (TRB) — TRB Trust & Wealth Management
 
@@ -119,62 +211,6 @@ Headquartered in Harlingen, TX (bank). CONTRADICTION FLAGGED: trb.bank and the b
 
 ---
 
-## Cadence Bank — ACQUIRED BY HUNTINGTON (incl. Linscomb Wealth, Houston)
-
-Headquartered in was Houston/Tupelo. Now part of The Huntington National Bank (Columbus, OH). Program: Linscomb Wealth (f/k/a Linscomb & Williams) — a Houston-headquartered Barron's Top-100 RIA, a Cadence subsidiary since 2012, rebranded January 2024. Texas offices: Houston, Austin, The Woodlands. Non-Texas: Birmingham, Huntsville, Atlanta. Broker-dealer: not confirmed post-merger. PLATFORM CONSEQUENCE: Huntington selected AMERIPRISE FINANCIAL SERVICES, LLC as its new retail investment program provider on 4 February 2026, moving Huntington Financial Advisors' retail brokerage, advisory and insurance onto the Ameriprise Financial Institutions Group. That changes the platform under every Huntington-owned Texas branch, including the former Cadence and Veritex footprints. Clearing and custody: not confirmed. If the Ameriprise/AFIG transition governs, clearing would be American Enterprise Investment Services — but that was NOT confirmed for these accounts and is not asserted.
-
-**8 of this bank's 8 named people sit in Houston Metro & Southeast Texas.**
-
-**Phillip Hamman** is listed as President & Chief Executive Officer, Linscomb Wealth, Inc in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CFA, CFP(R).
-
-&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
-
-&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/phillip-hamman/ · https://linscombwealth.com/our-team/
-
-**G. Walter Christopherson** is listed as Chairman, Linscomb Wealth, Inc in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: JD, CFP(R).
-
-&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
-
-&nbsp;&nbsp;*Sources:* https://linscombwealth.com/our-team/ · https://www.bbb.org/us/tx/houston/profile/investment-management/linscomb-wealth-inc-0915-41167
-
-**Neal Wadley** is listed as Managing Director, Senior Wealth Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CFP(R), CIMA(R). 20+ years; generational wealth, complex planning, family office services.
-
-&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
-
-&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/neal-wadley/
-
-**Heidi Davis** is listed as Managing Director, Senior Wealth Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CPA/PFS, CFP(R). Tax-focused comprehensive planning.
-
-&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
-
-&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/heidi-davis/
-
-**Jessica Banitt** is listed as Managing Director, Senior Wealth Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CFP(R), CPA. 10+ years with high-net-worth clients.
-
-&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
-
-&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/jessica-banitt/
-
-**Lauren Rich** is listed as Regional Director, Senior Wealth Advisor in Houston, TX — BUT THE TITLE IS 'REGIONAL DIRECTOR' AND THE REGION IS NOT STATED. This could be one of the non-Houston offices. Verify before working as Houston. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: CFP(R). BBA Finance, UT Austin; FPA member.
-
-&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
-
-&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/lauren-rich/
-
-**Troy Taylor** is listed as Senior Wealth Advisor, Team Lead in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: MBA (Cornell).
-
-&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
-
-&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/troy-taylor/
-
-**Carolyn Galfione** is listed as Senior Wealth Advisor in Houston, TX. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: 1333 West Loop South, Suite 1500, Houston, TX 77027 (firm HQ). Licences and designations: B.A. Accounting, UT Austin; MBA Finance, Rice.
-
-&nbsp;&nbsp;**Status: ACTIVE.** Live individual bio page on linscombwealth.com — a current first-party source, which is the currency-of-employment signal used throughout this file. NO CRD: Linscomb's people are IARs, so IAPD records almost certainly exist and would be readable if IAPD were reachable; it is not. CITY CAVEAT: the office is INFERRED FROM THE HOUSTON HQ, not individually confirmed, and the firm has six offices including The Woodlands and Austin — so some of these people may sit elsewhere.
-
-&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/carolyn-galfione/
-
----
-
 ## Amegy Bank (a division of Zions Bancorporation, N.A.)
 
 Headquartered in Houston, TX — but note that AMEGY IS A DIVISION, NOT A SEPARATE CHARTER. The charter is Zions Bancorporation, N.A., Salt Lake City, UT. Program: Amegy Wealth Advisors (retail brokerage/advisory brand) + Amegy Private Banking + Fiduciary and Trust Services. Broker-dealer: *** LPL FINANCIAL LLC — AND 'AMEGY WEALTH ADVISORS' IS A MARKETING BRAND SITTING ON LPL, NOT A REGISTERED ENTITY. *** Amegy's own disclosure reads: 'Registered representatives of LPL offer products and services using the name Amegy Wealth Advisors, and may also be employees of Amegy Bank, a division of Zions Bancorporation, N.A.' Securities AND advisory services are offered through LPL Financial. The parallel Zions disclosure adds that 'Zions Wealth Advisors are not registered as a broker/dealer or investment advisor' and that Zions Bancorporation receives referral payments from LPL — a disclosed conflict. SEPARATE TRUST RAIL, DO NOT MERGE IT WITH THE BD: trust and fiduciary investment services are provided through ZIONS WEALTH, a division of Zions Bancorporation, N.A. — bank fiduciary powers, not LPL. TWO DISTINCT RAILS AT THE SAME BANK. Clearing and custody: LPL Financial self-clears. Not separately re-confirmed from an Amegy/LPL document, so treat the SPECIFIC Amegy arrangement as not confirmed.
@@ -193,9 +229,9 @@ Headquartered in Houston, TX — but note that AMEGY IS A DIVISION, NOT A SEPARA
 
 &nbsp;&nbsp;*Sources:* https://www.amegybank.com/personal/directory/wealth-advisors/rob-moyes/
 
-**Brent Buehler** is listed as Wealth Advisor, Amegy Wealth Advisors in Houston, TX — the exact office was not found. No CRD was obtained, and none is guessed. Clearing at LPL self-clears; the specific Amegy arrangement is not confirmed. Joined Amegy Wealth Advisors in 2018; 18+ years in the financial industry.
+**Brent Buehler** is listed as Wealth Advisor, Amegy Wealth Advisors in Houston, TX — the exact office was not found. No CRD was obtained, and none is guessed. Clearing at LPL self-clears; the specific Amegy arrangement is not confirmed. Joined Amegy Wealth Advisors in 2018; 18+ years in the financial industry Previously an Advisor & Relationship Manager for high-net-worth individuals and families, and for the ten years before joining served clients as an INDEPENDENT WEALTH MANAGER.
 
-&nbsp;&nbsp;**Status: UNVERIFIED.** Live individual bio page on amegybank.com under /personal/directory/wealth-advisors/, which is the primary currency-of-employment signal. No BrokerCheck title hit surfaced — a search-form artifact, not a departure signal.
+&nbsp;&nbsp;**Status: UNVERIFIED.** Live individual bio page on amegybank.com under /personal/directory/wealth-advisors/, which is the primary currency-of-employment signal. No BrokerCheck title hit surfaced — a search-form artifact, not a departure signal. PASS 4: re-confirmed live, with career history now attached. A decade running an independent book before joining a bank program is an unusual and useful profile.
 
 &nbsp;&nbsp;*Sources:* https://www.amegybank.com/personal/directory/wealth-advisors/brent-buehler/
 
@@ -211,9 +247,9 @@ Headquartered in Houston, TX — but note that AMEGY IS A DIVISION, NOT A SEPARA
 
 &nbsp;&nbsp;*Sources:* https://www.amegybank.com/personal/directory/wealth-advisors/robert-shelton/
 
-**Michael Pritchard** is listed as Wealth Advisor, Amegy Wealth Advisors in Houston, TX — the exact office was not found. No CRD was obtained, and none is guessed. Clearing at LPL self-clears; the specific Amegy arrangement is not confirmed.
+**Michael Pritchard** is listed as Wealth Advisor, Amegy Wealth Advisors in Houston, TX — the exact office was not found. No CRD was obtained, and none is guessed. Clearing at LPL self-clears; the specific Amegy arrangement is not confirmed. A native Houstonian and an alum of Louisiana State University.
 
-&nbsp;&nbsp;**Status: UNVERIFIED.** Live individual bio page on amegybank.com under /personal/directory/wealth-advisors/, which is the primary currency-of-employment signal. No BrokerCheck title hit surfaced — a search-form artifact, not a departure signal.
+&nbsp;&nbsp;**Status: UNVERIFIED.** Live individual bio page on amegybank.com under /personal/directory/wealth-advisors/, which is the primary currency-of-employment signal. No BrokerCheck title hit surfaced — a search-form artifact, not a departure signal. PASS 4: re-confirmed live, with biography detail now attached.
 
 &nbsp;&nbsp;*Sources:* https://www.amegybank.com/personal/directory/wealth-advisors/michael-pritchard/
 
@@ -655,17 +691,17 @@ Headquartered in San Antonio, TX. Wealth/trust department line: (210) 736-7600. 
 
 &nbsp;&nbsp;*Sources:* https://1900wealth.com/1900-wealth-management-expands-executive-team-as-it-exceeds-2025-growth-goals-by-end-of-second-quarter/
 
-**Erik Ahlenius** is listed as Executive Vice President — Oil, Gas & Mineral Manager, Jefferson Bank Trust & Wealth Management in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Jefferson Bank Trust & Wealth Management. Phone: not found — department line (210) 736-7600 only. Licences and designations: B.A., The College of William & Mary; J.D., Texas Tech School of Law. Represents individuals, FAMILY OFFICES and FOUNDATIONS in an agency capacity for LEASE NEGOTIATIONS and ROYALTY AUDITS.
+**Erik Ahlenius** is listed as Executive Vice President — Oil, Gas & Mineral Manager, Jefferson Bank Trust & Wealth Management in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Jefferson Bank Trust & Wealth Management. Phone: not found — department line (210) 736-7600 only. Licences and designations: J.D. Represents individuals, FAMILY OFFICES and FOUNDATIONS in an agency capacity for LEASE NEGOTIATIONS and ROYALTY AUDITS.
 
 &nbsp;&nbsp;**Status: UNVERIFIED (non-registered role).** THIS IS THE NAME PASS 1 COULD NOT GET — the titled EVP behind Jefferson's oil, gas and mineral practice. Named on the bank's current Trust Advisors page and its Oil, Gas & Mineral Management page. A bank oil-and-gas fiduciary manager is not expected to hold a securities registration, so the absence of a CRD is normal. The bank is actively recruiting an 'Oil, Gas & Mineral Asset Manager (Trusts)', so the practice is live and expanding.
 
 &nbsp;&nbsp;*Sources:* https://www.jeffersonbank.com/wealth/trust-services/trust-advisors · https://www.jeffersonbank.com/wealth/trust-services/oil-gas-mineral-management
 
-**Shawn Hughes** is listed as SVP, Estate and Trust Officer in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Jefferson Bank Trust & Wealth Management. Licences and designations: J.D. 20 years practising probate, estates and guardianship law plus 8 years in banking.
+**Shawn Hughes** is listed as Senior Vice President / Estate and Trust Officer in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Jefferson Bank Trust & Wealth Management. Licences and designations: J.D. 20 YEARS PRACTISING LAW in probate, estates and guardianship, then 8 years in banking. Knowledge spans trusts, wealth management, and private, business and retail banking.
 
-&nbsp;&nbsp;**Status: UNVERIFIED (non-registered role).** Hire announced via Bankers Digest and corroborated on the current trust-advisors page.
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered role).** Hire announced via Bankers Digest and corroborated on the current trust-advisors page. PASS 4 ENRICHMENT: a J.D. with two decades of probate and guardianship practice behind them is the profile that actually wins trust business in San Antonio. Sourced to dated trade-press coverage of the hire.
 
-&nbsp;&nbsp;*Sources:* https://bankersdigest.com/hughes-joins-jefferson-bank-as-senior-vice-president-and-estate-and-trust-officer/ · https://www.jeffersonbank.com/wealth/trust-services/trust-advisors
+&nbsp;&nbsp;*Sources:* https://bankersdigest.com/hughes-joins-jefferson-bank-as-senior-vice-president-and-estate-and-trust-officer/ · https://www.jeffersonbank.com/wealth/trust-services/trust-advisors · https://bankersdigest.com/hughes-joins-jefferson-bank-as-senior-vice-president-and-estate-and-trust-officer/
 
 **Jennifer Suttles** is listed as SVP, Trust Officer in San Antonio, TX. No CRD was obtained, and none is guessed. Advisory through Jefferson Bank Trust & Wealth Management.
 
@@ -1057,7 +1093,7 @@ Headquartered in San Antonio, TX. Founded 1923 as San Antonio National Bank; ren
 
 *The Mexico border — Laredo and Zapata, the Rio Grande Valley (McAllen, Edinburg, Pharr, Mission, Harlingen, Brownsville, Weslaco, Rio Grande City), Eagle Pass, Del Rio, Uvalde and Carrizo Springs.*
 
-**13 named people across 5 institutions in this region.**
+**18 named people across 7 institutions in this region.**
 
 ## International Bank of Commerce (IBC Bank) / International Bancshares Corp.
 
@@ -1077,6 +1113,12 @@ Headquartered in Laredo, TX (bank founded 1966; 1200 San Bernardo Ave). Parent I
 
 &nbsp;&nbsp;*Sources:* https://www.ibcinvestments.com/Ismael-E--Reyes-Retana.e1129359.htm · https://brokercheck.finra.org/individual/summary/3250007 · https://klaymantoskes.com/broker-investigation/broker-misconduct-investigation-ismael-reyes-retana-ibc-investment-services/
 
+**Julian Cruz** is listed as Financial Consultant, IBC Investment Services in Laredo, TX (inferred from the 956-465-24xx block). No CRD was obtained, and none is guessed. Phone: (956) 465-2486. Licences and designations: Series 6, Series 7, Series 24 and Series 66, held with LPL Financial. 12+ years in the financial services industry; WITH IBC INVESTMENT SERVICES SINCE 2007.
+
+&nbsp;&nbsp;**Status: ACTIVE.** *** UPGRADED IN PASS 4 FROM UNVERIFIED TO ACTIVE. *** The published registration set is now known — Series 6, 7, 24 and 66 HELD WITH LPL FINANCIAL — and the tenure is dated to 2007. A named individual with a stated Series 24 held at the same broker-dealer the bank discloses is a materially stronger signal than a bio page alone. This is still not a BrokerCheck record read, so it is an upgrade on weight of evidence, not verification.
+
+&nbsp;&nbsp;*Sources:* https://www.ibcinvestments.com/Julian-Cruz.e1129360.htm · https://www.ibc.com/en-us/ibcis/Pages/IBCISExecutiveBio.aspx
+
 **Fernando R. Montemayor Jr.** is listed as Senior Financial Consultant, IBC Investment Services in Laredo, TX (inferred from the 956-465-24xx Laredo block). No CRD was obtained, and none is guessed. Phone: (956) 465-2484. ~15 years of financial experience, 10+ with IBC Investment Services. LPL FINANCIAL CHAIRMAN'S CLUB award recipient, 2012.
 
 &nbsp;&nbsp;**Status: UNVERIFIED.** Named on a current firm bio page with a live direct-dial, but no BrokerCheck record surfaced. Do NOT read the absence as stale — a top producer with a Chairman's Club award is very likely registered and the search simply did not return it.
@@ -1089,17 +1131,43 @@ Headquartered in Laredo, TX (bank founded 1966; 1200 San Bernardo Ave). Parent I
 
 &nbsp;&nbsp;*Sources:* https://www.ibcinvestments.com/Carmen-Garza.e1129356.htm
 
-**Julian Cruz** is listed as Financial Consultant, IBC Investment Services in Laredo, TX (inferred from the 956-465-24xx block). No CRD was obtained, and none is guessed. Phone: (956) 465-2486. Personal approach to client needs; long-term strategy development.
-
-&nbsp;&nbsp;**Status: UNVERIFIED.** Named on a current IBC Investment Services bio page with a live direct-dial number. No BrokerCheck record surfaced on a name-plus-firm search — treat that as a search-form artifact, NOT a departure signal.
-
-&nbsp;&nbsp;*Sources:* https://www.ibcinvestments.com/Julian-Cruz.e1129360.htm
-
 **Virgilio Rodriguez** is listed as Financial Consultant, IBC Investment Services in Eagle Pass, TX. No CRD was obtained, and none is guessed. Phone: (830) 773-4910. 12+ years in the banking industry.
 
 &nbsp;&nbsp;**Status: UNVERIFIED.** *** THE ONLY EAGLE PASS WEALTH NAME IN THE ENTIRE DATASET. *** Their bio explicitly says they 'came to Eagle Pass' and the 830-773 exchange is the Eagle Pass block. Current firm bio page; no BrokerCheck record returned. Their bio ID sits in a much later block than the rest of the roster, indicating a newer hire.
 
 &nbsp;&nbsp;*Sources:* https://www.ibcinvestments.com/Virgilio--Rodriguez.e1158306.htm
+
+---
+
+## First State Bank of Uvalde
+
+Headquartered in Uvalde, TX. Serves southwest Texas. More than a century in operation. Program: First State Bank of Uvalde TRUST DEPARTMENT. The services the bank's own trust page lists are: trust accounts, INDEPENDENT EXECUTOR services, SELF-DIRECTED IRAs, FARM AND RANCH TRUSTS, and custodial management. The bank also publishes a trust mobile app carrying trust and investment information and a total-wealth snapshot, which indicates a real trust accounting system behind the department rather than a nameplate. Broker-dealer: None found. This reads as bank fiduciary powers, not a brokerage program. No 'securities offered through...' disclosure and no third-party BD surfaced. Not proven absent. Clearing and custody: not confirmed.
+
+**4 of this bank's 4 named people sit in The Mexico Border.**
+
+**Cody Smith** is listed as Senior Vice President & Trust Officer — heads the trust department in Uvalde, TX. No CRD was obtained, and none is guessed. Oversees the bank's trust operations and manages a portfolio of client accounts. Bachelor of Agricultural Economics, Texas A&M University.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered fiduciary role).** THE NAMED HEAD OF THE ONLY BANK TRUST DEPARTMENT IDENTIFIED IN UVALDE. Promoted as one of FOUR senior vice presidents named to lead departments, with the trust department as their remit — a dated, local-newspaper account of a promotion is a strong currency signal. Trust officers routinely carry no FINRA record and its absence here is expected, not a staleness flag. *** THE DETAIL THAT TELLS YOU HOW TO OPEN THE CALL: a Bachelor of Agricultural Economics from Texas A&M, running farm-and-ranch trusts in Uvalde. *** EMAIL NOT RECORDED — an aggregator shows only a masked c***@fsbuvalde.com pattern and the local part was not guessed.
+
+&nbsp;&nbsp;*Sources:* https://www.uvaldeleadernews.com/articles/first-state-bank-promotes-four-to-lead-departments/ · https://www.linkedin.com/in/cody-smith-b87744187/ · https://theorg.com/org/first-state-bank-of-uvalde/org-chart/cody-smith · https://www.fsbuvalde.bank/about-us/fsbleadership
+
+**Belinda Arreola** is listed as Assistant Trust Officer, Trust Department, Main Bank in Uvalde, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered fiduciary role).** The second and only other named person in this trust department. Assistant trust officer is a non-registered fiduciary support seat; no CRD is expected.
+
+&nbsp;&nbsp;*Sources:* https://www.fsbuvalde.bank/about-us/fsbleadership
+
+**Chip Briscoe** is listed as Chairman, First State Bank of Uvalde in Uvalde, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered bank executive role).** Bank chairman — ORG CONTEXT AND A DOOR-OPENER, NOT A WEALTH CONTACT. Recorded because at a bank this size the chair and the president are the shortest route to the trust department.
+
+&nbsp;&nbsp;*Sources:* https://www.fsbuvalde.bank/about-us/fsbleadership
+
+**Chad Stary** is listed as President & Chief Operating Officer, First State Bank of Uvalde in Uvalde, TX. No CRD was obtained, and none is guessed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered bank executive role).** Bank president — ORG CONTEXT AND A DOOR-OPENER, NOT A WEALTH CONTACT.
+
+&nbsp;&nbsp;*Sources:* https://www.fsbuvalde.bank/about-us/fsbleadership
 
 ---
 
@@ -1177,6 +1245,20 @@ Headquartered in McAllen, TX (founded 1985). 16 locations across the Rio Grande 
 
 ---
 
+## The Bank & Trust (Del Rio) — Westex Investment Services
+
+Headquartered in Del Rio, TX — 1200 Veterans Blvd, Del Rio, TX 78840. Founded 1910. Holding company WESTEX BANCORP, INC., created in 1980 in a one-for-one share exchange that changed the form of ownership without changing who owned it. The Texas Department of Banking charter record appears under the legal name DEL RIO BANK AND TRUST COMPANY. Program: WESTEX INVESTMENT SERVICES, a DIVISION of The Bank & Trust (westexinvestments.com). Financial planning, retirement planning, investments and wealth management. Investment offices in SAN ANGELO, DEL RIO, UVALDE and BOERNE; the unit's address of record is the bank's own 1200 Veterans Blvd, Del Rio. Broker-dealer: Raymond James Financial Services, Inc. (RJFS). The bank's own language: 'The financial advisors at Westex Investment Services, a division of The Bank & Trust, offer financial products, services, and advice through Raymond James.' A DIVISION of the bank operating on a third-party BD — closer to the branch-rep model than to a pure referral arrangement. Clearing and custody: Raymond James & Associates self-clears (RJ&A). Not separately confirmed for this program.
+
+**1 of this bank's 2 named people sit in The Mexico Border.**
+
+**Dustin Newton** is listed as Financial advisor, Westex Investment Services, a Division of The Bank & Trust in Del Rio / Uvalde / Boerne / San Angelo — WHICH OF THE FOUR OFFICES IS NOT ESTABLISHED. Do not assume Del Rio just because the unit's address of record is there. No CRD was obtained, and none is guessed. Clearing at Raymond James & Associates self-clears (RJ&A). Not separately confirmed for this program. Licences and designations: CPFA (Certified Plan Fiduciary Advisor) — a retirement-plan specialty, which points at a 401(k) and plan-sponsor book rather than a pure retail one. *(spans The Mexico Border + San Antonio Metro & Hill Country + Outside the territory)*
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Named with the exact firm string 'Westex Investment Services, a Division of The Bank & Trust' on a current professional profile. No BrokerCheck title was pulled, so registration is not independently confirmed — but a CPFA working under a Raymond James program will hold securities registrations, so this is unchecked rather than doubtful.
+
+&nbsp;&nbsp;*Sources:* https://www.linkedin.com/in/dustin-newton/ · https://www.westexinvestments.com/
+
+---
+
 # 4. Coastal Bend & Golden Crescent (between them)
 
 *The region between Houston, San Antonio and the border — the Coastal Bend and the Golden Crescent. Corpus Christi, Victoria, Kingsville, Alice, Beeville, Goliad, Rockport, Port Aransas, Aransas Pass, Refugio, Sinton, Robstown, Port Lavaca, Bay City, Cuero, Gonzales, Yoakum, Karnes City, Floresville, Pleasanton, Three Rivers and George West.*
@@ -1191,9 +1273,9 @@ Headquartered in was Corpus Christi, TX (founded 1970). Program: American Bank W
 
 **Stephen C. Raffaele — ALSO PUBLISHED AS 'Steven C. Raffaele'** is listed as CEO, American Bank -> PROSPERITY BANK SOUTH TEXAS AND SAN ANTONIO AREA CHAIRMAN; Prosperity Bancshares director in Corpus Christi, TX. No CRD was obtained, and none is guessed.
 
-&nbsp;&nbsp;**Status: ACTIVE (bank executive, non-wealth).** ACTIVE, and NOT a wealth contact — a bank executive, recorded because they are the door into what happens to this trust department. Confirmed by the January 2026 merger-completion release. *** NAME CONTRADICTION FLAGGED, NOT RESOLVED: *** American Bank's own page titles them 'STEVEN C. Raffaele' while Bankers Digest, the Texas Bankers Association and the merger releases use 'STEPHEN Raffaele'. Both recorded. Confirm the spelling before writing to them.
+&nbsp;&nbsp;**Status: ACTIVE (bank executive, non-wealth).** ACTIVE, and NOT a wealth contact — a bank executive, recorded because they are the door into what happens to this trust department. Confirmed by the January 2026 merger-completion release. *** NAME CONTRADICTION FLAGGED, NOT RESOLVED: *** American Bank's own page titles them 'STEVEN C. Raffaele' while Bankers Digest, the Texas Bankers Association and the merger releases use 'STEPHEN Raffaele'. Both recorded. Confirm the spelling before writing to them. PASS 4: also confirmed as BOARD SECRETARY of the Texas State Aquarium.
 
-&nbsp;&nbsp;*Sources:* https://americanbank.com/american-bank-names-stephen-c-raffaele-ceo · https://www.prnewswire.com/news-releases/prosperity-bancshares-inc-completes-merger-with-american-bank-holding-corporation-302651785.html · https://member.texasbankers.com/Magazine/magazine/Features/2021-06/21-06-Spotlight-Stephen-Raffaele.aspx
+&nbsp;&nbsp;*Sources:* https://americanbank.com/american-bank-names-stephen-c-raffaele-ceo · https://www.prnewswire.com/news-releases/prosperity-bancshares-inc-completes-merger-with-american-bank-holding-corporation-302651785.html · https://member.texasbankers.com/Magazine/magazine/Features/2021-06/21-06-Spotlight-Stephen-Raffaele.aspx · https://www.texasstateaquarium.org/visit/about/leadership/
 
 **Ben Wallace** is listed as Chairman, American Bank -> Prosperity Bank South Texas Senior Chairman in Corpus Christi, TX. No CRD was obtained, and none is guessed.
 
@@ -1201,11 +1283,11 @@ Headquartered in was Corpus Christi, TX (founded 1970). Program: American Bank W
 
 &nbsp;&nbsp;*Sources:* https://www.prnewswire.com/news-releases/prosperity-bancshares-inc-completes-merger-with-american-bank-holding-corporation-302651785.html
 
-**Patt Wallace** is listed as Founding-family member -> Prosperity Bancshares board of directors in Corpus Christi, TX. No CRD was obtained, and none is guessed.
+**Patt Hawn Wallace** is listed as Founding-family member -> Prosperity Bancshares board of directors; also BOARD TREASURER, Texas State Aquarium in Corpus Christi, TX. Legal name on record: Patt Hawn Wallace — full name recovered in pass 4. No CRD was obtained, and none is guessed.
 
-&nbsp;&nbsp;**Status: ACTIVE (bank director, non-wealth).** ACTIVE, non-wealth. Named in the merger-completion release.
+&nbsp;&nbsp;**Status: ACTIVE (bank director, non-wealth).** ACTIVE, non-wealth. Named in the merger-completion release. PASS 4: full middle name recovered, and they are confirmed as Board Treasurer of the Texas State Aquarium — the same board the unnamed wealth head sits on.
 
-&nbsp;&nbsp;*Sources:* https://www.prnewswire.com/news-releases/prosperity-bancshares-inc-completes-merger-with-american-bank-holding-corporation-302651785.html
+&nbsp;&nbsp;*Sources:* https://www.prnewswire.com/news-releases/prosperity-bancshares-inc-completes-merger-with-american-bank-holding-corporation-302651785.html · https://www.texasstateaquarium.org/visit/about/leadership/
 
 **Lauren Duke** is listed as Wealth Management team member, American Bank Wealth Management in Corpus Christi, TX. No CRD was obtained, and none is guessed. Licences and designations: not found — an accounting and finance background is stated but no letters are given. Joined the Wealth Management Team in 2015; 10+ years in corporate accounting and finance, 8 years in wealth management.
 
@@ -1293,15 +1375,15 @@ Headquartered in Corpus Christi, TX (originally chartered Alice, TX, 1983). Prog
 
 ## TrustTexas Bank, SSB
 
-Headquartered in Cuero, TX — 121 E. Courthouse St. Broker-dealer: not found. Clearing and custody: not confirmed.
+Headquartered in Cuero, TX — 121 E. Courthouse St, P.O. Box 808, Cuero, TX 77954. Phone (361) 275-2345. Locally owned. Broker-dealer: not found. Clearing and custody: not confirmed.
 
 **1 of this bank's 1 named people sit in Coastal Bend & Golden Crescent (between them).**
 
-**Jay Howard** is listed as President / Chief Executive Officer, TrustTexas Bank, SSB in Cuero, TX. No CRD was obtained, and none is guessed. Licences and designations: M.Jur., MBA.
+**John D. 'Jay' Howard** is listed as President & Chief Executive Officer, TrustTexas Bank, SSB in Cuero, TX. Legal name on record: John D. Howard. No CRD was obtained, and none is guessed. Licences and designations: M.Jur., MBA.
 
-&nbsp;&nbsp;**Status: UNVERIFIED (non-registered executive role).** The only name recoverable at this bank. They are the CEO, not a wealth contact — but at a bank this size the CEO is the right first call to establish whether trust powers exist at all.
+&nbsp;&nbsp;**Status: UNVERIFIED (non-registered executive role).** NAME RECONCILED IN PASS 4: the bank's own company-history page gives JOHN D. HOWARD as President and CEO, while their professional profile reads 'Jay Howard'. Jay is a standard short form of John, both sources give the same title at the same bank, and they are recorded as one person rather than two. Still the only name recoverable at this bank.
 
-&nbsp;&nbsp;*Sources:* https://www.linkedin.com/in/jay-howard-m-jur-mba-b7a0b630/
+&nbsp;&nbsp;*Sources:* https://www.linkedin.com/in/jay-howard-m-jur-mba-b7a0b630/ · https://www.trusttexas.bank/company-history/
 
 ---
 
@@ -2163,7 +2245,7 @@ Headquartered in San Francisco, CA (corporate); Wells Fargo Advisors is run out 
 
 *People and institutions whose office city could not be pinned down, or whose role spans several regions at once. These are NOT force-assigned, because guessing a city would be worse than leaving it blank. To work them, start from the bank's own home region — most of the Frost entries here are advisors whose IAPD records gave a CRD but no city, and the Texas Regional Bank entries will sit in Harlingen, McAllen, Houston or San Antonio.*
 
-**27 named people across 6 institutions in this region.**
+**29 named people across 8 institutions in this region.**
 
 ## Cullen/Frost Bankers, Inc. — Frost Bank
 
@@ -2347,6 +2429,20 @@ Headquartered in Harlingen, TX (bank). CONTRADICTION FLAGGED: trb.bank and the b
 
 ---
 
+## Cadence Bank — ACQUIRED BY HUNTINGTON (incl. Linscomb Wealth, Houston)
+
+Headquartered in was Houston/Tupelo. Now part of The Huntington National Bank (Columbus, OH). Home region: 1. Houston Metro & Southeast Texas. Program: Linscomb Wealth (f/k/a Linscomb & Williams) — a Houston-headquartered Barron's Top-100 RIA, a Cadence subsidiary since 2012, rebranded January 2024. Texas offices: Houston, Austin, The Woodlands. Non-Texas: Birmingham, Huntsville, Atlanta. Broker-dealer: not confirmed post-merger. PLATFORM CONSEQUENCE: Huntington selected AMERIPRISE FINANCIAL SERVICES, LLC as its new retail investment program provider on 4 February 2026, moving Huntington Financial Advisors' retail brokerage, advisory and insurance onto the Ameriprise Financial Institutions Group. That changes the platform under every Huntington-owned Texas branch, including the former Cadence and Veritex footprints. Clearing and custody: not confirmed. If the Ameriprise/AFIG transition governs, clearing would be American Enterprise Investment Services — but that was NOT confirmed for these accounts and is not asserted.
+
+**1 of this bank's 15 named people sit in Unassigned — city not found or multi-region role.**
+
+**Nick Bare** is listed as Director, Wealth Advisor — ATLANTA OFFICE, OUTSIDE THE TEXAS TERRITORY in Atlanta, GA — OUT OF TERRITORY. No CRD was obtained, and none is guessed. Advisory through Linscomb Wealth, Inc. — fee-only RIA (f/k/a Linscomb & Williams), owned by The Huntington National Bank since February 2026. Office: Linscomb Wealth Atlanta office. Licences and designations: CFP(R). Focused on pre-retirees and recent retirees building lasting retirement plans. B.S. Industrial Engineering Technology, Kennesaw State University.
+
+&nbsp;&nbsp;**Status: ACTIVE.** Recorded ONLY to keep them off the Houston list. Their bio explicitly places them in Linscomb's ATLANTA office. This is also the proof that the pass-3 caveat was right — Houston cannot be assumed for a Linscomb name.
+
+&nbsp;&nbsp;*Sources:* https://linscombwealth.com/team/nick-bare/
+
+---
+
 ## Comerica Incorporated — Comerica Wealth Management — NOW PART OF FIFTH THIRD
 
 Headquartered in DALLAS, TEXAS. Comerica relocated its corporate headquarters from Detroit to Dallas in 2007, so despite the Michigan heritage this was a Texas-headquartered institution. Home region: 5. Outside the territory. Program: 'Comerica Financial Advisors, powered by Ameriprise Financial' (brand adopted at the Nov 2023 close). Comerica Asset Management (RIA) and Comerica Trust (state-chartered trust company) sit alongside. Broker-dealer: FIFTH THIRD'S OWN IN-HOUSE BROKER-DEALER — CORRECTED IN PASS 2. The Ameriprise arrangement is TERMINATED. The two Financial Planning headlines that looked contradictory are NOT a contradiction: they are three years apart and describe opposite ends of the same relationship. TIMELINE: (1) 2023 — Comerica selects Ameriprise; ~100 advisors and $18B affiliate ('Ameriprise secures $18B of client assets from Comerica Bank'). (2) 28 Oct 2025 — Fifth Third's application to acquire Comerica is filed with the Federal Reserve and trade press flags the Ameriprise relationship as at risk. (3) Feb 2026 — the acquisition closes. (4) POST-CLOSE — Comerica notified Ameriprise it would CEASE using it as investment services provider; 89 ADVISORS AND $18.5B LEFT AMERIPRISE by the end of Q3 and AMERIPRISE RECEIVED A $25 MILLION TERMINATION FEE ('Ameriprise to lose 89 advisors, $18.5B from Comerica deal'). SO: any Comerica row still showing broker-dealer = Ameriprise is WRONG. Comerica Securities, Inc. (CRD 17079) still exists as a legal entity but what business it retains is not confirmed. CAVEAT FOR A CALL: the legacy Ameriprise team page for 'Comerica Financial Advisors' (Dallas) was STILL LIVE at time of search. Treat it as a stale artifact of the terminated program, not as evidence that any Texas Comerica team remains on Ameriprise. Clearing and custody: not confirmed. Custody moved from Pershing LLC to American Enterprise Investment Services in Nov 2023, but with the Ameriprise relationship now terminated the current arrangement sits with Fifth Third and was NOT established.
@@ -2375,17 +2471,37 @@ Headquartered in Memphis, Tennessee. Home region: 5. Outside the territory. Prog
 
 ---
 
+## The Bank & Trust (Del Rio) — Westex Investment Services
+
+Headquartered in Del Rio, TX — 1200 Veterans Blvd, Del Rio, TX 78840. Founded 1910. Holding company WESTEX BANCORP, INC., created in 1980 in a one-for-one share exchange that changed the form of ownership without changing who owned it. The Texas Department of Banking charter record appears under the legal name DEL RIO BANK AND TRUST COMPANY. Home region: 3. The Mexico Border. Program: WESTEX INVESTMENT SERVICES, a DIVISION of The Bank & Trust (westexinvestments.com). Financial planning, retirement planning, investments and wealth management. Investment offices in SAN ANGELO, DEL RIO, UVALDE and BOERNE; the unit's address of record is the bank's own 1200 Veterans Blvd, Del Rio. Broker-dealer: Raymond James Financial Services, Inc. (RJFS). The bank's own language: 'The financial advisors at Westex Investment Services, a division of The Bank & Trust, offer financial products, services, and advice through Raymond James.' A DIVISION of the bank operating on a third-party BD — closer to the branch-rep model than to a pure referral arrangement. Clearing and custody: Raymond James & Associates self-clears (RJ&A). Not separately confirmed for this program.
+
+**1 of this bank's 2 named people sit in Unassigned — city not found or multi-region role.**
+
+**Erika Gonzalez** is listed as Financial advisor, Westex Investment Services in not found — one of the four Westex offices. No CRD was obtained, and none is guessed. Clearing at Raymond James & Associates self-clears (RJ&A). Not separately confirmed for this program. Email: NOT RECORDED. An aggregator renders a domain that reads 'estexinvestments.com', which is almost certainly a truncation or transcription of westexinvestments.com. A near-miss domain is not an email address and it was not reconstructed.
+
+&nbsp;&nbsp;**Status: UNVERIFIED.** Named as a financial advisor at Westex Investment Services by a single third-party aggregator, with no first-party page and no BrokerCheck title. The weakest row on this bank — verify before using. 'Erika Gonzalez' is also a high-collision name on the border.
+
+&nbsp;&nbsp;*Sources:* https://www.zoominfo.com/p/Erika-Gonzalez/3884725777 · https://www.zoominfo.com/pic/westex-investment-services/475438437
+
+---
+
 # Institutions where a program was confirmed or recorded but no names surfaced
 
-**33 institutions.** Every entry is a blank meaning "not found", never "confirmed absent". Several are the highest-value targets in the project precisely because the program is real and the roster is missing.
+**36 institutions.** Every entry is a blank meaning "not found", never "confirmed absent". Several are the highest-value targets in the project precisely because the program is real and the roster is missing.
 
 ## 1. Houston Metro & Southeast Texas
 
 ### Stellar Bank (Allegiance Bank + CommunityBank of Texas) — ACQUIRED BY PROSPERITY
 
-Headquartered in was Houston, TX. 52 banking offices. Stellar Bancorp had >$11B assets at formation; $10.807B at 12/31/2025. Texas markets: Houston, Beaumont, East Texas, Dallas. Wealth offering: Could not verify — bucket (c). Broker-dealer: not found. Clearing and custody: not confirmed. Also present in: Outside the territory.
+Headquartered in was Houston, TX. 52 banking offices. Stellar Bancorp had >$11B assets at formation; $10.807B at 12/31/2025. Texas markets: Houston, Beaumont, East Texas, Dallas. Wealth offering: YES — PASS 4 MOVES THIS OUT OF BUCKET (c). Stellar's business description includes RETAIL BROKERAGE SERVICES and TRUST AND WEALTH MANAGEMENT alongside digital banking, cards, mortgage and treasury management. The program exists; the people do not surface. Program: Not separately branded in any source reached — presented as part of Stellar Bank's service set. Broker-dealer: not found. Clearing and custody: not confirmed. Also present in: Outside the territory.
 
 > NO LONGER INDEPENDENT — TWICE OVER. Allegiance Bank and CommunityBank of Texas, N.A. merged as equals in 2023 to form Stellar Bank. Prosperity Bancshares then completed its merger with Stellar Bancorp on 1 JULY 2026 (0.3803 Prosperity shares plus $11.36 cash per Stellar share). Stellar locations continue under the STELLAR BANK NAME UNTIL OPERATIONAL INTEGRATION SCHEDULED FOR MARCH 2027, so the brand is still live in market and will mislead anyone checking casually. WEALTH: searches returned the bank's commercial focus and NO wealth management or investment services information at all. Given the commercial-bank profile a retail wealth program may never have existed — but that is unconfirmed.
+
+> PASS 4 — TWO CHANGES. FIRST, the wealth question is answered: Stellar DOES run retail brokerage plus trust and wealth management. It moves from 'could not verify either way' to bucket (a) — program confirmed, NO advisor names found. No broker-dealer is named for the brokerage side, so do not assume one.
+
+> SECOND, AND THIS IS THE PART THAT CHANGES YOUR TIMING: the Prosperity integration date is now published. STELLAR BANK'S CLOSED DATE WAS 1 JULY 2026 and Stellar locations continue to operate under the Stellar name UNTIL OPERATIONAL INTEGRATION IN MARCH 2027, when customers move to Prosperity banking centres. That is a roughly six-month window in which a Stellar-branded wealth team still exists as a distinct thing to call.
+
+> Sources: https://www.dob.texas.gov/entity-search/entity-detail?bid=9431&eid=1&bn=25 ; https://www.businesswire.com/news/home/20260422864794/en/Prosperity-Bancshares-and-Stellar-Bancorp-Announce-Receipt-of-Regulatory-Approvals-for-Prosperitys-Pending-Acquisition-of-Stellar ; https://umbrex.com/resources/company-profiles/stellar-bancorp/
 
 *Sources:* https://www.prosperitybankusa.com/wp-content/uploads/2026/07/Press-Release-Stellar-Closing-v2.pdf · https://www.stellar.bank/About/ · https://www.sec.gov/Archives/edgar/data/1473844/000110465926007183/tm264235d2_ex99-1.htm
 
@@ -2491,6 +2607,18 @@ Headquartered in RUSTON, LOUISIANA — a subsidiary of Origin Bancorp, Inc. This
 
 ---
 
+### River Oaks Trust Company / The Bank of River Oaks (Houston)
+
+Headquartered in Houston, TX. River Oaks Trust Company is a Texas Department of Banking entity with a history the record traces to 1905. The Bank of River Oaks is at 2929 Kirby Drive, Houston, TX 77098. Texas markets: Houston. Wealth offering: UNCLEAR — bucket (c). Two related-sounding Houston entities, neither researched to a conclusion. Broker-dealer: not found. Clearing and custody: not confirmed.
+
+> PASS 3 FLAGGED RIVER OAKS TRUST COMPANY AS A GENUINE GAP AND PASS 4 CONFIRMS IT IS STILL ONE. A Houston-domiciled STATE TRUST COMPANY — not a bank — sitting in the wealthiest ZIP codes in the city, with no officers, no assets and no program detail recoverable. THE BANK OF RIVER OAKS is a separate Texas Department of Banking entity at 2929 Kirby Drive with R. ANDY LANE, JR. as chief executive; whether the two are related is NOT ESTABLISHED and was not assumed.
+
+> *** NAME-COLLISION FIELD, HANDLE WITH CARE. *** 'River Oaks' is used by a long list of unrelated Houston wealth firms that are NOT banks and must not be merged into this record: River Oaks Wealth Management Group (UBS, 4400 Post Oak Parkway), Cresset's Houston office (in the River Oaks Bank Building — a building name, not an affiliation), Totus Wealth Management, U.S. Capital Wealth, and River Oaks Investment Advisors LLC. Every one of these surfaced on a single query.
+
+*Sources:* https://www.dob.texas.gov/entity-search/entity-detail?bid=426&eid=1&bn=0 · https://www.dob.texas.gov/entity-search/entity-detail?bid=9005&eid=1&bn=0
+
+---
+
 ## 2. San Antonio Metro & Hill Country
 
 ### Randolph-Brooks Federal Credit Union (RBFCU)
@@ -2525,7 +2653,21 @@ Headquartered in Mercedes, TX. Texas markets: Brownsville, Edinburg, Elsa, McAll
 
 > The bank publishes a 'Meet Our Lenders' page and a branch network but NO trust department, wealth management or investment services page was found. The officers who surfaced are all COMMERCIAL LENDING and are recorded here for completeness only — THEY ARE LENDERS, NOT WEALTH CONTACTS: Thelma Garcia (SVP Commercial Banker, Edinburg, NMLS 500499); Edna Martinez (EVP Commercial Banker, Mercedes, NMLS 516575); Janie Marroquin (AVP Commercial Banker, Mercedes, NMLS 903202).
 
+> PASS 4 — THIS BANK IS EXPANDING, WHICH CHANGES ITS PRIORITY. Texas National Bank is ACQUIRING ZAPATA NATIONAL BANK, taking the McAllen-based institution into STARR AND ZAPATA COUNTIES. A bank buying its way up the border is worth a call even though no wealth program has been confirmed — acquisitions are when trust and investment capability gets added or discovered.
+
+> Sources: https://texasnational.com/tnb-blog/texas-national-bank-to-acquire-zapata-national-bank ; https://www.rgvbusinessjournal.com/news/17/05/2026/texas-national-bank-is-buying-a-small-bank-along-the-u-s-mexico-border/
+
 *Sources:* https://texasnational.com/our-lenders · https://www.texasnational.com/ · https://texasnational.com/branch-locations/mercedes
+
+---
+
+### Zapata National Bank — BEING ACQUIRED BY TEXAS NATIONAL BANK
+
+Headquartered in Zapata, TX. Founded 1961; headquarters still in Zapata. Texas markets: Zapata and Starr counties, on the border. Wealth offering: No wealth program found — bucket (b), and a blank here means NOT FOUND rather than confirmed absent. Program: none found. Broker-dealer: none found. Clearing and custody: n/a.
+
+> Recorded because pass 3 listed Zapata National Bank as a border institution never reached. It has now been reached and the answer is: a full-service independent community bank offering commercial, real estate and personal banking, with NO trust or investment line surfacing, AND IT IS BEING ACQUIRED. Texas National Bank (Mercedes/Edinburg) is buying it to expand into Starr and Zapata counties. CLOSE THIS AS A STANDALONE TARGET and work it through Texas National Bank instead.
+
+*Sources:* https://www.zapatanationalbank.com/ · https://texasnational.com/tnb-blog/texas-national-bank-to-acquire-zapata-national-bank · https://www.rgvbusinessjournal.com/news/17/05/2026/texas-national-bank-is-buying-a-small-bank-along-the-u-s-mexico-border/
 
 ---
 
@@ -2548,6 +2690,18 @@ Headquartered in Corpus Christi, TX — 10502 Leopard St, opened 1 September 196
 > THIN SOURCING — the bank's own site was not reachable through search results at all, so this is a weak not-found rather than a searched-and-empty result. Confidence Low.
 
 *Sources:* https://www.dob.texas.gov/entity-search/entity-detail?bid=588&eid=1&bn=0
+
+---
+
+### Alice State Bank & Trust Co.
+
+Headquartered in Alice, TX. The Texas Department of Banking record describes it as dedicated to Texas banking since 1905. Texas markets: Alice and Jim Wells County, in the Coastal Bend. Wealth offering: UNCLEAR — bucket (c). THE NAME CARRIES 'TRUST' AND THAT IS THE ONLY EVIDENCE EITHER WAY. Broker-dealer: not found. Clearing and custody: not confirmed.
+
+> NEW LEAD FROM PASS 4, AND DELIBERATELY NOT UPGRADED. A 120-year-old bank in Alice with 'Trust' in its legal name is exactly the profile this territory predicts — Jim Wells County ranch and mineral money — but a trust department name in a charter is NOT a trust department. No trust page, no wealth page and no officers surfaced. Bucket (c).
+
+> CONTEXT WORTH KNOWING FOR ALICE: Prosperity Bank has an Alice location and markets trust and wealth management there, so the town is served whether or not this bank runs its own department. https://locations.prosperitybankusa.com/prosperity-bank-alice-69deaa4c5431
+
+*Sources:* https://www.dob.texas.gov/entity-search/entity-detail?bid=2494&eid=1&bn=0
 
 ---
 
@@ -2785,19 +2939,19 @@ Headquartered in Ridgeland / Jackson, Mississippi. Texas markets: NONE IN TEXAS 
 
 | Region | Named people |
 |---|---|
-| 1. Houston Metro & Southeast Texas | 67 |
+| 1. Houston Metro & Southeast Texas | 73 |
 | 2. San Antonio Metro & Hill Country | 62 |
-| 3. The Mexico Border | 13 |
+| 3. The Mexico Border | 18 |
 | 4. Coastal Bend & Golden Crescent (between them) | 15 |
 | 5. Outside the territory | 104 |
-| Unassigned — city not found or multi-region role | 27 |
-| **Total** | **288** |
+| Unassigned — city not found or multi-region role | 29 |
+| **Total** | **301** |
 
 | Status | People |
 |---|---|
-| ACTIVE | 105 |
-| UNVERIFIED | 149 |
+| ACTIVE | 113 |
+| UNVERIFIED | 154 |
 | LIKELY STALE | 8 |
 | UNRESOLVED | 26 |
 
-Across 78 institutions, of which 45 produced named people and 33 did not.
+Across 83 institutions, of which 47 produced named people and 36 did not.
