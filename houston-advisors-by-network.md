@@ -2,11 +2,11 @@
 
 Compiled 2026-09-11, pass 4. **Every city verified against the nine-county Houston MSA.** Live sortable version: https://claude.ai/code/artifact/a83f3398-4b38-4e57-9348-26d72066edb6
 
-**Approved BDs:** Ameriprise, Osaic, Cetera (incl. Avantax and Carson), Kestra/Bluespring, NewEdge, Sanctuary. Plus two flagged judgment calls, USCA Securities and Concurrent.
+**Approved BDs:** Ameriprise, Osaic, Cetera (incl. Avantax and Carson), Kestra/Bluespring, NewEdge, Sanctuary. Plus one flagged judgment call, USCA Securities.
 
 **Excluded:** LPL, Raymond James, Northwestern Mutual, Equitable, Cambridge, Commonwealth, Hightower, Corebridge, and every fee-only RIA with no broker-dealer affiliation.
 
-33 teams. Three were cut this pass for failing the city check, detailed at the bottom.
+32 teams. Concurrent removed at your request. Three were cut this pass for failing the city check, detailed at the bottom.
 
 ## Verification status — read this first
 
@@ -86,13 +86,12 @@ Run every name through BrokerCheck before outreach. That is about a minute per a
 
 **Osaic branch addresses (BrokerCheck):** 15915 Katy Fwy Ste 165 (77094) · 4550 Post Oak Place Ste 228 (77027) · 1300 Bay Area Blvd Ste B150-14 (77058) · 4848 Loop Central Dr Ste 1005 (77081)
 
-## Flagged — your call on whether these count
+## Flagged — your call on whether this counts
 
 | Team | People | Location | AUM | Issue |
 |---|---|---|---|---|
 | U.S. Capital Wealth — River Oaks | Todd Lavergne, Nicholas Erwin (CFP), Ryan Ringuet, Wren Ripoll (CFP), Josh LaVergne, Brad Miller | Houston | — | Clears through USCA Securities, the firm's own captive BD rather than a third-party independent. Six named advisors, highest density on the board. |
 | U.S. Capital Wealth — Medical Center | Roster not public | Houston | — | Same issue. Physician and medical-executive book. |
-| Post Oak Wealth Partners | Rob Wyrick | Houston | **$250M** | Joined Concurrent through an RIA program; could not confirm whether BD-registered through Concurrent Securities or advisory-only. |
 
 ---
 
@@ -131,3 +130,24 @@ One caveat on a team that stayed: **Wilson Wealth Advisors** also runs an office
 The screen exists and is free. **Forbes Best-in-State Wealth Management Teams** ranks 6,100 teams overseeing $8.3T, with AUM as an explicit ranking criterion, so every entry is a pre-qualified large book. Filter by state on forbes.com, then by Houston-metro city, then to the approved BDs. Ameriprise publishes its own cut naming all 478 of its 2026 teams and 643 individual advisors as PDFs on its IR site. Barron's Top 1200 by state works the same way.
 
 forbes.com list pages, the Ameriprise IR PDFs, barrons.com, BrokerCheck and IAPD are all blocked by this environment's network policy — each confirmed by direct test. Hand over the Texas slice as a file or paste and the matching, city verification and enrichment can be done against everything already here.
+
+
+---
+
+## Getting past 32: `pull_houston_advisors.py`
+
+The blocker on volume is that the BD advisor directories list every Houston advisor, and every one of them is egress-blocked from the Claude Code sandbox. They are not blocked from your machine.
+
+`pull_houston_advisors.py` in this repo hits the Ameriprise, Cetera, Osaic and Kestra directories across 46 Houston-metro cities and ZIPs, extracts practice names and street addresses, filters to the nine-county MSA by ZIP, dedupes, and writes `houston_advisors.csv`.
+
+```
+python3 pull_houston_advisors.py              # all four BDs
+python3 pull_houston_advisors.py --bd osaic   # one at a time
+python3 pull_houston_advisors.py --debug      # saves raw HTML for QA
+```
+
+No pip installs needed. Uses bs4 if present, stdlib otherwise.
+
+**Tested:** the MSA filter, the address parser and the CSV writer all run correctly against fixtures — the filter correctly rejects Southlake 76092, which is the exact error that put Carpion on this list by mistake. **Not tested:** the live directory URLs and their markup, because they are unreachable from here. If a BD returns zero rows, run with `--debug` and send me a file from `debug_html/`; if the directory renders results via JavaScript the fix is to point the script at the JSON endpoint behind it, which the browser Network tab will show in about a minute.
+
+Send me the CSV and the matching, city verification and enrichment gets done against everything already in this file.
