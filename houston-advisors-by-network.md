@@ -1,12 +1,12 @@
 # Houston Advisors at Approved Independent Broker-Dealers
 
-Compiled 2026-09-11, pass 3. Live sortable version: https://claude.ai/code/artifact/a83f3398-4b38-4e57-9348-26d72066edb6
+Compiled 2026-09-11, pass 4. **Every city verified against the nine-county Houston MSA.** Live sortable version: https://claude.ai/code/artifact/a83f3398-4b38-4e57-9348-26d72066edb6
 
 **Approved BDs:** Ameriprise, Osaic, Cetera (incl. Avantax and Carson), Kestra/Bluespring, NewEdge, Sanctuary. Plus two flagged judgment calls, USCA Securities and Concurrent.
 
 **Excluded:** LPL, Raymond James, Northwestern Mutual, Equitable, Cambridge, Commonwealth, Hightower, Corebridge, and every fee-only RIA with no broker-dealer affiliation.
 
-36 teams.
+33 teams. Three were cut this pass for failing the city check, detailed at the bottom.
 
 ## Verification status — read this first
 
@@ -27,14 +27,12 @@ Run every name through BrokerCheck before outreach. That is about a minute per a
 | Team | People | Location | AUM | Evidence |
 |---|---|---|---|---|
 | **NewEdge Wealth — Houston** | Jeffrey Thompson, Shannon Willems (MD); Sara DeJay Willis (VP); 3 CSAs | Houston | **$2.2B** | Announcement — Aug 2026 launch, ex-Bernstein |
-| NewEdge Advisors — Lone Star Partners | Roster not public | Texas | — | Firm disclosure — NewEdge subdomain. Confirm city. |
 
 ## Sanctuary Securities
 
 | Team | People | Location | AUM | Evidence |
 |---|---|---|---|---|
 | **Chappell Wealth Management** | Brent Chappell (CFP, CIMA), Brad Chappell (CIMA), Michael Mills (CFP), Spencer Carlson (CFA) | The Woodlands | **$1.5B** | Announcement — Feb 2023 partner firm, ex-Merrill |
-| Carpion Private Wealth | Roster not public | Texas, city unconfirmed | **$800M** | Announcement — Sanctuary's 15th Texas partner firm |
 
 ## Kestra Investment Services / Bluespring
 
@@ -51,7 +49,7 @@ Run every name through BrokerCheck before outreach. That is about a minute per a
 | Carson Wealth — The Woodlands | Carson Greathouse, Annette Hargis (CPA) | 1780 Hughes Landing Blvd Ste 570, 77380 | — | Firm disclosure — Carson clears through Cetera Advisor Networks |
 | Cetera Planning Partners — Houston | Roster not public | 6019 Schuler St, 77007 | — | Firm disclosure |
 | HCJ CPAs & Advisors | Roster not public | Houston | — | Firm disclosure — Avantax Planning Partners |
-| Davis & Associates CPA Firm | Roster not public | Houston metro | — | Firm disclosure — Avantax Planning Partners |
+| Davis & Associates CPA Firm | 18 employees | Baytown, 2707 W Baker Rd 77521 | — | Firm disclosure — Avantax Planning Partners since 2023. Baytown is Harris County, in-MSA. |
 
 ## Ameriprise Financial Services
 
@@ -85,7 +83,6 @@ Run every name through BrokerCheck before outreach. That is about a minute per a
 | **Michael Stewart / Osaic Wealth Houston** | Michael Stewart (40+ yrs), Steve Baker, Susan Carrigan | 4550 Post Oak Place Ste 228, 77027 | **BrokerCheck** — CRD 4149876 shows Steven Baker at Osaic Wealth |
 | Advisors Financial Group | Multi-person Associates roster | 4848 Loop Central Dr Ste 1005, 77081 | Firm disclosure; @osaicfs.com email |
 | Schamerhorn Financial Group | Roster not public | Houston | Firm disclosure |
-| Fordrix Advisors | Roster not public | Houston metro | Firm disclosure |
 
 **Osaic branch addresses (BrokerCheck):** 15915 Katy Fwy Ste 165 (77094) · 4550 Post Oak Place Ste 228 (77027) · 1300 Bay Area Blvd Ste B150-14 (77058) · 4848 Loop Central Dr Ste 1005 (77081)
 
@@ -117,3 +114,20 @@ Refilling to 50 means more passes, not re-adding the above.
 1. **Current-registration verification for all 36.** Needs BrokerCheck access. The `brokercheck-verifier` skill does this cleanly in a session that can reach FINRA.
 2. **Rosters for the 24 teams showing "not public."** Advisor count is the only team-size proxy available without a licensed database.
 3. **Commonwealth departures landing at approved firms.** Kestra took ~130 Commonwealth advisors in 2025; Osaic and Cetera took more. A Houston Commonwealth team that repapers to Kestra or Osaic becomes a prospect the day it moves. Worth re-checking quarterly.
+
+
+---
+
+## Cut this pass for failing the Houston-metro check
+
+- **Carpion Private Wealth** ($800M, Sanctuary) — Southlake TX (601 State St Ste 220) and Midland. DFW, not Houston.
+- **NewEdge Advisors Lone Star Partners** ($1.3B, founded 1994; Joshua Cavett, Jeff Cavett, Angie White, Ellen Reynard) — Beaumont TX, 2925 Toccoa Rd. Beaumont-Port Arthur MSA, about 85 miles east. Worth knowing as an adjacent-market team but it is not Houston.
+- **Fordrix Advisors** (Osaic) — Tucson, Arizona. Registered in Texas among other states, which is what put it on the board. Not a Houston firm.
+
+One caveat on a team that stayed: **Wilson Wealth Advisors** also runs an office in Silverthorne, Colorado. Its Webster and Bellaire offices are the in-market ones.
+
+## The path to 100 screened teams
+
+The screen exists and is free. **Forbes Best-in-State Wealth Management Teams** ranks 6,100 teams overseeing $8.3T, with AUM as an explicit ranking criterion, so every entry is a pre-qualified large book. Filter by state on forbes.com, then by Houston-metro city, then to the approved BDs. Ameriprise publishes its own cut naming all 478 of its 2026 teams and 643 individual advisors as PDFs on its IR site. Barron's Top 1200 by state works the same way.
+
+forbes.com list pages, the Ameriprise IR PDFs, barrons.com, BrokerCheck and IAPD are all blocked by this environment's network policy — each confirmed by direct test. Hand over the Texas slice as a file or paste and the matching, city verification and enrichment can be done against everything already here.
