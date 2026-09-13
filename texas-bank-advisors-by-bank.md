@@ -4,7 +4,19 @@ Compiled 2026-09-07. Advisor-level pass over the Texas bank programs confirmed i
 
 **36 named people across 9 banks**, up from 5 at the end of the bank-level pass.
 
-**Same environment constraint.** FINRA BrokerCheck, SEC IAPD and FDIC are blocked; bank sites cannot be fetched directly. Everything here came through web search. **No CRD was captured for any Texas advisor** and no registration is verified. Run BrokerCheck before calling.
+**Same environment constraint.** FINRA BrokerCheck, SEC IAPD and FDIC are blocked; bank sites cannot be fetched directly. Everything here came through web search. No registration is verified against an actual report. Run BrokerCheck before calling.
+
+**CRD pass, 2026-09-13.** A second attempt at FINRA access failed again, so the lookups were run through search of the FINRA and SEC record pages instead. **Five CRDs captured**, where Texas previously had none:
+
+| Person | Bank | CRD | Note |
+|---|---|---|---|
+| Jim Brown (James Marcus Brown) | Texas Capital | **1215292** | Registered with Texas Capital Bank Private Wealth Advisors as of 05/03/2025. **Joined April 2025** after 20 years at Wells Fargo Private Bank as a Senior Private Wealth Portfolio Manager |
+| Laurie Wieters | Frost | **1460584** | 39 years in the industry, Series 63 and 66, with Frost Investment Services since 2017 |
+| Ashley Ferguson, CWS | Frost | **5667123** | Prior: Frost Brokerage Services, Frost National Bank |
+| Michael Hanson | Prosperity | **2750146**, ambiguous | Surfaced as John Michael Hanson, Investment Adviser at Raymond James Financial Services Advisors. A separate Michael D Hanson exists at CRD 5417580. Confirm which |
+| Ronald Folwell | Woodforest | **2128911** | Record reads "not currently registered **as a broker**." That fits his role — he joined Woodforest as a **corporate RIA-affiliated** advisor, so he sits on IAPD, not BrokerCheck. Do not read it as retired. Began 1991 at Ameriprise (23 yrs), United Capital from 2014 |
+
+**Jim Brown is now the single best Texas target.** He is a portfolio manager who only arrived in April 2025 and is building at a firm with $4.2B. New seat, new book, and he selects holdings.
 
 ---
 
